@@ -4,7 +4,7 @@
 
 <!-- 스택 icon -->
 
-<h4 align="center">🛠 Skill Stack</h4>
+<h3 align="center">🛠 Skill Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -23,11 +23,8 @@
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
 
-<!-- 카운터 -->
-<p align="center"> ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fis2js.github.io%2Fblog_raw&count_bg=152447&title_bg=f6ebe1&icon_color=%23E1DFDF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)</p>
-
 <!-- 연락처 -->
-<h4 align="center">👋 Contanct Me!  </h4>
+<h3 align="center">👋 Contanct Me!  </h3>
 
 <p align="center">
     <a href="mailto:tingstyle1@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tingstyle1@gmail.com"/></a>&nbsp
