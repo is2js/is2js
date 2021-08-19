@@ -1,6 +1,6 @@
 <!-- 헤더 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=f6ebe1&height=150&section=header&text=DataEngineer&nbspand&nbspKMD&fontSize=50&fontColor=152447&desc=데이터&nbsp엔지니어를&nbsp꿈꾸는&nbsp한의사,&nbsp조재성입니다.&descAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f6ebe1&height=150&section=header&text=DataEngineer%20and%20K.M.D&fontSize=50&fontColor=152447&desc=데이터%20엔지니어를%20꿈꾸는%20한의사,%20조재성입니다.&descAlignY=80)
 
 <!-- 스택 icon -->
 
