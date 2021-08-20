@@ -4,7 +4,7 @@
 
 <!-- 스택 icon -->
 
-<h3 align="center">🛠 Skill Stack</h3>
+<h2 align="center">🛠 Skill Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -24,7 +24,7 @@
 </p>
 
 <!-- 연락처 -->
-<h3 align="center">👋 Contanct Me!  </h3>
+<h2 align="center">👋 Contanct Me!  </h2>
 
 <p align="center">
     <a href="mailto:tingstyle1@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tingstyle1@gmail.com"/></a>&nbsp
@@ -34,4 +34,4 @@
 
 <!-- 푸터 -->
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=152447&height=20&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=rect&color=152447&height=40&section=footer)
