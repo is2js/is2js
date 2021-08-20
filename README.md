@@ -28,8 +28,8 @@
 
 <p align="center">
     <a href="mailto:tingstyle1@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tingstyle1@gmail.com"/></a>&nbsp
-    <a href="https://www.facebook.com/tingstyle1"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>&nbsp
-    <a href="https://www.github.com/is2js"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>&nbsp 
+    <a href="https://www.facebook.com/tingstyle1"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+    <a href="https://www.github.com/is2js"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 <!-- 푸터 -->
