@@ -4,10 +4,15 @@
 
 ### Hi! I'm Jaeseong Cho [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmori8&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 🌱 I’m currently learning backend with `flask`, pipeline with `airflow`, datascience with `NLP`
-- 👨‍⚕️ I'm majored in Korean Oriental Medicine, at Dongshin University and  🚑 worked in CY, KANGNAM Mokhuri Oriental Hospital
+- 🌱 I’m currently learning 
+  - Backend with `flask`, `fastapi` and 
+  - Pipeline, Infra with `airflow`, `PySpark` on `Ncloud`, `GCP`
+  - DataScience with `NLP` 
+  - SQL <-> SQLAlchemy with `PostgresSQL` on `Bigquery`
+- 👨‍⚕️ I'm Korean Oriental Medicine graduated at Dongshin University 
+  - 🚑 worked in ChungYeong and Gangnam Mokhuri Oriental Hospital.
 - 📫 How to reach me: tingstyle1@gmail.com
-- 🧐 My personal blog: https://nittaku.tistory.com (closed) -> https://is2js.github.io/blog_raw/
+- 🧐 My personal blog: https://is2js.github.io/blog_raw/ (<- ~~https://nittaku.tistory.com~~(closed))
 
 ### Experiences
 
@@ -17,7 +22,7 @@
 - 🎖 한국지도자육성장학회 장학생(Sookmyung ICPC Club) (2020.4 ~ )
 
 
-### My Github Stats and Algorithm(PS) Tier
+### My Github Stats and Problem Solove(Algorithm) Tier in BOJ
 
 <a href="#">
 <!--   graywhite or nord theme -->
