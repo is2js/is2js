@@ -5,39 +5,34 @@
 ### Hi! I'm Jaeseong Cho [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmori8&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 🌱 I’m currently learning backend with `flask`, pipeline with `airflow`, datascience with `NLP`
-- 👨‍⚕️ I'm majored in Korean Oriental Medicine, at Dongshin University and worked in CY, KANGNAM Mokhuri Oriental Hospital
+- 👨‍⚕️ I'm majored in Korean Oriental Medicine, at Dongshin University and  🚑 worked in CY, KANGNAM Mokhuri Oriental Hospital
 - 📫 How to reach me: tingstyle1@gmail.com
 - 🧐 My personal blog: https://nittaku.tistory.com (closed) -> https://is2js.github.io/blog_raw/
-
 
 ### Experiences
 
 - ❄️ [빅데이터 청년인재](https://www.facebook.com/dscsookmyung/) Lead (2021.8 ~ )
 - 💚 [ICPC Sinchon](http://icpc-sinchon.github.io/) Organizer (2020.7 ~ 2021.8)
-- ❄️ [GDSC Sookmyung](https://www.facebook.com/dscsookmyung/) Core Member (2020.9 ~ 2021.7)
 - 🧬 [SNU BioInfomatics Lab](http://bioinfo.sookmyung.ac.kr/) Intern (2021.6 ~ 2021.7)
-- 🎖 한국지도자육성 장학회(Sookmyung ICPC Club) (2020.4 ~ )
-- 🐧 Vice President of [SOLUX](https://sm-solux.github.io/) (2020.3 ~ 2021.2)
+- 🎖 한국지도자육성장학회 장학생(Sookmyung ICPC Club) (2020.4 ~ )
 
 
-<hr>
-
-### My Github Stats
+### My Github Stats and BOJ(Solved.Ac) Tier
 
 <a href="#">
 <!--   graywhite -->
   <img src="https://github-readme-stats.vercel.app/api?username=is2js&theme=nord&show_icons=true" height="180px">
 </a>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=is2js&theme=nord&layout=compact" height="180px">
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=is2js&theme=nord&layout=compact" height="180px"> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=is2js&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px"> -->
+    <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=tingstyle1&cache=c">
 </a>
 
-### Solved.ac Tier
+<!-- ### Solved.ac Tier
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=tingstyle1&cache=c">
 </p>
-
+ -->
 <!-- 스택 icon -->
 
 <h2 align="center">🛠 Skill Stack</h2>
