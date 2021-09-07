@@ -11,7 +11,18 @@
   - **SQL** <-> **SQLAlchemy** with `PostgresSQL`, `Mysql` on `Bigquery`
 - 👨‍⚕️ I'm Korean Oriental Medicine graduated at Dongshin University 
   - 🚑 worked in ChungYeong and Gangnam Mokhuri Oriental Hospital.
-- 🧐 My blog: https://is2js.github.io/blog_raw/ (<- ~~https://nittaku.tistory.com~~(closed))
+- 🧐 My blog: https://is2js.github.io/blog_raw/ <- ~~https://nittaku.tistory.com~~ (closed)
+
+#### My Git and Algorithm Solving Tier
+<p align="center">
+  <a href="#">
+    <!--   graywhite or nord theme -->
+      <img src="https://github-readme-stats.vercel.app/api?username=is2js&theme=graywhite&show_icons=true" height="150px">
+  </a>
+  <a href="#">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tingstyle1&cache=c" height="150px">
+  </a>
+</p>
 
 #### 자격
 - Korean Oriental Medicine(한의사) 및 General training(일반수련의)
@@ -24,15 +35,7 @@
 - 고려대학교 빅데이터 청년인재 우수상(교내 2위)
 - 동신대학교 창업동아리 경진대회 최우수상(1위)
 
-<p align="center">
-  <a href="#">
-    <!--   graywhite or nord theme -->
-      <img src="https://github-readme-stats.vercel.app/api?username=is2js&theme=graywhite&show_icons=true" height="150px">
-  </a>
-  <a href="#">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tingstyle1&cache=c" height="150px">
-  </a>
-</p>
+
 
 
 #### Experiences 
