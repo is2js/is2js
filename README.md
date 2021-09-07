@@ -5,16 +5,20 @@
 ### Hi! I'm Jaeseong Cho [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmori8&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 🌱 I’m currently learning 
-  - Backend with `flask`, `fastapi` and 
-  - Pipeline, Infra with `airflow`, `PySpark` on `Ncloud`, `GCP`
-  - DataScience with `NLP` 
-  - SQL <-> SQLAlchemy with `PostgresSQL` on `Bigquery`
+  - **Backend** with `flask`, `fastapi` and 
+  - **Pipeline and Infra** with `airflow`, `PySpark` on `Ncloud`, `GCP`
+  - **DataScience** with `NLP` 
+  - **SQL** <-> **SQLAlchemy** with `PostgresSQL` on `Bigquery`
 - 👨‍⚕️ I'm Korean Oriental Medicine graduated at Dongshin University 
   - 🚑 worked in ChungYeong and Gangnam Mokhuri Oriental Hospital.
-- 📫 How to reach me: tingstyle1@gmail.com
-- 🧐 My personal blog: https://is2js.github.io/blog_raw/ (<- ~~https://nittaku.tistory.com~~(closed))
-- ddd
+- 🧐 My blog: https://is2js.github.io/blog_raw/ (<- ~~https://nittaku.tistory.com~~(closed))
 
+### 수상/자격/논문
+- Engineer Information Processing(정보처리기사)
+- Adsp
+- Sqld
+- 고려대학교 빅데이터 청년인재 우수상(교내 2위)
+- 
 
 <p align="center">
   <a href="#">
@@ -27,29 +31,14 @@
 </p>
 
 
-### Experiences
+### Experiences 
 
 - ❄️ [빅데이터 청년인재](https://www.facebook.com/dscsookmyung/) Lead (2021.8 ~ )
 - 💚 [ICPC Sinchon](http://icpc-sinchon.github.io/) Organizer (2020.7 ~ 2021.8)
 - 🧬 [SNU BioInfomatics Lab](http://bioinfo.sookmyung.ac.kr/) Intern (2021.6 ~ 2021.7)
 - 🎖 한국지도자육성장학회 장학생(Sookmyung ICPC Club) (2020.4 ~ )
 
-<!-- 
-### My Github Stats and Problem Solove(Algorithm) Tier in BOJ
- -->
-<a href="#">
-<!--   graywhite or nord theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=is2js&theme=graywhite&show_icons=true" height="150px">
-</a>
-<a href="#">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=is2js&theme=nord&layout=compact" height="120px"> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=is2js&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="120px"> -->
-  
-<!--   https://github.com/mazassumnida/mazassumnida -->
-<!--     <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=tingstyle1&cache=c" height="150px"> -->
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tingstyle1&cache=c" height="150px">
-  
-</a>
+
 
 <!-- ### Solved.ac Tier
 <p align="center">
