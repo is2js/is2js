@@ -17,11 +17,11 @@
 - 🎖 한국지도자육성장학회 장학생(Sookmyung ICPC Club) (2020.4 ~ )
 
 
-### My Github Stats and BOJ(Solved.Ac) Tier
+### My Github Stats and BOJ Tier
 
 <a href="#">
 <!--   graywhite -->
-  <img src="https://github-readme-stats.vercel.app/api?username=is2js&theme=nord&show_icons=true" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api?username=is2js&theme=nord&show_icons=true" height="170px">
 </a>
 <a href="#">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=is2js&theme=nord&layout=compact" height="180px"> -->
