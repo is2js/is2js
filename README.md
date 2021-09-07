@@ -13,6 +13,19 @@
   - 🚑 worked in ChungYeong and Gangnam Mokhuri Oriental Hospital.
 - 📫 How to reach me: tingstyle1@gmail.com
 - 🧐 My personal blog: https://is2js.github.io/blog_raw/ (<- ~~https://nittaku.tistory.com~~(closed))
+- ddd
+
+
+<p align="center">
+  <a href="#">
+    <!--   graywhite or nord theme -->
+      <img src="https://github-readme-stats.vercel.app/api?username=is2js&theme=graywhite&show_icons=true" height="150px">
+  </a>
+  <a href="#">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tingstyle1&cache=c" height="150px">
+  </a>
+</p>
+
 
 ### Experiences
 
@@ -21,9 +34,9 @@
 - 🧬 [SNU BioInfomatics Lab](http://bioinfo.sookmyung.ac.kr/) Intern (2021.6 ~ 2021.7)
 - 🎖 한국지도자육성장학회 장학생(Sookmyung ICPC Club) (2020.4 ~ )
 
-
+<!-- 
 ### My Github Stats and Problem Solove(Algorithm) Tier in BOJ
-
+ -->
 <a href="#">
 <!--   graywhite or nord theme -->
   <img src="https://github-readme-stats.vercel.app/api?username=is2js&theme=graywhite&show_icons=true" height="150px">
