@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning 
   - **Backend** with `flask`, `fastapi` and 
-  - **Pipeline and Infra** with `airflow`, `PySpark` on `Ncloud`, `GCP`
-  - **DataScience** with `NLP` 
-  - **SQL** <-> **SQLAlchemy** with `PostgresSQL` on `Bigquery`
+  - **Pipeline and Infra** with `airflow`, `PySpark` in `Docker` on `Ncloud`, `GCP`
+  - **DataScience/DataAnalysis** with `Pandas`, `NLP` by `TF2.0` and `Keras`
+  - **SQL** <-> **SQLAlchemy** with `PostgresSQL`, `Mysql` on `Bigquery`
 - 👨‍⚕️ I'm Korean Oriental Medicine graduated at Dongshin University 
   - 🚑 worked in ChungYeong and Gangnam Mokhuri Oriental Hospital.
 - 🧐 My blog: https://is2js.github.io/blog_raw/ (<- ~~https://nittaku.tistory.com~~(closed))
