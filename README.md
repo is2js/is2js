@@ -17,15 +17,15 @@
 - 🎖 한국지도자육성장학회 장학생(Sookmyung ICPC Club) (2020.4 ~ )
 
 
-### My Github Stats and BOJ Tier
+### My Github Stats and Algorithm(PS) Tier
 
 <a href="#">
 <!--   graywhite or nord theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=is2js&theme=graywhite&show_icons=false" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api?username=is2js&theme=graywhite&show_icons=true" height="120px">
 </a>
 <a href="#">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=is2js&theme=nord&layout=compact" height="180px"> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=is2js&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px"> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=is2js&theme=nord&layout=compact" height="120px"> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=is2js&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="120px"> -->
     <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=tingstyle1&cache=c">
 </a>
 
