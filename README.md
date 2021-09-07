@@ -20,8 +20,8 @@
 ### My Github Stats and BOJ Tier
 
 <a href="#">
-<!--   graywhite -->
-  <img src="https://github-readme-stats.vercel.app/api?username=is2js&theme=nord&show_icons=true" height="170px">
+<!--   graywhite or nord theme -->
+  <img src="https://github-readme-stats.vercel.app/api?username=is2js&theme=graywhite&show_icons=false" height="170px">
 </a>
 <a href="#">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=is2js&theme=nord&layout=compact" height="180px"> -->
