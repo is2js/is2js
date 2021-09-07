@@ -21,12 +21,16 @@
 
 <a href="#">
 <!--   graywhite or nord theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=is2js&theme=graywhite&show_icons=true" height="120px">
+  <img src="https://github-readme-stats.vercel.app/api?username=is2js&theme=graywhite&show_icons=true" height="150px">
 </a>
 <a href="#">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=is2js&theme=nord&layout=compact" height="120px"> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=is2js&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="120px"> -->
-    <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=tingstyle1&cache=c">
+  
+<!--   https://github.com/mazassumnida/mazassumnida -->
+<!--     <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=tingstyle1&cache=c" height="150px"> -->
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tingstyle1&cache=c" height="150px">
+  
 </a>
 
 <!-- ### Solved.ac Tier
