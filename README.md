@@ -13,12 +13,16 @@
   - 🚑 worked in ChungYeong and Gangnam Mokhuri Oriental Hospital.
 - 🧐 My blog: https://is2js.github.io/blog_raw/ (<- ~~https://nittaku.tistory.com~~(closed))
 
-### 수상/자격/논문
+#### 자격
+- Korean Oriental Medicine(한의사) 및 General training(일반수련의)
 - Engineer Information Processing(정보처리기사)
-- Adsp
-- Sqld
+- Adsp(데이터분석 준 전문가)
+- Sqld(SQL 개발자)
+
+#### 수상
+- 동신대학교 한의학과 최우수 졸업(수석졸업)
 - 고려대학교 빅데이터 청년인재 우수상(교내 2위)
-- 
+- 동신대학교 창업동아리 경진대회 최우수상(1위)
 
 <p align="center">
   <a href="#">
@@ -31,7 +35,7 @@
 </p>
 
 
-### Experiences 
+#### Experiences 
 
 - ❄️ [빅데이터 청년인재](https://www.facebook.com/dscsookmyung/) Lead (2021.8 ~ )
 - 💚 [ICPC Sinchon](http://icpc-sinchon.github.io/) Organizer (2020.7 ~ 2021.8)
