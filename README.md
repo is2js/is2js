@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=f6ebe1&height=150&section=header&text=DataEngineer%20and%20K.M.D&fontSize=50&fontColor=152447&desc=데이터%20엔지니어를%20꿈꾸는%20한의사,%20조재성입니다.&descAlignY=80)
 
-## � Hi! I'm ChoJaeeong [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmori8&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### Hi! I'm Jaeseong Cho [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmori8&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 🌱 I’m currently learning backend with `flask`, pipeline with `airflow`, datascience with `NLP`
 - 👨‍⚕️ I'm majored in Korean Oriental Medicine, at Dongshin University and worked in CY, KANGNAM Mokhuri Oriental Hospital
@@ -12,7 +12,6 @@
 
 ### Experiences
 
-- 
 - ❄️ [빅데이터 청년인재](https://www.facebook.com/dscsookmyung/) Lead (2021.8 ~ )
 - 💚 [ICPC Sinchon](http://icpc-sinchon.github.io/) Organizer (2020.7 ~ 2021.8)
 - ❄️ [GDSC Sookmyung](https://www.facebook.com/dscsookmyung/) Core Member (2020.9 ~ 2021.7)
@@ -26,10 +25,11 @@
 ### My Github Stats
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=is2js8&theme=react&show_icons=true" height="180px">
+<!--   graywhite -->
+  <img src="https://github-readme-stats.vercel.app/api?username=is2js&theme=nord&show_icons=true" height="180px">
 </a>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=is2js&theme=react&layout=compact" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=is2js&theme=nord&layout=compact" height="180px">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=is2js&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px"> -->
 </a>
 
