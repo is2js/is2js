@@ -24,26 +24,26 @@
   </a>
 </p>
 
-#### 자격
+#### Certificates
+- **Tensorflow 2.0 Developer**
 - Korean Oriental Medicine(한의사) 및 General training(일반수련의)
-- Engineer Information Processing(정보처리기사)
-- Adsp(데이터분석 준 전문가)
-- Sqld(SQL 개발자)
-
-#### 수상
-- 동신대학교 한의학과 최우수 졸업(수석졸업)
-- 고려대학교 빅데이터 청년인재 우수상(교내 2위)
-- 동신대학교 창업동아리 경진대회 최우수상(1위)
-
-
-
+- **Engineer Information Processing(정보처리기사)**
+- **Adsp(데이터분석 준 전문가)**
+- **Sqld(SQL 개발자)**
 
 #### Experiences 
-
 - ❄️ [빅데이터 청년인재](https://www.facebook.com/dscsookmyung/) Lead (2021.8 ~ )
 - 💚 [ICPC Sinchon](http://icpc-sinchon.github.io/) Organizer (2020.7 ~ 2021.8)
 - 🧬 [SNU BioInfomatics Lab](http://bioinfo.sookmyung.ac.kr/) Intern (2021.6 ~ 2021.7)
 - 🎖 한국지도자육성장학회 장학생(Sookmyung ICPC Club) (2020.4 ~ )
+
+#### 수상
+- 동신대학교 한의학과 최우수 졸업(수석졸업)
+- **고려대학교 빅데이터 청년인재 우수상(교내 2위)**
+- 동신대학교 창업동아리 경진대회 최우수상(1위)
+
+
+
 
 
 
