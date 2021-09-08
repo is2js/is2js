@@ -2,18 +2,20 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=f6ebe1&height=150&section=header&text=DataEngineer%20and%20K.M.D&fontSize=50&fontColor=152447&desc=데이터%20엔지니어를%20꿈꾸는%20한의사,%20조재성입니다.&descAlignY=80)
 
-### Hi! I'm Jaeseong Cho [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmori8&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 👋 Hi! I'm Jaeseong Cho [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fis2js.github.io%2Fblog_raw&count_bg=152447&title_bg=f6ebe1&icon_color=%23E1DFDF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false](https://hits.seeyoufarm.com)
 
-- 🌱 I’m currently learning 
-  - **Backend** with `flask`, `fastapi` and 
+- 🌱 I’m currently learning about
+  - **Backend** with `flask`, `fastapi` 
   - **Pipeline and Infra** with `airflow`, `PySpark` in `Docker` on `Ncloud`, `GCP`
   - **DataScience/DataAnalysis** with `Pandas`, `NLP` by `TF2.0` and `Keras`
-  - **SQL** <-> **SQLAlchemy** with `PostgreSQL`, `Mysql` on `Bigquery` or `Docker`
+  - **SQL** <-> **SQLAlchemy** with `PostgreSQL`, `MySQL` on `Bigquery` or `Docker`
+
 - 👨‍⚕️ I'm Korean Oriental Medicine graduated at Dongshin University 
-  - 🚑 worked in ChungYeong and Gangnam Mokhuri Oriental Hospital.
+  - worked in [CY](http://www.cyhani.com/) and [GangNam Mokhuri](https://www.mokhuri.com/) Oriental Hospitals
+
 - 🧐 My blog: https://is2js.github.io/blog_raw/ <- ~~https://nittaku.tistory.com~~ (closed)
 
-#### My Git and Algorithm Solving Tier
+### My Git and Algorithm Solving Tier
 <p align="center">
   <a href="#">
     <!--   graywhite or nord theme -->
@@ -24,20 +26,20 @@
   </a>
 </p>
 
-#### Certificates
+### Certificates
 - **Tensorflow 2.0 Developer**
 - Korean Oriental Medicine(한의사) 및 General training(일반수련의)
 - **Engineer Information Processing(정보처리기사)**
 - **Adsp(데이터분석 준 전문가)**
 - **Sqld(SQL 개발자)**
 
-#### Experiences 
+### Experiences 
 - ❄️ [빅데이터 청년인재](https://www.facebook.com/dscsookmyung/) Lead (2021.8 ~ )
 - 💚 [ICPC Sinchon](http://icpc-sinchon.github.io/) Organizer (2020.7 ~ 2021.8)
 - 🧬 [SNU BioInfomatics Lab](http://bioinfo.sookmyung.ac.kr/) Intern (2021.6 ~ 2021.7)
 - 🎖 한국지도자육성장학회 장학생(Sookmyung ICPC Club) (2020.4 ~ )
 
-#### 수상
+### 수상
 - 동신대학교 한의학과 최우수 졸업(수석졸업)
 - **고려대학교 빅데이터 청년인재 우수상(교내 2위)**
 - 동신대학교 창업동아리 경진대회 최우수상(1위)
