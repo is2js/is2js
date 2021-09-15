@@ -36,9 +36,10 @@
 #### Experiences 
 - 👀 [멋쟁이사자처럼 X 네이버 클로바 인공지능 서비스 만들기 과정]
 - ❄️ [빅데이터 청년인재](https://www.facebook.com/dscsookmyung/) Lead (2021.8 ~ )
-- 💚 [ICPC Sinchon](http://icpc-sinchon.github.io/) Organizer (2020.7 ~ 2021.8)
+  - 👨‍🎓 [Applied science 논문 게제 - 딥러닝을 이용한 독성약재 감별](http://icpc-sinchon.github.io/) Organizer (2020.7 ~ 2021.8)
 - 🧬 [SNU BioInfomatics Lab](http://bioinfo.sookmyung.ac.kr/) Intern (2021.6 ~ 2021.7)
 - 🎖 한국지도자육성장학회 장학생(Sookmyung ICPC Club) (2020.4 ~ )
+- 💪 작전병 군복무 병장제대(Don't need mouse to me) (2011 ~ )
 
 #### 수상
 - 동신대학교 한의학과 최우수 졸업(수석졸업)
