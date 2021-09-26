@@ -27,19 +27,24 @@
 </p>
 
 #### Certificates
-- **Tensorflow 2.0 Developer**
-- Korean Oriental Medicine(한의사) 및 General training(일반수련의)
-- **Engineer Information Processing(정보처리기사)**
-- **Adsp(데이터분석 준 전문가)**
-- **Sqld(SQL 개발자)**
+- **Tensorflow 2.0 Developer(예정)**
+- Korean Oriental Medicine 및 General training(한의사 자격 획득 및 일반수련의 수료)
+- **Engineer Information Processing(정보처리기사, 2019.09.03~)**
+- **Adsp(데이터분석 준 전문가, 2019.04.12~)**
+- **Sqld(SQL 개발자, 2019.04.17~)**
 
 #### Experiences 
-- 👀 [멋쟁이사자처럼 X 네이버 클로바 인공지능 서비스 만들기 과정]
-- ❄️ [빅데이터 청년인재](https://www.facebook.com/dscsookmyung/) Lead (2021.8 ~ )
-  - 👨‍🎓 [Applied science 논문 게제 - 딥러닝을 이용한 독성약재 감별](http://icpc-sinchon.github.io/) Organizer (2020.7 ~ 2021.8)
-- 🧬 [SNU BioInfomatics Lab](http://bioinfo.sookmyung.ac.kr/) Intern (2021.6 ~ 2021.7)
-- 🎖 한국지도자육성장학회 장학생(Sookmyung ICPC Club) (2020.4 ~ )
-- 💪 작전병 군복무 병장제대(Don't need mouse to me) (2011 ~ )
+- 👀 [멋쟁이사자처럼 X 네이버 클로바 인공지능 서비스 과정(6주)](https://likelion.notion.site/67ba4147eb20401f9dbcf853acbdf42c)
+  - 🏃 해커톤 참여(2021.10.29~)
+- 👨‍🎓 [Applied science 논문 게제 - 딥러닝을 이용한 독성약재 감별 실험](https://www.mdpi.com/2076-3417/9/24/5456) (Accepted: 11 December 2019)
+  - 2018 대한한의학괴 한의대 미래인재육성 프로젝트 장학생(대상) - [기사](https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=27990) 
+- ❄️ [빅데이터 청년인재 - 빅데이터 기반의 지능정보 시스템 개발(고려대) 과정 수료 및 우수상 수상](https://github.com/realblack0/One-Punch)(2019.7~9)
+- 🧬 [SNU BioInfomatics Lab](http://www.snubi.org/) Intern (2019.2~3)
+- 🎖 [한국지도자육성장학재단](https://www.kosffl.or.kr/) 장학생 선발(Kosffl Club) (2018.3~2020.2)
+- 🪐 한의IT기업 한의플래닛([현 havest](havest.kr)) Intern (2017.12~2018.1)
+- 한의대생들을 위한 근육(MPS)침 ANDROID앱 개발 - [Google PlayStore](https://play.google.com/store/apps/details?id=org.dshani.cho.MPS_FLEX_1122notice&hl=ko&gl=US)
+  - 실사용 한의대생 500명이상, 1000+ 다운로드 MPS앱 [뉴스기사](https://www.mjmedi.com/news/articleView.html?idxno=33999)
+- 💪 육군 병장 제대(작전병, Don't need mouse to me) (2011.8~2013.5)
 
 #### 수상
 - 동신대학교 한의학과 최우수 졸업(수석졸업)
