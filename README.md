@@ -34,7 +34,7 @@
 - **Sqld(SQL 개발자, 2019.04.17~)**
 
 #### Experiences 
-- 🛠 [프로그래머스 스터디- 실리콘밸리에서 날아온 데이터 엔지니어링 스타터 키트 with Python (2021.11.6. ~ 2021.12.18., 6주)](https://programmers.co.kr/learn/courses/12916)
+- 🛠 [프로그래머스 - 실리콘밸리에서 날아온 데이터 엔지니어링 스타터 키트 with Python (2021.11.6. ~ 2021.12.18., 6주)](https://programmers.co.kr/learn/courses/12916)
 - 👀 [멋쟁이사자처럼 X 네이버 클로바 인공지능 서비스 과정(21/09/01 - 21/10/13, 6주)](https://likelion.notion.site/67ba4147eb20401f9dbcf853acbdf42c)
   - 🏃 해커톤 참여(21/10/13 - 21/11/05, 4주)
 - 👨‍🎓 [Applied science 논문 게제 - 딥러닝을 이용한 독성약재 감별 실험](https://www.mdpi.com/2076-3417/9/24/5456) (Accepted: 11 December 2019)
