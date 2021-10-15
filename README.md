@@ -26,18 +26,20 @@
   </a>
 </p>
 
-#### Certificates
-- Korean Oriental Medicine 및 General training(한의사 자격 획득 및 일반수련의 수료)
+#### Certificates/Papers
+- Paper
+    - Identification of Toxic Herbs Using Deep Learning with Focus on the Sinomenium Acutum, Aristolochiae Manshuriensis Caulis, Akebiae Caulis [Accepted: 2019. 12](https://www.mdpi.com/2076-3417/9/24/5456)
+- General training(일반수련의) 2021.02
+- Korean Oriental Medicine 및 (한의사) 2020. 02
 - Engineer Information Processing(정보처리기사) 2019.09
-- Adsp(데이터분석 준 전문가) 2019.04**
+- Adsp(데이터분석 준 전문가) 2019.04
 - Sqld(SQL 개발자) 2019.04
-
+- 
 #### Experiences 
 - **🛠 [프로그래머스) 실리콘밸리에서 날아온 데이터 엔지니어링 스타터 키트 with Python (2021.11.6. ~ 6주)](https://programmers.co.kr/learn/courses/12916)**
 - **👀 [멋쟁이사자처럼 X 네이버 클로바 인공지능 서비스 과정(2021.09.01, 6주)](https://likelion.notion.site/67ba4147eb20401f9dbcf853acbdf42c)**
     - **🏃 해커톤 참여(2021.10.13, 4주)**
-- 👨‍🎓 [Applied science 논문 게제 - 딥러닝을 이용한 독성약재 감별 실험](https://www.mdpi.com/2076-3417/9/24/5456) (Accepted: 11 December 2019)
-  - 2018 대한한의학 한의대 미래인재육성 프로젝트 장학생(대상) - [기사](https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=27990) 
+- 2018 대한한의학 한의대 미래인재육성 프로젝트 장학생(대상)-[기사](https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=27990) 
 - ❄️ [빅데이터 청년인재 - 빅데이터 기반의 지능정보 시스템 개발(고려대) 과정 수료 및 우수상 수상](https://github.com/realblack0/One-Punch)(2019.7~9)
 - 🧬 [SNU BioInfomatics Lab](http://www.snubi.org/) Intern (2019.2~3)
 - 🎖 [한국지도자육성장학재단](https://www.kosffl.or.kr/) 장학생 선발(Kosffl Club) (2018.3~2020.2)
