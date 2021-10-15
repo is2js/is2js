@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning about below in  `python3.8+`, `pytest`, `pyenv` on `Wsl2` with `VScode`
   - **Backend** with `flask`, `fastapi` 
-  - **Pipeline and Infra** with `airflow`, `PySpark` in `Docker` on `Ncloud`, `GCP`
+  - **Pipeline and Infra** with `airflow`, `PySpark` in `Docker` on `Ncloud` or `GCP` or `AWS`
   - **DataScience/DataAnalysis** with `Pandas`, `NLP` by `TF2.0` and `Keras`
   - **SQL** <-> **SQLAlchemy** with `PostgreSQL`, `MySQL` on `Bigquery` or `Docker`
 
@@ -15,7 +15,7 @@
 
 - 🧐 My blog: https://is2js.github.io/blog_raw/ <- ~~https://nittaku.tistory.com~~ (closed)
 
-#### My Git and Algorithm Solving Tier
+#### My Git and Algorithm Problem Solving Tier(백준)
 <p align="center">
   <a href="#">
     <!--   graywhite or nord theme -->
@@ -27,16 +27,15 @@
 </p>
 
 #### Certificates
-- **Tensorflow 2.0 Developer(예정)**
 - Korean Oriental Medicine 및 General training(한의사 자격 획득 및 일반수련의 수료)
-- **Engineer Information Processing(정보처리기사, 2019.09.03~)**
-- **Adsp(데이터분석 준 전문가, 2019.04.12~)**
-- **Sqld(SQL 개발자, 2019.04.17~)**
+- Engineer Information Processing(정보처리기사) 2019.09
+- Adsp(데이터분석 준 전문가) 2019.04**
+- Sqld(SQL 개발자) 2019.04
 
 #### Experiences 
-- **🛠 [프로그래머스) 실리콘밸리에서 날아온 데이터 엔지니어링 스타터 키트 with Python (2021.11.6. ~ 2021.12.18., 6주)](https://programmers.co.kr/learn/courses/12916)**
-- **👀 [멋쟁이사자처럼 X 네이버 클로바 인공지능 서비스 과정(21/09/01 - 21/10/13, 6주)](https://likelion.notion.site/67ba4147eb20401f9dbcf853acbdf42c)**
-  **- 🏃 해커톤 참여(21/10/13 - 21/11/05, 4주)**
+- **🛠 [프로그래머스) 실리콘밸리에서 날아온 데이터 엔지니어링 스타터 키트 with Python (2021.11.6. ~ 6주)](https://programmers.co.kr/learn/courses/12916)**
+- **👀 [멋쟁이사자처럼 X 네이버 클로바 인공지능 서비스 과정(2021.09.01, 6주)](https://likelion.notion.site/67ba4147eb20401f9dbcf853acbdf42c)**
+    - **🏃 해커톤 참여(2021.10.13, 4주)**
 - 👨‍🎓 [Applied science 논문 게제 - 딥러닝을 이용한 독성약재 감별 실험](https://www.mdpi.com/2076-3417/9/24/5456) (Accepted: 11 December 2019)
   - 2018 대한한의학 한의대 미래인재육성 프로젝트 장학생(대상) - [기사](https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=27990) 
 - ❄️ [빅데이터 청년인재 - 빅데이터 기반의 지능정보 시스템 개발(고려대) 과정 수료 및 우수상 수상](https://github.com/realblack0/One-Punch)(2019.7~9)
@@ -45,11 +44,11 @@
 - 🪐 한의IT기업 한의플래닛([현 havest](http://havest.kr)) Intern (2017.12~2018.1)
 - 👨‍⚕️한의대생들을 위한 근육(MPS)침 ANDROID앱 개발 - [Google PlayStore](https://play.google.com/store/apps/details?id=org.dshani.cho.MPS_FLEX_1122notice&hl=ko&gl=US)
   - 🤏 실사용 한의대생 500명이상, 1000+ 다운로드 MPS앱 [뉴스기사](https://www.mjmedi.com/news/articleView.html?idxno=33999)
-- 💪 육군 병장 제대(작전병; Don't need mouse to me) (2011.8~2013.5)
+- **💪 육군 병장 제대(작전병; Don't need mouse to me) (2011.8~2013.5)**
 
 #### 수상
 - 동신대학교 한의학과 최우수 졸업(수석졸업)
-- **고려대학교 빅데이터 청년인재 우수상(교내 2위)**
+- 고려대학교 빅데이터 청년인재 우수상(교내 2위)
 - 동신대학교 창업동아리 경진대회 최우수상(1위)
 
 
