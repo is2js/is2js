@@ -36,10 +36,10 @@
 - Adsp(데이터분석 준 전문가) 2019.04
 - Sqld(SQL 개발자) 2019.04
 - 
-#### Experiences 
-- **🛠 [프로그래머스) 실리콘밸리에서 날아온 데이터 엔지니어링 스타터 키트 with Python (2021.11.6. ~ 6주)](https://programmers.co.kr/learn/courses/12916)**
-- **👀 [멋쟁이사자처럼 X 네이버 클로바 인공지능 서비스 과정(2021.09.01, 6주)](https://likelion.notion.site/67ba4147eb20401f9dbcf853acbdf42c)**
-    - **🏃 해커톤 참여(2021.10.13, 4주)**
+#### Experiences/Studies 
+- **[🛠프로그래머스 X 실리콘밸리에서 날아온 데이터 엔지니어링 스타터 키트 with Python (2021.11.6~, 6주)](https://programmers.co.kr/learn/courses/12916)**
+- **[🦁멋쟁이사자처럼 X Ncloud and Clova를 활용한 인공지능 서비스 과정(2021.09.01~, 6주)](https://likelion.notion.site/67ba4147eb20401f9dbcf853acbdf42c)**
+    - **🏃 해커톤 참여(2021.10.13~, 4주)**
 - 2018 대한한의학 한의대 미래인재육성 프로젝트 장학생(대상)-[기사](https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=27990) 
 - ❄️ [빅데이터 청년인재 - 빅데이터 기반의 지능정보 시스템 개발(고려대) 과정 수료 및 우수상 수상](https://github.com/realblack0/One-Punch)(2019.7~9)
 - 🧬 [SNU BioInfomatics Lab](http://www.snubi.org/) Intern (2019.2~3)
@@ -53,8 +53,6 @@
 - 동신대학교 한의학과 최우수 졸업(수석졸업)
 - 고려대학교 빅데이터 청년인재 우수상(교내 2위)
 - 동신대학교 창업동아리 경진대회 최우수상(1위)
-
-
 
 
 
