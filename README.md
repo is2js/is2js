@@ -13,7 +13,8 @@
 - 👨‍⚕️ I'm Korean Oriental Medicine graduated at Dongshin University 
   - worked in [CY](http://www.cyhani.com/) and [GangNam Mokhuri](https://www.mokhuri.com/) Oriental Hospitals
 
-- 🧐 My blog: https://is2js.github.io/blog_raw/ <- ~~https://nittaku.tistory.com~~ (closed)
+- 🧐 My blog: https://is2js.github.io/blog_raw/ (~ing)
+    - https://nittaku.tistory.com (closed)
 
 #### My Git and Algorithm Problem Solving Tier(백준)
 <p align="center">
