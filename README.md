@@ -28,14 +28,14 @@
 </p>
 
 #### Certificates/Papers
+- Certificate
+    - General training(일반수련의) 2021.02
+    - Korean Oriental Medicine 및 (한의사) 2020. 02
+    - Engineer Information Processing(정보처리기사) 2019.09
+    - Adsp(데이터분석 준 전문가) 2019.04
+    - Sqld(SQL 개발자) 2019.04
 - Paper
     - Identification of Toxic Herbs Using Deep Learning with Focus on the Sinomenium Acutum, Aristolochiae Manshuriensis Caulis, Akebiae Caulis [Accepted: 2019. 12](https://www.mdpi.com/2076-3417/9/24/5456)
-- General training(일반수련의) 2021.02
-- Korean Oriental Medicine 및 (한의사) 2020. 02
-- Engineer Information Processing(정보처리기사) 2019.09
-- Adsp(데이터분석 준 전문가) 2019.04
-- Sqld(SQL 개발자) 2019.04
-- 
 #### Experiences/Studies 
 - **[🛠프로그래머스 X 실리콘밸리에서 날아온 데이터 엔지니어링 스타터 키트 with Python (2021.11.6~, 6주)](https://programmers.co.kr/learn/courses/12916)**
 - **[🦁멋쟁이사자처럼 X Ncloud and Clova를 활용한 인공지능 서비스 과정(2021.09.01~, 6주)](https://likelion.notion.site/67ba4147eb20401f9dbcf853acbdf42c)**
@@ -49,7 +49,7 @@
   - 🤏 실사용 한의대생 500명이상, 1000+ 다운로드 MPS앱 [뉴스기사](https://www.mjmedi.com/news/articleView.html?idxno=33999)
 - **💪 육군 병장 제대(작전병; Don't need mouse to me) (2011.8~2013.5)**
 
-#### 수상
+#### Awards
 - 동신대학교 한의학과 최우수 졸업(수석졸업)
 - 고려대학교 빅데이터 청년인재 우수상(교내 2위)
 - 동신대학교 창업동아리 경진대회 최우수상(1위)
