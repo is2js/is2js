@@ -39,9 +39,9 @@
     - Identification of Toxic Herbs Using Deep Learning with Focus on the Sinomenium Acutum, Aristolochiae Manshuriensis Caulis, Akebiae Caulis [Accepted: 2019. 12](https://www.mdpi.com/2076-3417/9/24/5456)
 #### Experiences/Studies 
 - **Study(Official)**
-    - **🛠 2021.11.6~, 6주) [프로그래머스 X 실리콘밸리에서 날아온 데이터 엔지니어링 스타터 키트 with Python](https://programmers.co.kr/learn/courses/12916)**
-    - **🦁 2021.9.1~, 6주) [멋쟁이사자처럼 X Ncloud and Clova를 활용한 인공지능 서비스 과정](https://likelion.notion.site/67ba4147eb20401f9dbcf853acbdf42c)**
-          - **🏃 2021.10.13~, 4주) 해커톤 참여**
+    - **🛠 2021.11.6~12.18) [프로그래머스 X 실리콘밸리에서 날아온 데이터 엔지니어링 스타터 키트 with Python](https://programmers.co.kr/learn/courses/12916)**
+    - **🦁 2021.9.1~10.13) [멋쟁이사자처럼 X Ncloud and Clova를 활용한 인공지능 서비스 과정](https://likelion.notion.site/67ba4147eb20401f9dbcf853acbdf42c)**
+          - **🏃 2021.10.14~11.12) 해커톤 참여**
     - **2019 FastCampus X  논문/보고서 작성을 위한 통계분석 5기 수료(Offline)**
     - **2019 FastCampus X  파이썬을 활용한 데이터 전처리 Level Up 5기 수료(Offline)**
     - **2018.7~8 DSschool X 딥러닝반(8기) 수료(Offline) - [수료증](https://raw.githubusercontent.com/is3js/screenshots/main/image-20211017160223696.png)**
