@@ -5,17 +5,15 @@
 ### 👋 Hi! I'm Jaeseong Cho ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fis2js.github.io%2Fblog_raw&count_bg=152447&title_bg=f6ebe1&icon_color=%23E1DFDF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)
 
 - 🌱 I’m currently learning about below in  `python3.8+`, `pytest`, `pyenv` on `Wsl2` with `VScode`
-  - **Backend** with `flask`, `fastapi` 
-  - **Pipeline and Infra** with `airflow`, `PySpark` in `Docker` on `Ncloud` or `GCP` or `AWS`
-  - **DataScience/DataAnalysis** with `Pandas`, `NLP` by `TF2.0` and `Keras`
-  - **SQL** <-> **SQLAlchemy** with `PostgreSQL`, `MySQL`, `SQLAlchemy` on `Bigquery` or `Docker`
+    - **Backend** with `flask`, `fastapi` 
+    - **Pipeline and Infra** with `airflow`, `PySpark` in `Docker` on `Ncloud` or `GCP` or `AWS`
+    - **DataScience/DataAnalysis** with `Pandas`, `NLP` by `TF2.0` and `Keras`
+    - **SQL** <-> **SQLAlchemy** with `PostgreSQL`, `MySQL`, `SQLAlchemy` on `Bigquery` or `Docker`
 
 - 👨‍⚕️ I'm Korean Oriental Medicine graduated at Dongshin University 
-  - worked in [CY](http://www.cyhani.com/) and [GangNam Mokhuri](https://www.mokhuri.com/) Oriental Hospitals
-
-- 🧐 My blog: https://is2js.github.io/blog_raw/ (~ing)
-    - https://nittaku.tistory.com (closed)
-- 📽 You can see my projects -> [here](https://is2js.github.io/blog_raw/)
+    - 🏣 worked in [CY](http://www.cyhani.com/) and [GangNam Mokhuri](https://www.mokhuri.com/) Oriental Hospitals
+    - 🧐 My blog: https://is2js.github.io/blog_raw/ (~ing)  ~~https://nittaku.tistory.com~~(closed)
+    - 📽 My projects -> [here](https://is2js.github.io/blog_raw/)
 
 #### My Git and Algorithm Problem Solving Tier(백준)
 <p align="center">
