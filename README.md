@@ -10,8 +10,8 @@
     - **DataScience/DataAnalysis** with `Pandas`, `NLP` by `TF2.0` and `Keras`
     - **SQL** <-> **SQLAlchemy** with `PostgreSQL`, `MySQL`, `SQLAlchemy` on `Bigquery` or `Docker`
 
-- 👨‍⚕️ I'm Korean Oriental Medicine graduated at Dongshin University 
-    - worked in [CY](http://www.cyhani.com/) and [GangNam Mokhuri](https://www.mokhuri.com/) Oriental Hospitals
+- 👨‍⚕️ I'm Korean Medicine Doctor graduated at Dongshin University 
+    - worked in [CY](http://www.cyhani.com/) and [GangNam Mokhuri](https://www.mokhuri.com/) Oriental Hospitals as KMD
     - My blog: https://is2js.github.io/blog_raw/ (~ing) <-  ~~https://nittaku.tistory.com~~ (closed)
     - My projects -> [here](https://is2js.github.io/blog_raw/)
 
