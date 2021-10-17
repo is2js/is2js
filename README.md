@@ -17,7 +17,7 @@
 
 #### ✒ My Git and Algorithm Problem Solving Tier(백준)
 
-<p align="center"><small>꾸준함과 성실함을 무기로 <strong>1일 1커밋</strong>과 <strong><a style="color:red;" href="https://solved.ac/profile/tingstyle1">1일 1PS</a></strong>를 실천합니다.</small></p>
+<p align="center"><small>꾸준함과 성실함을 무기로 <strong>1일 1커밋</strong>과 <strong><a target="_blank" style="color:crimson;" href="https://solved.ac/profile/tingstyle1">1일 1PS</a></strong>를 실천합니다.</small></p>
 <p align="center">
   <a href="#">
     <!--   graywhite or nord theme -->
