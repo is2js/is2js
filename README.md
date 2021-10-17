@@ -46,17 +46,17 @@
     - **2019 FastCampus X  파이썬을 활용한 데이터 전처리 Level Up 5기 수료(Offline)**
     - **2018.7~8 DSschool X 딥러닝반(8기) 수료(Offline) - [수료증](https://raw.githubusercontent.com/is3js/screenshots/main/image-20211017160223696.png)**
     - **2018.6 DSschool X Pandas중급반(5기) 수료(Offline) - [수료증](https://raw.githubusercontent.com/is3js/screenshots/main/image-20211017160238368.png)**
-- **Experience**
-    - ❄️ 2019.7~9) [빅데이터 청년인재 - 빅데이터 기반의 지능정보 시스템 개발(고려대) 과정 수료 및 우수상 수상](https://github.com/realblack0/One-Punch)
-    - 🧬 2019.2~3) [SNU BioInfomatics Lab](http://www.snubi.org/) Intern
-    - 🎖 2018.3~2020.2) [한국지도자육성장학재단](https://www.kosffl.or.kr/) 장학생 선발(Kosffl Club)
-    - 👨‍🎓 2018) 대한한의학 한의대 미래인재육성 프로젝트 장학생(대상)-[기사](https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=27990) 
-    - 🪐 2017.12~2018.1)한의IT기업 한의플래닛([현 havest](http://havest.kr)) Intern
-    - 👨‍⚕️ 2017) 한의대생들을 위한 근육(MPS)침 ANDROID앱 개발 - [Google PlayStore](https://play.google.com/store/apps/details?id=org.dshani.cho.MPS_FLEX_1122notice&hl=ko&gl=US)
+- 🧬 **Experience**
+    - 2019.7~9) [빅데이터 청년인재 - 빅데이터 기반의 지능정보 시스템 개발(고려대) 과정 수료 및 우수상 수상](https://github.com/realblack0/One-Punch)
+    - 2019.2~3) [SNU BioInfomatics Lab](http://www.snubi.org/) Intern
+    - 2018.3~2020.2) [한국지도자육성장학재단](https://www.kosffl.or.kr/) 장학생 선발(Kosffl Club)
+    - 2018) 대한한의학 한의대 미래인재육성 프로젝트 장학생(대상)-[기사](https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=27990) 
+    - 2017.12~2018.1)한의IT기업 한의플래닛([현 havest](http://havest.kr)) Intern
+    - 2017) 한의대생들을 위한 근육(MPS)침 ANDROID앱 개발 - [Google PlayStore](https://play.google.com/store/apps/details?id=org.dshani.cho.MPS_FLEX_1122notice&hl=ko&gl=US)
           - 🤏 실사용 한의대생 500명이상, 1000+ 다운로드 MPS앱 [뉴스기사](https://www.mjmedi.com/news/articleView.html?idxno=33999)
-    - **💪 2011.8~2013.5) 육군 병장 제대(작전병; Don't need mouse to me)**
+    - 2011.8~2013.5) **💪 육군 병장 제대(작전병; Don't need mouse to me)**
 
-####✨ Awards
+#### ✨ Awards
 - 동신대학교 한의학과 최우수 졸업(수석졸업)
 - 고려대학교 빅데이터 청년인재 우수상(교내 2위)
 - 동신대학교 창업동아리 경진대회 최우수상(1위)
