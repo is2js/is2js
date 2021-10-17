@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=f6ebe1&height=150&section=header&text=DataEngineer%20and%20K.M.D&fontSize=50&fontColor=152447&desc=데이터%20엔지니어를%20꿈꾸는%20한의사,%20조재성입니다.&descAlignY=80)
 
-### 👋 Hi! I'm Jaeseong Cho ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fis2js.github.io%2Fblog_raw&count_bg=152447&title_bg=f6ebe1&icon_color=%23E1DFDF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)
+## 👋 Hi! I'm Jaeseong Cho ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fis2js.github.io%2Fblog_raw&count_bg=152447&title_bg=f6ebe1&icon_color=%23E1DFDF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)
 
 - 🌱 I’m currently learning about below in  `python3.8+`, `pytest`, `pyenv` on `Wsl2` with `VScode`
     - **Backend** with `flask`, `fastapi` 
@@ -47,14 +47,14 @@
     - **2018.7~8 DSschool X 딥러닝반(8기) 수료(Offline) - [수료증](https://raw.githubusercontent.com/is3js/screenshots/main/image-20211017160223696.png)**
     - **2018.6 DSschool X Pandas중급반(5기) 수료(Offline) - [수료증](https://raw.githubusercontent.com/is3js/screenshots/main/image-20211017160238368.png)**
 - 🧬 **Experience**
-    - 2019.7~9) [빅데이터 청년인재 - 빅데이터 기반의 지능정보 시스템 개발(고려대) 과정 수료 및 우수상 수상](https://github.com/realblack0/One-Punch)
-    - 2019.2~3) [SNU BioInfomatics Lab](http://www.snubi.org/) Intern
+    - **2019.7~9) [빅데이터 청년인재 - 빅데이터 기반의 지능정보 시스템 개발(고려대) 과정 수료 및 우수상 수상](https://github.com/realblack0/One-Punch)**
+    - **2019.2~3) [서울대학교 의과대학 SNU BioInformatics Lab](http://www.snubi.org/) Intern**
     - 2018.3~2020.2) [한국지도자육성장학재단](https://www.kosffl.or.kr/) 장학생 선발(Kosffl Club)
-    - 2018) 대한한의학 한의대 미래인재육성 프로젝트 장학생(대상)-[기사](https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=27990) 
-    - 2017.12~2018.1)한의IT기업 한의플래닛([현 havest](http://havest.kr)) Intern
+    - 2018) 대한한의학회 X 한의대 미래인재육성 프로젝트 장학생 선발(대상)-[기사](https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=27990) 
+    - 2017.12~2018.1) 한의IT기업 한의플래닛 Intern
     - 2017) 한의대생들을 위한 근육(MPS)침 ANDROID앱 개발 - [Google PlayStore](https://play.google.com/store/apps/details?id=org.dshani.cho.MPS_FLEX_1122notice&hl=ko&gl=US)
-          - 🤏 실사용 한의대생 500명이상, 1000+ 다운로드 MPS앱 [뉴스기사](https://www.mjmedi.com/news/articleView.html?idxno=33999)
-    - 2011.8~2013.5) **💪 육군 병장 제대(작전병; Don't need mouse to me)**
+        - 🤏 실사용 한의대생 500명이상, 1000+ 다운로드 MPS앱 [뉴스기사](https://www.mjmedi.com/news/articleView.html?idxno=33999)
+    - **2011.8~2013.5) 💪 육군 병장 제대(작전병; Don't need mouse to me)**
 
 #### ✨ Awards
 - 동신대학교 한의학과 최우수 졸업(수석졸업)
