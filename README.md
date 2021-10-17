@@ -16,8 +16,10 @@
     - 📽 My projects -> [here](https://is2js.github.io/blog_raw/)
 
 #### My Git and Algorithm Problem Solving Tier(백준)
-- 꾸준함과 성실함을 무기로 `1일 1커밋`과 `1일 1PS`를 실천하고 있습니다. -> [github](https://is2js.github.io/blog_raw/mygit/) [백준, solved.ac](https://solved.ac/profile/tingstyle1)
+
+
 <p align="center">
+  <p>꾸준함과 성실함을 무기로 [`1일 1커밋`](https://is2js.github.io/blog_raw/mygit/)과 [`1일 1PS`](https://solved.ac/profile/tingstyle1)를 실천합니다.</p>
   <a href="#">
     <!--   graywhite or nord theme -->
       <img src="https://github-readme-stats.vercel.app/api?username=is2js&theme=graywhite&show_icons=true" height="150px">
