@@ -42,7 +42,7 @@
     - **2021.11.6~12.18) 🛠 [프로그래머스 X 실리콘밸리에서 날아온 데이터 엔지니어링 스타터 키트 with Python](https://programmers.co.kr/learn/courses/12916)**
     - **2021.9.1~10.13) 🦁 [멋쟁이사자처럼 X Ncloud and Clova를 활용한 인공지능 서비스 과정](https://projectlion.io/courses/technology/naver)**
         - **2021.10.14~11.12) 🏃 해커톤 참여**
-    - **2019.7~9) 빅데이터 청년인재 X 빅데이터 기반의 지능정보 시스템 개발 과정(고려대) 수료-수료증**
+    - **2019.7~9) Kdata(한국데이터산업진흥원) X [빅데이터 청년인재](https://dataonair.or.kr/bigjob/)-빅데이터 기반의 지능정보 시스템 개발 과정 수료(고려대, Offline)-수료증**
     - **2019 ) FastCampus X  논문/보고서 작성을 위한 통계분석 5기 수료(Offline)**
     - **2019 ) FastCampus X  파이썬을 활용한 데이터 전처리 Level Up 5기 수료(Offline)**
     - **2018.7~8) DSschool X Pandas중급반(5기) 수료(Offline)-[수료증](https://raw.githubusercontent.com/is3js/screenshots/main/image-20211017160223696.png)**
