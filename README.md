@@ -36,7 +36,7 @@
     - **2019.04 `Adsp`(데이터분석 준 전문가)**
     - **2019.04`Sqld`(SQL 개발자)**
 - **Paper**
-    - Identification of Toxic Herbs Using Deep Learning with Focus on the Sinomenium Acutum, Aristolochiae Manshuriensis Caulis, Akebiae Caulis [Accepted: 2019. 12](https://www.mdpi.com/2076-3417/9/24/5456)
+    - **Identification of Toxic Herbs Using Deep Learning** with Focus on the Sinomenium Acutum, Aristolochiae Manshuriensis Caulis, Akebiae Caulis [Accepted: 2019. 12](https://www.mdpi.com/2076-3417/9/24/5456)
 #### 🚴‍♂️ Experiences/Studies 
 - **Study(Official)**
     - **2021.11.6~12.18) 🛠 [프로그래머스 X 실리콘밸리에서 날아온 데이터 엔지니어링 스타터 키트 with Python](https://programmers.co.kr/learn/courses/12916)**
