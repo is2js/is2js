@@ -12,8 +12,8 @@
 
 - 👨‍⚕️ I'm Korean Medicine Doctor graduated at Dongshin University 
     - worked in [CY](http://www.cyhani.com/) and [GangNam Mokhuri](https://www.mokhuri.com/) Oriental Hospitals as KMD
-    - **My blog: https://blog.chojaeseong.com/ (공사중)** <-  https://nittaku.tistory.com (이전하는 중)
-    - **My projects: https://project.chojaeseong.com/ (공사중)**
+    - My blog: https://blog.chojaeseong.com/ (공사중) <- **https://nittaku.tistory.com (이전하는 중)**
+    - ~~My projects: https://project.chojaeseong.com/ (공사중)~~
 
 #### ✒ My Git and Algorithm Problem Solving Tier(백준)
 
