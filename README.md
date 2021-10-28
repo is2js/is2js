@@ -62,13 +62,9 @@
 - 동신대학교 창업동아리 경진대회 최우수상(1위)
 
 
-<!-- ### Solved.ac Tier
-<p align="center">
-</p>
- -->
-<!-- 스택 icon -->
 
-<h2 align="center">🛠 Skill Stack</h2>
+<!-- 스택 icon -->
+<!-- <h2 align="center">🛠 Skill Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -85,7 +81,7 @@
   <img src="https://img.shields.io/badge/HyperledgerFabric-DB3552?style=flat-square&logo=Hulu&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
-</p>
+</p> -->
 
 <!-- 연락처 -->
 <h2 align="center">👋 Contanct Me!  </h2>
