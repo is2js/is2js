@@ -30,8 +30,7 @@
 
 #### 🏷 Certificates/Papers
 - **Certificate**
-    - 2021.02 General training(`일반수련의`) 
-    - 2020.02 Korean Oriental Medicine(`한의사`) 
+    - 2020.02 Korean Oriental Medicine(`한의사`) 및 2021.02 General training(`일반수련의`) 자격 획득
     - **2019.09 Engineer Information Processing(`정보처리기사`)**
     - **2019.04 `Adsp`(데이터분석 준 전문가)**
     - **2019.04`Sqld`(SQL 개발자)**
