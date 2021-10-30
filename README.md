@@ -4,13 +4,13 @@
 
 ## 👋 Hi! I'm Jaeseong Cho ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fis2js.github.io%2Fblog_raw&count_bg=152447&title_bg=f6ebe1&icon_color=%23E1DFDF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)
 
-- 🌱 I’m currently learning about below in  [`git`](https://blog.chojaeseong.com/mygit/), `python3.8+`, `pytest`, `pyenv` on `Wsl2` with `VScode`
+#### 🌱 I’m currently learning about below in  [`git`](https://blog.chojaeseong.com/mygit/), `python3.8+`, `pytest`, `pyenv` on `Wsl2` with `VScode`
     - **Backend** with `flask`, `fastapi` 
     - **Pipeline and Infra** with `airflow`, `PySpark` in `Docker` on `Ncloud` or `GCP` or `AWS`
     - **DataScience/DataAnalysis** with `Pandas`, `NLP` by `TF2.0` and `Keras`
     - **SQL** <-> **SQLAlchemy** with `PostgreSQL`, `MySQL`, `SQLAlchemy` on `Bigquery` or `Docker`
 
-- 👨‍⚕️ I'm Korean Medicine Doctor graduated at Dongshin University 
+#### 👨‍⚕️ I'm Korean Medicine Doctor graduated at Dongshin University 
     - worked in [CY](http://www.cyhani.com/) and [GangNam Mokhuri](https://www.mokhuri.com/) Oriental Hospitals as KMD
     - My blog: https://blog.chojaeseong.com/ (공사중) <- **https://nittaku.tistory.com (이전하는 중)**
     - ~~My projects: https://project.chojaeseong.com/ (공사중)~~
