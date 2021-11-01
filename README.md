@@ -11,8 +11,9 @@
 - **SQL** <-> **SQLAlchemy** with `PostgreSQL`, `MySQL`, `SQLAlchemy` on `Bigquery` or `Docker`
 
 #### 👨‍⚕️ I'm Korean Medicine Doctor graduated at Dongshin University 
+- 2020.02 Korean Oriental Medicine(`한의사`), 2021.02 General training(`일반수련의`) 자격 획득
 - Worked at [CY](http://www.cyhani.com/) and Gangnam [Mokhuri](https://www.mokhuri.com/) Oriental Hospitals as KMD
-- My blog: https://blog.chojaeseong.com/ (공사중) <- https://nittaku.tistory.com (이전하는 중)
+- My blog: https://blog.chojaeseong.com/ (이전 받을 준비중) <- https://nittaku.tistory.com (이전시킬 준비 중)
 - ~~My projects: https://project.chojaeseong.com/ (공사중)~~
 
 #### ✒ My Git and Algorithm Problem Solving Tier(백준)
@@ -30,7 +31,6 @@
 
 #### 🏷 Certificates/Papers
 - **Certificate**
-    - 2020.02 Korean Oriental Medicine(`한의사`) 및 2021.02 General training(`일반수련의`) 자격 획득
     - **2019.09 Engineer Information Processing(`정보처리기사`)**
     - **2019.04 `Adsp`(데이터분석 준 전문가)**
     - **2019.04`Sqld`(SQL 개발자)**
