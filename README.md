@@ -1,6 +1,6 @@
 <!-- 헤더 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=f6ebe1&height=150&section=header&text=DataEngineer%20and%20K.M.D&fontSize=50&fontColor=152447&desc=데이터%20엔지니어를%20꿈꾸는%20한의사,%20조재성입니다.&descAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f6ebe1&height=150&section=header&text=DataEngineer%20and%20K.M.D&fontSize=50&fontColor=152447&desc=백엔드,%20데이터%20엔지니어를%20꿈꾸는%20한의사,%20조재성입니다.&descAlignY=80)
 
 ## 👋 Hi! I'm Jaeseong Cho ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fis2js.github.io%2Fblog_raw&count_bg=152447&title_bg=f6ebe1&icon_color=%23E1DFDF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)
 
@@ -47,8 +47,8 @@
     - 2011.8~2013.5) 💪 육군 병장 제대(작전병; Don't need mouse to me)
 
 - **Study(Official)**
-    - 2021.11.6~12.18) **🛠 [프로그래머스 X 실리콘밸리에서 날아온 데이터 엔지니어링 스타터 키트 with Python](https://programmers.co.kr/learn/courses/12916)**
-    - 2021.9.1~10.13) 🦁 [멋쟁이사자처럼 X Ncloud and Clova를 활용한 인공지능 서비스 과정](https://projectlion.io/courses/technology/naver)
+    - 2021.11.6~12.18) **🛠 [프로그래머스](https://programmers.co.kr/learn/courses/12916) X 실리콘밸리에서 날아온 데이터 엔지니어링 스타터 키트 with Python**
+    - 2021.9.1~11.04) 🦁 [멋쟁이사자처럼](https://projectlion.io/courses/technology/naver) X Ncloud and Clova를 활용한 인공지능 서비스 과정-[수료증](https://raw.githubusercontent.com/is3js/screenshots/main/image-20211104162738975.png))
     - 2019.7~9) Kdata(한국데이터산업진흥원) X [빅데이터 청년인재](https://dataonair.or.kr/bigjob/)-빅데이터 기반의 지능정보 시스템 개발 과정 수료(고려대, Offline)-수료증
     - 2019 ) FastCampus X  논문/보고서 작성을 위한 통계분석 5기 수료(Offline)
     - 2019 ) FastCampus X  파이썬을 활용한 데이터 전처리 Level Up 5기 수료(Offline)
