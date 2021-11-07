@@ -4,8 +4,8 @@
 
 ## 👋 Hi! I'm Jaeseong Cho ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fis2js.github.io%2Fblog_raw&count_bg=152447&title_bg=f6ebe1&icon_color=%23E1DFDF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)
 
-#### 🌱 I’m currently learning about below in  [`git`](https://blog.chojaeseong.com/categories/#git), `python3.8+`, [`pytest`](https://blog.chojaeseong.com/categories/#configuration), `pyenv` on `Wsl2` with `VScode`
-- **Backend** with `flask`, `fastapi` 
+#### 🌱 I’m currently learning about below in  [`git`](https://blog.chojaeseong.com/categories/#git), `python3.8+`, [`pytest`](https://blog.chojaeseong.com/categories/#configuration), `pyenv` on `Wsl2` with `VScode` / `java` with `intelliJ`
+- **Backend** with `flask`, `fastapi` , `spring`
 - **Pipeline and Infra** with `airflow`, `PySpark` in `Docker` on `Ncloud` or `GCP` or `AWS`
 - **DataScience/DataAnalysis** with `Pandas`, `NLP` by `TF2.0` and `Keras`
 - **SQL** <-> **SQLAlchemy** with `PostgreSQL`, `MySQL`, `SQLAlchemy` on `Bigquery` or `Docker`
