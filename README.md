@@ -47,7 +47,6 @@
     - 2011.8~2013.5) 💪 육군 병장 제대(작전병; Don't need mouse to me)
 
 - **Study(Official)**
-    - 2021.11.6~12.18) **🛠 [프로그래머스](https://programmers.co.kr/learn/courses/12916) X 실리콘밸리에서 날아온 데이터 엔지니어링 스타터 키트 with Python**
     - 2021.9.1~11.04) 🦁 [멋쟁이사자처럼](https://projectlion.io/courses/technology/naver) X Ncloud and Clova를 활용한 인공지능 서비스 과정-[수료증](https://raw.githubusercontent.com/is3js/screenshots/main/image-20211104162738975.png))
     - 2019.7~9) Kdata(한국데이터산업진흥원) X [빅데이터 청년인재](https://dataonair.or.kr/bigjob/)-빅데이터 기반의 지능정보 시스템 개발 과정 수료(고려대, Offline)-수료증
     - 2019 ) FastCampus X  논문/보고서 작성을 위한 통계분석 5기 수료(Offline)
