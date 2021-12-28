@@ -38,7 +38,7 @@
     - **Identification of Toxic Herbs Using Deep Learning** with Focus on the Sinomenium Acutum, Aristolochiae Manshuriensis Caulis, Akebiae Caulis [Accepted: 2019. 12](https://www.mdpi.com/2076-3417/9/24/5456)
 #### 🚴‍♂️ Experiences/Studies 
 - **Experience**
-    - **2021.11~12) 🪐 [우아한테크코스 프리코스] 과정(https://github.com/is2js/woowa_precourse) 참가**
+    - **2021.11~12) 🪐 [우아한테크코스 프리코스](https://github.com/is2js/woowa_precourse) 과정 참가**
     - 2021.9.1~11.04) 🦁 [멋쟁이사자처럼](https://projectlion.io/courses/technology/naver) X Ncloud and Clova를 활용한 인공지능 서비스 과정-[수료증](https://raw.githubusercontent.com/is3js/screenshots/main/image-20211104162738975.png))
     - 2019.7~9) Kdata(한국데이터산업진흥원) X [빅데이터 청년인재](https://dataonair.or.kr/bigjob/)-빅데이터 기반의 지능정보 시스템 개발 과정 수료(고려대, Offline)-수료증
     - 2019.2~3) [서울대학교 의과대학 SNU BioInformatics Lab](http://www.snubi.org/) Intern
