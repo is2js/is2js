@@ -4,21 +4,22 @@
 
 ## 👋 Hi! I'm Jaeseong Cho ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fis2js.github.io%2Fblog_raw&count_bg=152447&title_bg=f6ebe1&icon_color=%23E1DFDF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)
 
-#### 🌱 I’m currently learning about below in  [`git`](https://blog.chojaeseong.com/categories/#git), `python3.8+`, [`pytest`](https://blog.chojaeseong.com/categories/#configuration), `pyenv` on `Wsl2` with `VScode`
-- **Backend** with `flask`, `fastapi` , `spring`
-- **Pipeline and Infra** with `airflow`, `PySpark` in `Docker` on `Ncloud` or `GCP` or `AWS`
-- **DataScience/DataAnalysis** with `Pandas`, `NLP` by `TF2.0` and `Keras`
-- **SQL** <-> **SQLAlchemy** with `PostgreSQL`, `MySQL`, `SQLAlchemy` on `Bigquery` or `Docker`
+#### 🌱 I’m currently learning about below in  [`git`](https://blog.chojaeseong.com/categories/#git), `python3.8+`, (pytest), [`pyenv`](https://blog.chojaeseong.com/categories/#configuration) on `Wsl2` with `VScode`
+- **Backend** with `flask` (, fastapi)
+- (Pipeline and Infra with airflow, PySpark in) `Docker` on `Ncloud` or `GCP` (or AWS)
+- **DataScience/DataAnalysis** with `Pandas`, `NLP` by (TF2.0 and) `Keras`
+- **SQL** <-> **SQLAlchemy** with `PostgreSQL`, `MySQL`, `SQLAlchemy` on `Docker` (or Bigquery) 
 
 #### 👨‍⚕️ I'm Korean Medicine Doctor graduated at Dongshin University 
 - 2020.02 Korean Oriental Medicine(`한의사`), 2021.02 General training(`일반수련의`) 자격 획득
 - Worked at [CY](http://www.cyhani.com/) and Gangnam [Mokhuri](https://www.mokhuri.com/) Oriental Hospitals as KMD
-- My blog: https://blog.chojaeseong.com/ (이전 받을 준비중) <- https://nittaku.tistory.com (이전시킬 준비 중)
-- ~~My projects: https://project.chojaeseong.com/ (공사중)~~
+- My blog
+  - https://blog.chojaeseong.com/ (opened) 
+  - https://nittaku.tistory.com (closed)
 
 #### ✒ My Git and Algorithm Problem Solving Tier(백준)
 
-<p align="center"><small>꾸준함과 성실함을 무기로 <strong><a target="_blank" style="color:crimson;" href="https://blog.chojaeseong.com/mygit/" important!>1일 1Commit</a></strong>과 <strong><a target="_blank" style="color:crimson;" href="https://solved.ac/profile/tingstyle1" important!>1일 1PS</a></strong>를 실천합니다.
+<!-- <p align="center"><small>꾸준함과 성실함을 무기로 <strong><a target="_blank" style="color:crimson;" href="https://blog.chojaeseong.com/mygit/" important!>1일 1Commit</a></strong>과 <strong><a target="_blank" style="color:crimson;" href="https://solved.ac/profile/tingstyle1" important!>1일 1PS</a></strong>를 실천합니다. -->
 <p align="center">
   <a href="#">
     <!--   graywhite or nord theme -->
@@ -38,7 +39,8 @@
     - **Identification of Toxic Herbs Using Deep Learning** with Focus on the Sinomenium Acutum, Aristolochiae Manshuriensis Caulis, Akebiae Caulis [Accepted: 2019. 12](https://www.mdpi.com/2076-3417/9/24/5456)
 #### 🚴‍♂️ Experiences/Studies 
 - **Experience**
-    - **2021.11~12) 🪐 [우아한테크코스 프리코스](https://github.com/is2js/woowa_precourse) 과정 참가**
+    - **2022.02~12) 🪐 우아한테크코스 4기**
+    - 2021.11~12) 🪐 [우아한테크코스 프리코스](https://github.com/is2js/woowa_precourse) 과정
     - 2021.9.1~11.04) 🦁 [멋쟁이사자처럼](https://projectlion.io/courses/technology/naver) X Ncloud and Clova를 활용한 인공지능 서비스 과정-[수료증](https://raw.githubusercontent.com/is3js/screenshots/main/image-20211104162738975.png))
     - 2019.7~9) Kdata(한국데이터산업진흥원) X [빅데이터 청년인재](https://dataonair.or.kr/bigjob/)-빅데이터 기반의 지능정보 시스템 개발 과정 수료(고려대, Offline)-수료증
     - 2019.2~3) [서울대학교 의과대학 SNU BioInformatics Lab](http://www.snubi.org/) Intern
@@ -49,13 +51,13 @@
         - 🤏 실사용 한의대생 500명이상, 1000+ 다운로드 MPS앱 [뉴스기사](https://www.mjmedi.com/news/articleView.html?idxno=33999)
     - 2011.8~2013.5) 💪 육군 병장 제대(작전병; Don't need mouse to me)
 
-- **Study(Official)**
+<!-- - **Study(Official)**
 
     - 2019 ) FastCampus X  논문/보고서 작성을 위한 통계분석 5기 수료(Offline)
     - 2019 ) FastCampus X  파이썬을 활용한 데이터 전처리 Level Up 5기 수료(Offline)
     - 2018.7~8) DSschool X Pandas중급반(5기) 수료(Offline)-[수료증](https://raw.githubusercontent.com/is3js/screenshots/main/image-20211017160223696.png)
     - 2018.6) DSschool X  딥러닝반(8기) 수료(Offline)-[수료증](https://raw.githubusercontent.com/is3js/screenshots/main/image-20211017160238368.png)
-
+ -->
 #### ✨ Awards
 - 동신대학교 한의학과 최우수 졸업(수석졸업)
 - 빅데이터 청년인재 전체 장려상(고려대내 2위)
