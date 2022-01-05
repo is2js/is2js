@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=f6ebe1&height=150&section=header&text=DataEngineer%20and%20K.M.D&fontSize=50&fontColor=152447&desc=백엔드,%20데이터%20엔지니어를%20꿈꾸는%20한의사,%20조재성입니다.&descAlignY=80)
 
-## 👋 Hi! I'm Jaeseong Cho ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fis2js.github.io%2Fblog_raw&count_bg=152447&title_bg=f6ebe1&icon_color=%23E1DFDF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)
+##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"> Hi! I'm Jaeseong Cho ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fis2js.github.io%2Fblog_raw&count_bg=152447&title_bg=f6ebe1&icon_color=%23E1DFDF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)
 
 #### 🌱 I’m currently learning about below in  [`git`](https://blog.chojaeseong.com/categories/#git), `python3.8+`, (pytest), [`pyenv`](https://blog.chojaeseong.com/categories/#configuration) on `Wsl2` with `VScode`
 - **Backend** with `flask` (, fastapi)
@@ -10,9 +10,10 @@
 - **DataScience/DataAnalysis** with `Pandas`, `NLP` by (TF2.0 and) `Keras`
 - **SQL** <-> **SQLAlchemy** with `PostgreSQL`, `MySQL`, `SQLAlchemy` on `Docker` (or Bigquery) 
 
-#### 👨‍⚕️ I'm Korean Medicine Doctor graduated at Dongshin University 
+#### 👨‍⚕️ I'm Korean Medicine Doctor
+- **2022.02 ~ 한국방송통신대학교대학원 바이오통계(석사과정 ~ing)**
 - 2020.02 Korean Oriental Medicine(`한의사`), 2021.02 General training(`일반수련의`) 자격 획득
-- Worked at [CY](http://www.cyhani.com/) and Gangnam [Mokhuri](https://www.mokhuri.com/) Oriental Hospitals as KMD
+  - Worked at [CY](http://www.cyhani.com/) and Gangnam [Mokhuri](https://www.mokhuri.com/) Oriental Hospitals as KMD
 - My blog
   - https://blog.chojaeseong.com/ (opened) 
   - https://nittaku.tistory.com (closed)
@@ -46,7 +47,7 @@
 - 2019.2~3) [서울대학교 의과대학 SNU BioInformatics Lab](http://www.snubi.org/) Intern
 - 2018.3~2020.2) [한국지도자육성장학재단](https://www.kosffl.or.kr/) 장학생 선발(Kosffl Club)
 - 2018 ) 대한한의학회 X 한의대 미래인재육성 프로젝트 장학생 선발(대상)-[기사](https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=27990) 
-- 2017.12~2018.1) 한의IT기업 한의플래닛 Intern
+<!-- - 2017.12~2018.1) 한의IT기업 한의플래닛 Intern -->
 <!--     - 2017 ) 한의대생들을 위한 근육(MPS)침 ANDROID앱 개발 - [Google PlayStore](https://play.google.com/store/apps/details?id=org.dshani.cho.MPS_FLEX_1122notice&hl=ko&gl=US)
     - 🤏 실사용 한의대생 500명이상, 1000+ 다운로드 MPS앱 [뉴스기사](https://www.mjmedi.com/news/articleView.html?idxno=33999) -->
 - 2011.8~2013.5) 💪 육군 병장 제대(작전병; Don't need mouse to me)
