@@ -35,26 +35,24 @@
     - **2021.02 General training(`일반수련의`)**
     - **2020.02 Korean Oriental Medicine(`한의사`)** 
     - **2019.09 Engineer Information Processing(`정보처리기사`)**
-    - **2019.04 `Adsp`(데이터분석 준 전문가)**
-    - **2019.04 `Sqld`(SQL 개발자)**
+    - **2019.04 `Sqld`(SQL 개발자), `Adsp`(데이터분석 준 전문가)**
+    
 - **Paper**
     - **Identification of Toxic Herbs Using Deep Learning** with Focus on the Sinomenium Acutum, Aristolochiae Manshuriensis Caulis, Akebiae Caulis [Accepted: 2019. 12](https://www.mdpi.com/2076-3417/9/24/5456)
 #### 🚴‍♂️ Experiences/Studies 
 <!-- - **Experience** -->
-- **2022.2~12) 🪐 우아한테크코스 4기**
-- 2021.11~12) 🪐 [우아한테크코스 프리코스](https://github.com/is2js/woowa_precourse) 과정
-- 2021.9.1~11.4) 🦁 [멋쟁이사자처럼](https://projectlion.io/courses/technology/naver) X Ncloud and Clova를 활용한 인공지능 서비스 과정-[수료증](https://raw.githubusercontent.com/is3js/screenshots/main/image-20211104162738975.png))
-- 2019.7~9) Kdata(한국데이터산업진흥원) X [빅데이터 청년인재](https://dataonair.or.kr/bigjob/)-빅데이터 기반의 지능정보 시스템 개발 과정 수료(고려대, Offline)-수료증
-- 2019.2~3) [서울대학교 의과대학 SNU BioInformatics Lab](http://www.snubi.org/) Intern
-- 2018.3~2020.2) [한국지도자육성장학재단](https://www.kosffl.or.kr/) 장학생 선발(Kosffl Club)
-- 2018 ) 대한한의학회 X 한의대 미래인재육성 프로젝트 장학생 선발(대상)-[기사](https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=27990) 
+- **2022.02 ~ 12) 🪐 우아한테크코스 4기**
+- 2021.11 ~ 12) 🪐 [우아한테크코스 프리코스](https://github.com/is2js/woowa_precourse) 과정
+- 2021.09 ~ 11) 🦁 [멋쟁이사자처럼](https://projectlion.io/courses/technology/naver) X Ncloud and Clova를 활용한 인공지능 서비스 과정-[수료증](https://raw.githubusercontent.com/is3js/screenshots/main/image-20211104162738975.png)
+- 2019.07 ~ 09) Kdata(한국데이터산업진흥원) X [빅데이터 청년인재](https://dataonair.or.kr/bigjob/)-빅데이터 기반의 지능정보 시스템 개발 과정-수료증
+- 2019.02 ~ 03) [서울대학교 의과대학 SNU BioInformatics Lab](http://www.snubi.org/) Intern
+- 2018.03 ~ 2020.02) [한국지도자육성장학재단](https://www.kosffl.or.kr/) 장학생 선발(Kosffl Club)
+- 2018) 대한한의학회 X 한의대 미래인재육성 프로젝트 장학생 선발(대상)-[기사](https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=27990) 
 <!-- - 2017.12~2018.1) 한의IT기업 한의플래닛 Intern -->
 <!--     - 2017 ) 한의대생들을 위한 근육(MPS)침 ANDROID앱 개발 - [Google PlayStore](https://play.google.com/store/apps/details?id=org.dshani.cho.MPS_FLEX_1122notice&hl=ko&gl=US)
     - 🤏 실사용 한의대생 500명이상, 1000+ 다운로드 MPS앱 [뉴스기사](https://www.mjmedi.com/news/articleView.html?idxno=33999) -->
 - 2011.8~2013.5) 💪 육군 병장 제대(작전병; Don't need mouse to me)
-
 <!-- - **Study(Official)**
-
     - 2019 ) FastCampus X  논문/보고서 작성을 위한 통계분석 5기 수료(Offline)
     - 2019 ) FastCampus X  파이썬을 활용한 데이터 전처리 Level Up 5기 수료(Offline)
     - 2018.7~8) DSschool X Pandas중급반(5기) 수료(Offline)-[수료증](https://raw.githubusercontent.com/is3js/screenshots/main/image-20211017160223696.png)
