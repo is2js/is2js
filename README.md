@@ -9,12 +9,12 @@
 - (Pipeline and Infra with airflow, PySpark in) `Docker` on `Ncloud` or `GCP` (or AWS)
 - **DataScience/DataAnalysis** with `Pandas`, `NLP` by (TF2.0 and) `Keras`
 - **SQL** <-> **SQLAlchemy** with `PostgreSQL`, `MySQL`, `SQLAlchemy` on `Docker` (or Bigquery) 
+- **My blog**
+  - https://blog.chojaeseong.com/ (opened) 
+  - https://nittaku.tistory.com (closed)
 
 #### 👨‍⚕️ I'm Korean Medicine Doctor
 - Worked at [CY](http://www.cyhani.com/) and Gangnam [Mokhuri](https://www.mokhuri.com/) Oriental Hospitals as KMD
-- My blog
-  - https://blog.chojaeseong.com/ (opened) 
-  - https://nittaku.tistory.com (closed)
 
 #### ✒ My Git and Algorithm Problem Solving Tier(백준)
 
