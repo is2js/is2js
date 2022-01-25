@@ -100,7 +100,7 @@
     ><img
       src="https://img.shields.io/badge/tingstyle1@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tingstyle1@gmail.com"
   /></a>
-  <a href="https://www.facebook.com/tingstyle1"
+  <a href="https://www.facebook.com/realtingstyle"
     ><img
       src="https://img.shields.io/badge/Facebook.com/realstyle-1877F2?style=flat-square&logo=facebook&logoColor=white"
   /></a>
