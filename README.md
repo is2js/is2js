@@ -89,8 +89,23 @@
 <!-- 연락처 -->
 <h2 align="center">👋 Contanct Me!  </h2>
 
-<p align="center">
+<!-- <p align="center">
     <a href="mailto:tingstyle1@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tingstyle1@gmail.com"/></a>&nbsp
     <a href="https://www.facebook.com/realtingstyle"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
     <a href="https://www.github.com/is2js"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
+</p> -->
+
+<p align="center">
+  <a href="mailto:tingstyle1@gmail.com"
+    ><img
+      src="https://img.shields.io/badge/tingstyle1@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tingstyle1@gmail.com"
+  /></a>
+  <a href="https://www.facebook.com/tingstyle1"
+    ><img
+      src="https://img.shields.io/badge/Facebook.com/realstyle-1877F2?style=flat-square&logo=facebook&logoColor=white"
+  /></a>
+  <a href="https://www.github.com/is2js"
+    ><img
+      src="https://img.shields.io/badge/GitHub.com/is2js-100000?style=flat-square&logo=github&logoColor=white"
+  /></a>
 </p>
