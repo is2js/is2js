@@ -1,6 +1,6 @@
 <!-- 헤더 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=f6ebe1&height=150&section=header&text=ReturningStudent%20for%20Engineer&fontSize=50&fontColor=152447&desc=데이터의%20매력에%20빠진%20돌아온범생의%20엔지니어%20도전&descAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f6ebe1&height=150&section=header&text=ReturningStudent%20for%20Engineer&fontSize=50&fontColor=152447&desc=데이터의%20매력에%20빠져%20돌아온범생의,%20엔지니어%20도전기&descAlignY=80)
 
 ##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"> Hi! I'm Jaeseong Cho ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fis2js.github.io%2Fblog_raw&count_bg=152447&title_bg=f6ebe1&icon_color=%23E1DFDF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)
 
@@ -31,7 +31,7 @@
 
 #### 🏷 Certificates/Papers
 - **Certificate**
-    - **2022.02~ M.S. candidate(Statistics/Bioinformatics, '바이오통계 석사')**
+    - **2022.02~ M.S. candidate(Statistics/Bioinformatics, `바이오통계 석사`)**
     - 2021.02 General training(`일반수련의`)
     - 2020.02 B.S. in Korean Oriental Medicine(`한의사`)
     - 2019.09 Engineer Information Processing(`정보처리기사`)
