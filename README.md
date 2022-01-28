@@ -1,22 +1,22 @@
 <!-- 헤더 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=f6ebe1&height=150&section=header&text=ReturningStudent%20for%20Engineer&fontSize=50&fontColor=152447&desc=데이터의%20매력에%20빠져%20돌아온범생의%20우아한%20엔지니어%20도전기&descAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f6ebe1&height=150&section=header&text=ReturningStudent%20for%20Engineer&fontSize=50&fontColor=152447&desc=데이터의%20매력에%20빠져%20돌아온%20범생의%20우아한%20엔지니어%20도전기&descAlignY=80)
 
 ##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"> Hi! I'm Jaeseong Cho ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fis2js.github.io%2Fblog_raw&count_bg=152447&title_bg=f6ebe1&icon_color=%23E1DFDF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)
-
-#### 🌱 I’m currently learning about below in  [`git`](https://blog.chojaeseong.com/categories/#git), `python3.8+`, (pytest), [`pyenv`](https://blog.chojaeseong.com/categories/#configuration) on `Wsl2` with `VScode`
-- **Backend** with `flask` (, fastapi)
+<!-- in  [`git`](https://blog.chojaeseong.com/categories/#git), `python3.8+`, (pytest), [`pyenv`](https://blog.chojaeseong.com/categories/#configuration) on `Wsl2` with `VScode` -->
+#### 🌱 *I’m currently learning about below* 
+- ***Backend*** with `flask` (, fastapi)
 - (Pipeline and Infra with airflow, PySpark in) `Docker` on `Ncloud` or `GCP` (or AWS)
-- **DataScience/DataAnalysis** with `Pandas`, `NLP` by (TF2.0 and) `Keras`
-- **SQL** <-> **SQLAlchemy** with `PostgreSQL`, `MySQL`, `SQLAlchemy` on `Docker` (or Bigquery) 
-- **My blog**
-  - https://blog.chojaeseong.com/ (opened) 
-  - https://nittaku.tistory.com (closed)
+- ***DataScience/DataAnalysis*** with `Pandas`, `NLP` by (TF2.0 and) `Keras`
+- ***SQL,SQLAlchemy*** with `PostgreSQL`, `MySQL`, `SQLAlchemy` on `Docker` (or Bigquery) 
+- ***My blog***
+  - https://blog.chojaeseong.com/ (**~ing**) 
+  - https://nittaku.tistory.com (closed, **누적방문자 300만**)
 
-#### 👨‍⚕️ I'm Korean Medicine Doctor
-- Worked at [CY](http://www.cyhani.com/) and Gangnam [Mokhuri](https://www.mokhuri.com/) Oriental Hospitals as KMD
+#### 👨‍⚕️ *I'm Korean Medicine Doctor*
+- Worked at ***[CY](http://www.cyhani.com/)*** and ***[Gangnam Mokhuri](https://www.mokhuri.com/)*** Oriental Hospitals as KMD
 
-#### ✒ My Git and Algorithm Problem Solving Tier(백준)
+#### ✒ *My Git and Algorithm Problem Solving Tier(백준)*
 
 <!-- <p align="center"><small>꾸준함과 성실함을 무기로 <strong><a target="_blank" style="color:crimson;" href="https://blog.chojaeseong.com/mygit/" important!>1일 1Commit</a></strong>과 <strong><a target="_blank" style="color:crimson;" href="https://solved.ac/profile/tingstyle1" important!>1일 1PS</a></strong>를 실천합니다. -->
 <p align="center">
@@ -29,17 +29,17 @@
   </a>
 </p>
 
-#### 🏷 Certificates/Papers
-- **Certificate**
+#### 🏷 *Certificates/Papers*
+- ***Certificate***
     - **2022.02~ M.S. candidate(Statistics/Bioinformatics, `바이오통계 석사`)**
     - 2021.02 General training(`일반수련의`)
     - 2020.02 B.S. in Korean Oriental Medicine(`한의사`)
     - 2019.09 Engineer Information Processing(`정보처리기사`)
     - 2019.04 Sqld(`SQL 개발자`), Adsp(`데이터분석 준 전문가`)
     
-- **Paper**
+- ***Paper***
     - **Identification of Toxic Herbs Using Deep Learning** with Focus on the Sinomenium Acutum, Aristolochiae Manshuriensis Caulis, Akebiae Caulis [Accepted: 2019. 12](https://www.mdpi.com/2076-3417/9/24/5456)
-#### 🚴‍♂️ Experiences/Studies 
+#### 🚴‍♂️ *Experiences/Studies* 
 <!-- - **Experience** -->
 - **2021.11 ~ 2022.11) 🪐 우아한테크코스 백엔드과정 [프리코스](https://github.com/is2js/woowa_precourse) 후 4기 선발**
 - 2021.09 ~ 11) 🦁 [멋쟁이사자처럼](https://projectlion.io/courses/technology/naver) X Ncloud and Clova를 활용한 인공지능 서비스 과정-[수료증](https://raw.githubusercontent.com/is3js/screenshots/main/image-20211104162738975.png)
@@ -58,7 +58,7 @@
     - 2018.7~8) DSschool X Pandas중급반(5기) 수료(Offline)-[수료증](https://raw.githubusercontent.com/is3js/screenshots/main/image-20211017160223696.png)
     - 2018.6) DSschool X  딥러닝반(8기) 수료(Offline)-[수료증](https://raw.githubusercontent.com/is3js/screenshots/main/image-20211017160238368.png)
  -->
-#### ✨ Awards
+#### ✨ *Awards*
 - 동신대학교 한의학과 최우수 졸업(수석 졸업)
 - 대한한의학회 한의대 미래인재육성 프로젝트 장학생(대상)
 - 빅데이터 청년인재 전체 장려상(고려대내 2위)
