@@ -31,11 +31,11 @@
 
 #### 🏷 *Certificates/Papers*
 - ***Certificate***
-    - ***2022.02~ M.S. candidate(Statistics/Bioinformatics, `바이오통계 석사`)***
-    - *2021.02 General training(`일반수련의`)*
-    - *2020.02 B.S. in Korean Oriental Medicine(`한의사`)*
-    - *2019.09 Engineer Information Processing(`정보처리기사`)*
-    - *2019.04 Sqld(`SQL 개발자`), Adsp(`데이터분석 준 전문가`)*
+    - ***2022.02~ M.S. candidate(Statistics/Bioinformatics, *`바이오통계 석사`*)***
+    - *2021.02 General training(`*일반수련의`*)*
+    - *2020.02 B.S. in Korean Oriental Medicine(*`한의사`*)*
+    - *2019.09 Engineer Information Processing(*`정보처리기사`*)*
+    - *2019.04 Sqld(*`SQL 개발자`*), Adsp(*`데이터분석 준 전문가`*)*
     
 - ***Paper***
     - ***Identification of Toxic Herbs Using Deep Learning** with Focus on the Sinomenium Acutum, Aristolochiae Manshuriensis Caulis, Akebiae Caulis [Accepted: 2019. 12](https://www.mdpi.com/2076-3417/9/24/5456)*
