@@ -10,8 +10,8 @@
 - ***DataScience/DataAnalysis*** with `Pandas`, `NLP` by (TF2.0 and) `Keras`
 - ***SQL, SQLAlchemy*** with `PostgreSQL`, `MySQL`, `SQLAlchemy` on `Docker` (or Bigquery) 
 - ***My blog***
-  - https://blog.chojaeseong.com/ (**~ing**) 
-  - https://nittaku.tistory.com (closed, **누적방문자 300만**)
+  - *https://blog.chojaeseong.com/ (**~ing**)*
+  - *https://nittaku.tistory.com (closed, **누적방문자 300만**)*
 
 #### 👨‍⚕️ *I'm Korean Medicine Doctor*
 - Worked at ***[CY](http://www.cyhani.com/)*** and ***[Gangnam Mokhuri](https://www.mokhuri.com/)*** Oriental Hospitals as KMD
@@ -31,7 +31,7 @@
 
 #### 🏷 *Certificates/Papers*
 - ***Certificate***
-    - **2022.02~ M.S. candidate(Statistics/Bioinformatics, `바이오통계 석사`)**
+    - ***2022.02~ M.S. candidate(Statistics/Bioinformatics, `바이오통계 석사`)***
     - *2021.02 General training(`일반수련의`)*
     - *2020.02 B.S. in Korean Oriental Medicine(`한의사`)*
     - *2019.09 Engineer Information Processing(`정보처리기사`)*
