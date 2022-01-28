@@ -4,7 +4,7 @@
 
 ##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"> Hi! I'm Jaeseong Cho ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fis2js.github.io%2Fblog_raw&count_bg=152447&title_bg=f6ebe1&icon_color=%23E1DFDF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)
 <!-- in  [`git`](https://blog.chojaeseong.com/categories/#git), `python3.8+`, (pytest), [`pyenv`](https://blog.chojaeseong.com/categories/#configuration) on `Wsl2` with `VScode` -->
-#### 🌱 *I’m currently learning about below* ***with 2 based language*** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) and ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+#### 🌱 *I’m currently learning about below with 2 based language `python` and `java`*
 - ***Backend*** with `flask` (, fastapi, spring boot)
 - (Pipeline and Infra with airflow, PySpark in) `Docker` on `Ncloud` or `GCP` (or AWS)
 - ***DataScience/DataAnalysis*** with `Pandas`, `NLP` by (TF2.0 and) `Keras`
