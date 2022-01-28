@@ -8,7 +8,7 @@
 - ***Backend*** with `flask` (, fastapi)
 - (Pipeline and Infra with airflow, PySpark in) `Docker` on `Ncloud` or `GCP` (or AWS)
 - ***DataScience/DataAnalysis*** with `Pandas`, `NLP` by (TF2.0 and) `Keras`
-- ***SQL,SQLAlchemy*** with `PostgreSQL`, `MySQL`, `SQLAlchemy` on `Docker` (or Bigquery) 
+- ***SQL, SQLAlchemy*** with `PostgreSQL`, `MySQL`, `SQLAlchemy` on `Docker` (or Bigquery) 
 - ***My blog***
   - https://blog.chojaeseong.com/ (**~ing**) 
   - https://nittaku.tistory.com (closed, **누적방문자 300만**)
@@ -32,13 +32,13 @@
 #### 🏷 *Certificates/Papers*
 - ***Certificate***
     - **2022.02~ M.S. candidate(Statistics/Bioinformatics, `바이오통계 석사`)**
-    - 2021.02 General training(`일반수련의`)
-    - 2020.02 B.S. in Korean Oriental Medicine(`한의사`)
-    - 2019.09 Engineer Information Processing(`정보처리기사`)
-    - 2019.04 Sqld(`SQL 개발자`), Adsp(`데이터분석 준 전문가`)
+    - *2021.02 General training(`일반수련의`)*
+    - *2020.02 B.S. in Korean Oriental Medicine(`한의사`)*
+    - *2019.09 Engineer Information Processing(`정보처리기사`)*
+    - *2019.04 Sqld(`SQL 개발자`), Adsp(`데이터분석 준 전문가`)*
     
 - ***Paper***
-    - **Identification of Toxic Herbs Using Deep Learning** with Focus on the Sinomenium Acutum, Aristolochiae Manshuriensis Caulis, Akebiae Caulis [Accepted: 2019. 12](https://www.mdpi.com/2076-3417/9/24/5456)
+    - ***Identification of Toxic Herbs Using Deep Learning** with Focus on the Sinomenium Acutum, Aristolochiae Manshuriensis Caulis, Akebiae Caulis [Accepted: 2019. 12](https://www.mdpi.com/2076-3417/9/24/5456)*
 #### 🚴‍♂️ *Experiences/Studies* 
 <!-- - **Experience** -->
 - **2021.11 ~ 2022.11) 🪐 우아한테크코스 백엔드과정 [프리코스](https://github.com/is2js/woowa_precourse) 후 4기 선발**
