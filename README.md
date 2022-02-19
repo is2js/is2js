@@ -1,17 +1,16 @@
 <!-- 헤더 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=f6ebe1&height=150&section=header&text=ReturningStudent%20for%20Engineer&fontSize=50&fontColor=152447&desc=평범한%20한의사%20돌범의%20우아한%20엔지니어%20도전기&descAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f6ebe1&height=150&section=header&text=ReturnedStudent%20for%20Engineer&fontSize=50&fontColor=152447&desc=평범한%20한의사%20돌범의%20우아한%20엔지니어%20도전기&descAlignY=80)
 
 ##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"> *Hi! I'm Jaeseong Cho* ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fis2js.github.io%2Fblog_raw&count_bg=152447&title_bg=f6ebe1&icon_color=%23E1DFDF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)
 <!-- in  [`git`](https://blog.chojaeseong.com/categories/#git), `python3.8+`, (pytest), [`pyenv`](https://blog.chojaeseong.com/categories/#configuration) on `Wsl2` with `VScode` -->
 #### 🌱 *I’m currently learning about below with 2 based language ![Python](https://img.shields.io/badge/Python-%2320232a?style=flat&logo=python&color=152347) and ![Java](https://img.shields.io/badge/Java-%2320232a.svg?style=flat&logo=java&logoColor=6DB33F&color=152347)*
-- ***Backend*** with `flask` (, fastapi, spring boot)
-- (Pipeline and Infra with airflow, PySpark in) `Docker` on `Ncloud` or `GCP` (or AWS)
+- ***Backend*** with `flask`
 - ***DataScience/DataAnalysis*** with `Pandas`, `NLP` by (TF2.0 and) `Keras`
-- ***SQL, SQLAlchemy*** with `PostgreSQL`, `MySQL`, `SQLAlchemy` on `Docker` (or Bigquery) 
+- ***SQL, SQLAlchemy*** with `PostgreSQL`, `MySQL`, `SQLAlchemy` on `Docker`
 - ***My blog***
   - *https://blog.chojaeseong.com/ (**~ing**)*
-  - *https://nittaku.tistory.com (closed, **누적방문자 300만**)*
+  - *https://nittaku.tistory.com (closed, **누적방문자 300만↑**)*
 
 #### 👨‍⚕️ *I'm Korean Medicine Doctor*
 - Worked at ***[CY](http://www.cyhani.com/)*** and ***[Gangnam Mokhuri](https://www.mokhuri.com/)*** Oriental Hospitals as KMD
