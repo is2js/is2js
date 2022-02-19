@@ -10,7 +10,7 @@
 - ***SQL, SQLAlchemy*** with `PostgreSQL`, `MySQL`, `SQLAlchemy` on `Docker`
 - ***My blog***
   - *https://blog.chojaeseong.com/ (**~ing**)*
-  - *https://nittaku.tistory.com (closed, **누적방문자 300만⬆**)*
+  - *https://nittaku.tistory.com (closed, **누적방문자 300만 ↑**)*
 
 #### 👨‍⚕️ *I'm Korean Medicine Doctor*
 - Worked at ***[CY](http://www.cyhani.com/)*** and ***[Gangnam Mokhuri](https://www.mokhuri.com/)*** Oriental Hospitals as KMD
