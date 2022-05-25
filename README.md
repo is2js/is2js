@@ -39,6 +39,12 @@
 
 <!-- in  [`git`](https://blog.chojaeseong.com/categories/#git), `python3.8+`, (pytest), [`pyenv`](https://blog.chojaeseong.com/categories/#configuration) on `Wsl2` with `VScode` -->
 #### 🌱 *I’m currently learning about below with 2 based language ![Python](https://img.shields.io/badge/Python-%2320232a?style=flat&logo=python&color=152347) and ![Java](https://img.shields.io/badge/Java-%2320232a.svg?style=flat&logo=java&logoColor=6DB33F&color=152347)*
+- **Area of interest**
+    - ![OOP](https://img.shields.io/badge/OOP-%2320232a.svg?style=flat&logo=SlickPic&logoColor=FFFFFF&color=152347)
+    - ![TDD](https://img.shields.io/badge/TestDrivenDevelopment-%2320232a.svg?style=flat&logo=FutureLearn&logoColor=FFFFFF&color=152347)
+    - ![Clean Code](https://img.shields.io/badge/CleanCode-%2320232a.svg?style=flat&logo=Textpattern&logoColor=FFFFFF&color=152347)
+    - ![Design Pattern](https://img.shields.io/badge/DesignPattern-%2320232a.svg?style=flat&logo=SlickPic&logoColor=FFFFFF&color=152347)
+
 - ***Backend*** with <kbd>flask</kbd>, <kbd>fastAPI</kbd>, <kbd>SpringBoot</kbd>
 - ***DataScience/DataAnalysis*** with <kbd>pandas</kbd>, <kbd>NLP</kbd> by <kbd>TF2.0</kbd> and <kbd>Keras</kbd>
 - ***SQL, SQLAlchemy*** with <kbd>PostgreSQL</kbd>, <kbd>Mysql</kbd>, <kbd>SQLAlchemy</kbd> on <kbd>Docker</kbd>
