@@ -32,10 +32,9 @@
 
 #### ✨ *Awards*
 - 동신대학교 한의학과 최우수 졸업(수석 졸업)
-- 대한한의학회 한의대 미래인재육성 프로젝트 장학생(대상)
+<!-- - 대한한의학회 한의대 미래인재육성 프로젝트 장학생(대상)
 - 빅데이터 청년인재 전체 장려상(고려대내 2위)
-- 동신대학교 창업동아리 경진대회 최우수상(1위)
-
+- 동신대학교 창업동아리 경진대회 최우수상(1위) -->
 
 <!-- in  [`git`](https://blog.chojaeseong.com/categories/#git), `python3.8+`, (pytest), [`pyenv`](https://blog.chojaeseong.com/categories/#configuration) on `Wsl2` with `VScode` -->
 #### 🌱 *I’m currently learning about below with 2 based language ![Python](https://img.shields.io/badge/Python-%2320232a?style=flat&logo=python&color=152347) and ![Java](https://img.shields.io/badge/Java-%2320232a.svg?style=flat&logo=java&logoColor=6DB33F&color=152347)*
@@ -45,8 +44,8 @@
 - ***DataScience/DataAnalysis*** with <kbd>pandas</kbd>, <kbd>NLP</kbd> by <kbd>TF2.0</kbd> and <kbd>Keras</kbd>
 - ***SQL, SQLAlchemy*** with <kbd>PostgreSQL</kbd>, <kbd>Mysql</kbd>, <kbd>SQLAlchemy</kbd> on <kbd>Docker</kbd>
 - ***My blog***
-  - *https://blog.chojaeseong.com/ (**~ing**)*
-  - *https://nittaku.tistory.com (closed, **누적방문자 300만 ↑**)*
+  - *develop blog: https://blog.chojaeseong.com/ (**~ing**)*
+  - *datascience blog: https://nittaku.tistory.com (closed, **누적방문자 300만 ↑**)*
 
 
 #### ✒ *My Git and Algorithm Problem Solving Tier(백준)*
