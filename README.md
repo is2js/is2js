@@ -5,14 +5,14 @@
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> -->
 ## *Hi! I'm Jaeseong Cho* ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fis2js.github.io%2Fblog_raw&count_bg=152447&title_bg=f6ebe1&icon_color=%23E1DFDF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)
 
-#### 👨‍⚕️ *I'm Korean Medicine Doctor*
+#### 👨‍⚕️ *I'm Doctor of Korean Medicine*
 - Worked at ***[CY](http://www.cyhani.com/)*** and ***[Gangnam Mokhuri](https://www.mokhuri.com/)*** Oriental Hospitals as KMD
 
 #### 🏷 *Certificates/Papers*
 - ***Certificate***
     - ***2022.02~ M.S. candidate(Statistics/Bioinformatics,*** **`바이오통계 석사`** ***)***
     - *2021.02 General training(*`일반수련의`*)*
-    - *2020.02 B.S. in Korean Oriental Medicine(*`한의사`*)*
+    - *2020.02 B.S. in Korean Oriental Medicine Colleage(*`한의사`*)*
     - *2019.09 Engineer Information Processing(*`정보처리기사`*)*
     - *2019.04 Sqld(*`SQL 개발자`*), Adsp(*`데이터분석 준 전문가`*)*
     
