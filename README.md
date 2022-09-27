@@ -5,6 +5,59 @@
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> -->
 ## *Hi! I'm Jaeseong Cho* ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fis2js.github.io%2Fblog_raw&count_bg=152447&title_bg=f6ebe1&icon_color=%23E1DFDF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)
 
+
+<!-- in  [`git`](https://blog.chojaeseong.com/categories/#git), `python3.8+`, (pytest), [`pyenv`](https://blog.chojaeseong.com/categories/#configuration) on `Wsl2` with `VScode` -->
+
+#### 🌱 *I’m currently learning about below with 2 based language ![Python](https://img.shields.io/badge/Python-%2320232a?style=flat&logo=python&color=152347) and ![Java](https://img.shields.io/badge/Java-%2320232a.svg?style=flat&logo=java&logoColor=6DB33F&color=152347)*
+
+- ***Interested*** in ![OOP](https://img.shields.io/badge/OOP-%2320232a.svg?style=flat&logo=SlickPic&logoColor=FFFFFF&color=152347) ![TDD](https://img.shields.io/badge/TestDrivenDevelopment-%2320232a.svg?style=flat&logo=FutureLearn&logoColor=FFFFFF&color=152347) ![Clean Code](https://img.shields.io/badge/CleanCode-%2320232a.svg?style=flat&logo=Textpattern&logoColor=FFFFFF&color=152347) ![Design Pattern](https://img.shields.io/badge/DesignPattern-%2320232a.svg?style=flat&logo=SlickPic&logoColor=FFFFFF&color=152347)
+
+
+
+- ***Backend*** with <kbd>flask</kbd>, <kbd>fastAPI</kbd>, <kbd>SpringBoot</kbd>
+
+- ***Test*** with <kbd>pytest</kbd>, <kbd>JUnit5</kbd>
+
+- ***DataScience/DataAnalysis*** with <kbd>pandas</kbd>, <kbd>NLP</kbd> by <kbd>TF2.0</kbd> and <kbd>Keras</kbd>
+
+- ***SQL, SQLAlchemy*** with <kbd>PostgreSQL</kbd>, <kbd>Mysql</kbd>, <kbd>SQLAlchemy</kbd> on <kbd>Docker</kbd>
+
+- ***My blog***
+
+  - *develop blog: https://blog.chojaeseong.com/ (**~ing**)*
+
+  - *datascience blog: https://nittaku.tistory.com (closed, **누적방문자 300만 ↑**)*
+
+
+
+
+
+#### ✒ *My Git and Algorithm Problem Solving Tier(백준)*
+
+
+
+<!-- <p align="center"><small>꾸준함과 성실함을 무기로 <strong><a target="_blank" style="color:crimson;" href="https://blog.chojaeseong.com/mygit/" important!>1일 1Commit</a></strong>과 <strong><a target="_blank" style="color:crimson;" href="https://solved.ac/profile/tingstyle1" important!>1일 1PS</a></strong>를 실천합니다. -->
+
+<p align="center">
+
+  <a href="#">
+
+    <!--   graywhite or nord theme -->
+
+      <img src="https://github-readme-stats.vercel.app/api?username=is2js&theme=graywhite&show_icons=true" height="150px">
+
+  </a>
+
+  <a href="#">
+
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tingstyle1&cache=c" height="150px">
+
+  </a>
+
+
+</p>
+
+
 #### 👨‍⚕️ *I'm Doctor of Korean Medicine*
 - Worked at ***[CY](http://www.cyhani.com/)*** and ***[Gangnam Mokhuri](https://www.mokhuri.com/)*** Oriental Hospitals as KMD
 
@@ -37,30 +90,7 @@
 - 빅데이터 청년인재 전체 장려상(고려대내 2위)
 - 동신대학교 창업동아리 경진대회 최우수상(1위) -->
 
-<!-- in  [`git`](https://blog.chojaeseong.com/categories/#git), `python3.8+`, (pytest), [`pyenv`](https://blog.chojaeseong.com/categories/#configuration) on `Wsl2` with `VScode` -->
-#### 🌱 *I’m currently learning about below with 2 based language ![Python](https://img.shields.io/badge/Python-%2320232a?style=flat&logo=python&color=152347) and ![Java](https://img.shields.io/badge/Java-%2320232a.svg?style=flat&logo=java&logoColor=6DB33F&color=152347)*
-- ***Interested*** in ![OOP](https://img.shields.io/badge/OOP-%2320232a.svg?style=flat&logo=SlickPic&logoColor=FFFFFF&color=152347) ![TDD](https://img.shields.io/badge/TestDrivenDevelopment-%2320232a.svg?style=flat&logo=FutureLearn&logoColor=FFFFFF&color=152347) ![Clean Code](https://img.shields.io/badge/CleanCode-%2320232a.svg?style=flat&logo=Textpattern&logoColor=FFFFFF&color=152347) ![Design Pattern](https://img.shields.io/badge/DesignPattern-%2320232a.svg?style=flat&logo=SlickPic&logoColor=FFFFFF&color=152347)
 
-- ***Backend*** with <kbd>flask</kbd>, <kbd>fastAPI</kbd>, <kbd>SpringBoot</kbd>
-- ***DataScience/DataAnalysis*** with <kbd>pandas</kbd>, <kbd>NLP</kbd> by <kbd>TF2.0</kbd> and <kbd>Keras</kbd>
-- ***SQL, SQLAlchemy*** with <kbd>PostgreSQL</kbd>, <kbd>Mysql</kbd>, <kbd>SQLAlchemy</kbd> on <kbd>Docker</kbd>
-- ***My blog***
-  - *develop blog: https://blog.chojaeseong.com/ (**~ing**)*
-  - *datascience blog: https://nittaku.tistory.com (closed, **누적방문자 300만 ↑**)*
-
-
-#### ✒ *My Git and Algorithm Problem Solving Tier(백준)*
-
-<!-- <p align="center"><small>꾸준함과 성실함을 무기로 <strong><a target="_blank" style="color:crimson;" href="https://blog.chojaeseong.com/mygit/" important!>1일 1Commit</a></strong>과 <strong><a target="_blank" style="color:crimson;" href="https://solved.ac/profile/tingstyle1" important!>1일 1PS</a></strong>를 실천합니다. -->
-<p align="center">
-  <a href="#">
-    <!--   graywhite or nord theme -->
-      <img src="https://github-readme-stats.vercel.app/api?username=is2js&theme=graywhite&show_icons=true" height="150px">
-  </a>
-  <a href="#">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tingstyle1&cache=c" height="150px">
-  </a>
-</p>
 
 
 
