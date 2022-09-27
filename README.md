@@ -16,7 +16,7 @@
 
 - ***Backend*** with <kbd>flask</kbd>, <kbd>fastAPI</kbd>, <kbd>SpringBoot</kbd>
 
-- ***Test*** with <kbd>pytest</kbd>, <kbd>JUnit5</kbd>
+- ***Testing*** with <kbd>pytest</kbd>, <kbd>JUnit5</kbd>
 
 - ***DataScience/DataAnalysis*** with <kbd>pandas</kbd>, <kbd>NLP</kbd> by <kbd>TF2.0</kbd> and <kbd>Keras</kbd>
 
@@ -30,31 +30,15 @@
 
 
 
-
-
 #### ✒ *My Git and Algorithm Problem Solving Tier(백준)*
 
-
-
-<!-- <p align="center"><small>꾸준함과 성실함을 무기로 <strong><a target="_blank" style="color:crimson;" href="https://blog.chojaeseong.com/mygit/" important!>1일 1Commit</a></strong>과 <strong><a target="_blank" style="color:crimson;" href="https://solved.ac/profile/tingstyle1" important!>1일 1PS</a></strong>를 실천합니다. -->
-
 <p align="center">
-
   <a href="#">
-
-    <!--   graywhite or nord theme -->
-
-      <img src="https://github-readme-stats.vercel.app/api?username=is2js&theme=graywhite&show_icons=true" height="150px">
-
+    <img src="https://github-readme-stats.vercel.app/api?username=is2js&theme=graywhite&show_icons=true" height="150px">
   </a>
-
   <a href="#">
-
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tingstyle1&cache=c" height="150px">
-
   </a>
-
-
 </p>
 
 
