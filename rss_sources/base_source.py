@@ -1,5 +1,5 @@
 from rss_sources.utils import parse_logger
-from opengraph_py3 import OpenGraph
+# from opengraph_py3 import OpenGraph
 
 from rss_sources.parser import RssParser
 from rss_sources.utils import requests_url
@@ -72,14 +72,14 @@ class BaseSource:
     def map(self, feed):
         return feed
 
-    @staticmethod
-    def _get_og_image_url(current_url):
-
-        og = OpenGraph(current_url, features='html.parser')
-        if not og.is_valid():
-            return None
-
-        return og.get('image', None)
+    # @staticmethod
+    # def _get_og_image_url(current_url):
+    #
+    #     og = OpenGraph(current_url, features='html.parser')
+    #     if not og.is_valid():
+    #         return None
+    #
+    #     return og.get('image', None)
 
 
 

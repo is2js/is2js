@@ -123,7 +123,7 @@
   /></a>
 </p>
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-15 15:36:05)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-15 15:43:46)</small>    
 <!-- START -->
 
 <div align="center">
@@ -210,7 +210,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-15 15:36:12)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-15 15:43:49)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -247,7 +247,7 @@
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <a href="https://nittaku.tistory.com/514">
-                    <img width="120px" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png" style="margin:0;" alt="empty">
+                    <img width="120px" src="./rss_sources/images/tistory.png" style="margin:0;" alt="empty">
                 </a>
             </td>
             <td>
@@ -262,7 +262,7 @@
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <a href="https://nittaku.tistory.com/513">
-                    <img width="120px" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png" style="margin:0;" alt="empty">
+                    <img width="120px" src="./rss_sources/images/tistory.png" style="margin:0;" alt="empty">
                 </a>
             </td>
             <td>
@@ -277,7 +277,7 @@
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <a href="https://nittaku.tistory.com/512">
-                    <img width="120px" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png" style="margin:0;" alt="empty">
+                    <img width="120px" src="./rss_sources/images/tistory.png" style="margin:0;" alt="empty">
                 </a>
             </td>
             <td>
@@ -293,7 +293,7 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-15 15:36:12)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-15 15:43:50)</small>    
 <!-- START -->
 <div align="center">
     <table>
