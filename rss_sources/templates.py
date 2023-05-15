@@ -61,9 +61,12 @@ BLOG_FEED_TEMPLATE = '''\
 URL_FEED_TEMPLATE = '''\
         <tr>
             <td align="center" width="120px" style="padding:0;">
-                <a href="{}" style="color:grey;text-decoration: none;">
-                    {}{}
-                </a>
+                <h6>
+                    <a href="{}" style="color:grey;text-decoration: none;">
+                        {}
+                    </a>
+                </h6>
+                <sup><sub>{}</sub></sup>
             </td>
             <td>
                 <h5>

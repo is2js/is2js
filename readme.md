@@ -123,7 +123,7 @@
   /></a>
 </p>
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-15 15:20:11)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-15 15:23:44)</small>    
 <!-- START -->
 
 <div align="center">
@@ -210,7 +210,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-15 15:20:17)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-15 15:23:52)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -293,15 +293,18 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-15 15:20:18)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-15 15:23:52)</small>    
 <!-- START -->
 <div align="center">
     <table>
         <tr>
             <td align="center" width="120px" style="padding:0;">
-                <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                    민족의학신문
-                </a>
+                <h6>
+                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                        민족의학신문
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
             </td>
             <td>
                 <h5>
@@ -314,9 +317,12 @@
         </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
-                <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                    민족의학신문
-                </a>
+                <h6>
+                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                        민족의학신문
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
             </td>
             <td>
                 <h5>
@@ -329,9 +335,12 @@
         </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
-                <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                    민족의학신문
-                </a>
+                <h6>
+                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                        민족의학신문
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
             </td>
             <td>
                 <h5>
@@ -344,9 +353,12 @@
         </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
-                <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                    민족의학신문
-                </a>
+                <h6>
+                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                        민족의학신문
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
             </td>
             <td>
                 <h5>
@@ -359,9 +371,12 @@
         </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
-                <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                    왓챠</br><small>유엑스디자인</small>
-                </a>
+                <h6>
+                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                        왓챠
+                    </a>
+                </h6>
+                <sup><sub></br><small>유엑스디자인</small></sub></sup>
             </td>
             <td>
                 <h5>
