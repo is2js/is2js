@@ -119,8 +119,8 @@ class BlogMarkdown(Markdown):
                 feed['url'],
                 feed['thumbnail_url'],
                 feed['url'],
-                f'<span style="color:black">{feed["source_name"]}) </span>' if prefix else '',
                 feed['title'],
+                f'{feed["source_name"]}' if prefix else '',
                 feed['published_string']
             )
             feed_template_result += feed_text
@@ -142,7 +142,7 @@ class URLMarkdown(Markdown):
             feed_text = feed_template.format(
                 feed['source_url'],
                 feed['source_name'],
-                f"</br><small>{feed['category']}</small>" if feed['category'] else '',
+                f"{feed['category']}" if feed['category'] else '',
                 feed['url'],
                 feed['title'],
                 feed['published_string']
