@@ -29,10 +29,12 @@ YOUTUBE_FEED_TEMPLATE = '''\
                 </a>
             </td>
             <td>
-                <a href="{}" style="color:red;text-decoration: none;">
-                    <h5>{}{}</h5>
-                </a>
-                <small style="color:grey">{}</small>
+                <h5>
+                    <a href="{}" style="color:red;text-decoration: none;">
+                        {}{}
+                    </a>
+                </h5>
+                <sup><sub>{}</sub></sup>
             </td>
         </tr>
 '''
@@ -52,7 +54,7 @@ BLOG_FEED_TEMPLATE = '''\
                     </a>
                 </h5>
                 </br>
-                <sup>{}</sup>
+                <sup><sub>{}</sub></sup>
             </td>
         </tr>
 '''
@@ -65,11 +67,13 @@ URL_FEED_TEMPLATE = '''\
                 </a>
             </td>
             <td>
-                <a href="{}" style="color:black;text-decoration: none;">
-                    <bold>{}</bold>
-                </a>
+                <h5>
+                    <a href="{}" style="color:black;text-decoration: none;">
+                        {}
+                    </a>
+                </h5>
                 </br>
-                <sup>{}</sup>
+                <sup><sub>{}</sub></sup>
             </td>
         </tr>
 '''

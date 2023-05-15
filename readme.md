@@ -123,7 +123,7 @@
   /></a>
 </p>
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-15 15:11:34)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-15 15:19:17)</small>    
 <!-- START -->
 
 <div align="center">
@@ -138,10 +138,12 @@
                 </a>
             </td>
             <td>
-                <a href="https://www.youtube.com/watch?v=7NER1ikd8AU" style="color:red;text-decoration: none;">
-                    <h5>체스 미션 최종 5단계 구현</h5>
-                </a>
-                <small style="color:grey">2022년 04월 12일 15시 34분 11초</small>
+                <h5>
+                    <a href="https://www.youtube.com/watch?v=7NER1ikd8AU" style="color:red;text-decoration: none;">
+                        체스 미션 최종 5단계 구현
+                    </a>
+                </h5>
+                <sup><sub>2022년 04월 12일 15시 34분 11초</sub></sup>
             </td>
         </tr>
         <tr>
@@ -151,10 +153,12 @@
                 </a>
             </td>
             <td>
-                <a href="https://www.youtube.com/watch?v=GZBNcOFdA1Y" style="color:red;text-decoration: none;">
-                    <h5>포돌이 체스(css적용버전)</h5>
-                </a>
-                <small style="color:grey">2022년 04월 09일 14시 59분 13초</small>
+                <h5>
+                    <a href="https://www.youtube.com/watch?v=GZBNcOFdA1Y" style="color:red;text-decoration: none;">
+                        포돌이 체스(css적용버전)
+                    </a>
+                </h5>
+                <sup><sub>2022년 04월 09일 14시 59분 13초</sub></sup>
             </td>
         </tr>
         <tr>
@@ -164,10 +168,12 @@
                 </a>
             </td>
             <td>
-                <a href="https://www.youtube.com/watch?v=On2Vr3b5Uko" style="color:red;text-decoration: none;">
-                    <h5>포돌이 체스 4단계 구현</h5>
-                </a>
-                <small style="color:grey">2022년 04월 07일 17시 49분 24초</small>
+                <h5>
+                    <a href="https://www.youtube.com/watch?v=On2Vr3b5Uko" style="color:red;text-decoration: none;">
+                        포돌이 체스 4단계 구현
+                    </a>
+                </h5>
+                <sup><sub>2022년 04월 07일 17시 49분 24초</sub></sup>
             </td>
         </tr>
         <tr>
@@ -177,10 +183,12 @@
                 </a>
             </td>
             <td>
-                <a href="https://www.youtube.com/watch?v=QimOG53PNkg" style="color:red;text-decoration: none;">
-                    <h5>한의대생들을 위한 근육침법</h5>
-                </a>
-                <small style="color:grey">2021년 12월 22일 08시 28분 10초</small>
+                <h5>
+                    <a href="https://www.youtube.com/watch?v=QimOG53PNkg" style="color:red;text-decoration: none;">
+                        한의대생들을 위한 근육침법
+                    </a>
+                </h5>
+                <sup><sub>2021년 12월 22일 08시 28분 10초</sub></sup>
             </td>
         </tr>
         <tr>
@@ -190,17 +198,19 @@
                 </a>
             </td>
             <td>
-                <a href="https://www.youtube.com/watch?v=B_Gwzin0DAc" style="color:red;text-decoration: none;">
-                    <h5>python widget으로 만든 한방 진료기록부입니다.</h5>
-                </a>
-                <small style="color:grey">2021년 10월 27일 22시 54분 03초</small>
+                <h5>
+                    <a href="https://www.youtube.com/watch?v=B_Gwzin0DAc" style="color:red;text-decoration: none;">
+                        python widget으로 만든 한방 진료기록부입니다.
+                    </a>
+                </h5>
+                <sup><sub>2021년 10월 27일 22시 54분 03초</sub></sup>
             </td>
         </tr>
     </table>
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-15 15:11:41)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-15 15:19:24)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -217,7 +227,7 @@
                     </a>
                 </h5>
                 </br>
-                <small style="color:grey">2023년 05월 10일 18시 33분 11초</small>
+                <sup><sub>2023년 05월 10일 18시 33분 11초</sub></sup>
             </td>
         </tr>
         <tr>
@@ -233,7 +243,7 @@
                     </a>
                 </h5>
                 </br>
-                <small style="color:grey">2023년 05월 09일 05시 29분 55초</small>
+                <sup><sub>2023년 05월 09일 05시 29분 55초</sub></sup>
             </td>
         </tr>
         <tr>
@@ -249,7 +259,7 @@
                     </a>
                 </h5>
                 </br>
-                <small style="color:grey">2021년 07월 26일 22시 38분 29초</small>
+                <sup><sub>2021년 07월 26일 22시 38분 29초</sub></sup>
             </td>
         </tr>
         <tr>
@@ -265,7 +275,7 @@
                     </a>
                 </h5>
                 </br>
-                <small style="color:grey">2021년 05월 10일 19시 04분 18초</small>
+                <sup><sub>2021년 05월 10일 19시 04분 18초</sub></sup>
             </td>
         </tr>
         <tr>
@@ -281,14 +291,14 @@
                     </a>
                 </h5>
                 </br>
-                <small style="color:grey">2021년 04월 24일 09시 12분 10초</small>
+                <sup><sub>2021년 04월 24일 09시 12분 10초</sub></sup>
             </td>
         </tr>
     </table>
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-15 15:11:42)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-15 15:19:24)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -299,11 +309,13 @@
                 </a>
             </td>
             <td>
-                <a href="http://www.mjmedi.com/news/articleView.html?idxno=56590" style="color:black;text-decoration: none;">
-                    <bold>(주)7일-원광한의대-한방병원, 한의학 교육 콘텐츠 해외 확산 위해 손잡는다</bold>
-                </a>
+                <h5>
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56591" style="color:black;text-decoration: none;">
+                        보의연, 신의료기술 등재 위한 맞춤형 자문 제공한다
+                    </a>
+                </h5>
                 </br>
-                <small style="color:grey">2023년 05월 15일 22시 30분 12초</small>
+                <sup><sub>2023년 05월 16일 00시 12분 46초</sub></sup>
             </td>
         </tr>
         <tr>
@@ -313,11 +325,13 @@
                 </a>
             </td>
             <td>
-                <a href="http://www.mjmedi.com/news/articleView.html?idxno=56589" style="color:black;text-decoration: none;">
-                    <bold>건보공단, 공공기관 개인정보 관리 9년 연속 최고 등급 달성</bold>
-                </a>
+                <h5>
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56590" style="color:black;text-decoration: none;">
+                        (주)7일-원광한의대-한방병원, 한의학 교육 콘텐츠 해외 확산 위해 손잡는다
+                    </a>
+                </h5>
                 </br>
-                <small style="color:grey">2023년 05월 15일 19시 56분 32초</small>
+                <sup><sub>2023년 05월 15일 22시 30분 12초</sub></sup>
             </td>
         </tr>
         <tr>
@@ -327,11 +341,29 @@
                 </a>
             </td>
             <td>
-                <a href="http://www.mjmedi.com/news/articleView.html?idxno=56587" style="color:black;text-decoration: none;">
-                    <bold>최근 3년간 한의대 정시 합격선 상승…치대 앞서고 의대와 격차 줄어</bold>
-                </a>
+                <h5>
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56589" style="color:black;text-decoration: none;">
+                        건보공단, 공공기관 개인정보 관리 9년 연속 최고 등급 달성
+                    </a>
+                </h5>
                 </br>
-                <small style="color:grey">2023년 05월 15일 03시 17분 12초</small>
+                <sup><sub>2023년 05월 15일 19시 56분 32초</sub></sup>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                    민족의학신문
+                </a>
+            </td>
+            <td>
+                <h5>
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56587" style="color:black;text-decoration: none;">
+                        최근 3년간 한의대 정시 합격선 상승…치대 앞서고 의대와 격차 줄어
+                    </a>
+                </h5>
+                </br>
+                <sup><sub>2023년 05월 15일 03시 17분 12초</sub></sup>
             </td>
         </tr>
         <tr>
@@ -341,25 +373,13 @@
                 </a>
             </td>
             <td>
-                <a href="https://medium.com/watcha/tv-app-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%A0-%EB%95%8C-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-%EC%9A%94%EC%86%8C%EB%93%A4-753356a7f4f8?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
-                    <bold>TV APP 디자인할 때 고려해야하는 요소들</bold>
-                </a>
+                <h5>
+                    <a href="https://medium.com/watcha/tv-app-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%A0-%EB%95%8C-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-%EC%9A%94%EC%86%8C%EB%93%A4-753356a7f4f8?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
+                        TV APP 디자인할 때 고려해야하는 요소들
+                    </a>
+                </h5>
                 </br>
-                <small style="color:grey">2023년 02월 16일 15시 09분 06초</small>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                    왓챠</br><small>smart-tv</small>
-                </a>
-            </td>
-            <td>
-                <a href="https://medium.com/watcha/%EC%8A%A4%EB%A7%88%ED%8A%B8-tv%EC%97%90%EC%84%9C-%EC%BD%98%ED%85%90%EC%B8%A0%EB%A5%BC-%EC%83%88%EB%A1%AD%EA%B2%8C-%ED%83%90%EC%83%89%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-66d303a6c65e?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
-                    <bold>스마트 TV에서 콘텐츠를 새롭게 탐색하는 방법</bold>
-                </a>
-                </br>
-                <small style="color:grey">2022년 10월 19일 17시 05분 08초</small>
+                <sup><sub>2023년 02월 16일 15시 09분 06초</sub></sup>
             </td>
         </tr>
     </table>
