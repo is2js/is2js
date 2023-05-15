@@ -120,7 +120,7 @@ class BlogMarkdown(Markdown):
                 feed['thumbnail_url'],
                 feed['url'],
                 feed['title'],
-                f'{feed["source_name"]}' if prefix else '',
+                f'</br>{feed["source_name"]}' if prefix else '',
                 feed['published_string']
             )
             feed_template_result += feed_text
