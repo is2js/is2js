@@ -47,7 +47,7 @@ BLOG_FEED_TEMPLATE = '''\
             </td>
             <td>
                 <a href="{}" style="color:teal;text-decoration: none;">
-                    <h5>{}{}</h5>
+                    {}{}
                 </a>
                 <small style="color:grey">{}</small>
             </td>
@@ -63,7 +63,7 @@ URL_FEED_TEMPLATE = '''\
             </td>
             <td>
                 <a href="{}" style="color:black;text-decoration: none;">
-                    <h5>{}</h5>
+                    {}
                 </a>
                 <small style="color:grey">{}</small>
             </td>
