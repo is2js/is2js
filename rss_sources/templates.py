@@ -17,7 +17,7 @@ TABLE_END = '''\
 
 YOUTUBE_CUSTOM_TEMPLATE = '''
 <div align="center">
-    <a href="https://www.youtube.com/channel/{}?sub_confirmation=1"><img src="https://img.shields.io/badge/-구독하기-red?style=flat&logo=youtube&logoColor=white" height=35px/></a>
+    <a href="https://www.youtube.com/channel/{}?sub_confirmation=1"><img src="https://img.shields.io/badge/-구독하기-red?style=flat&logo=youtube&logoColor=white" height=25px/></a>
 </div>
 '''
 
