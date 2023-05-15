@@ -7,7 +7,8 @@ on:
     branches: [ "main" ]
   schedule:
 #       - cron: "0 0 */1 * *" # 매일 00시00분에
-      - cron: "*/5 * * * *"
+#      - cron: "*/5 * * * *" # 5분마다 for test
+      - cron: "0 */6 * * *" # 6시간마다
 
 jobs:
   build:
@@ -29,6 +30,9 @@ jobs:
       - name: Run manage.py
         run: |
           python manage.py
+      - name: View Today logs
+        run: |
+          cat logs/parse.log
       - name: Update README.md file
         run: | 
           git pull

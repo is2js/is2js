@@ -26,8 +26,11 @@ class Markdown:
 
         feeds = self.sort_and_truncate_feeds(feeds, display_numbers=display_numbers)
 
-        updated_at = pytz.timezone('Asia/Seoul').localize(datetime.now())
-        markdown_text += TITLE_TEMPLATE.format(title_level, title, updated_at.strftime("%Y-%m-%d %H:%M:%S"))
+        # updated_at = pytz.timezone('Asia/Seoul').localize(datetime.now())
+        # kst로 바로 localize하니까, strftime이 안찍히는 듯
+        utc_updated_at = pytz.utc.localize(datetime.now())
+        kst_updated_at = utc_updated_at.astimezone(pytz.timezone('Asia/Seoul'))
+        markdown_text += TITLE_TEMPLATE.format(title_level, title, kst_updated_at.strftime("%Y-%m-%d %H:%M:%S"))
         markdown_text += self.set_custom()
         markdown_text += TABLE_START
         markdown_text += self.set_feed_template(feed_template, feeds, prefix=self.is_many_sources_or_targets())
@@ -85,8 +88,8 @@ class YoutubeMarkdown(Markdown):
                 feed['url'],
                 feed['thumbnail_url'],
                 feed['url'],
-                f'<span style="color:black">{feed["source_title"]}) </span>' if prefix else '',
                 feed['title'],
+                f'<span style="color:black">{feed["source_title"]} | </span>' if prefix else '',
                 feed['published_string']
             )
             feed_template_result += feed_text
@@ -119,8 +122,8 @@ class BlogMarkdown(Markdown):
                 feed['url'],
                 feed['thumbnail_url'],
                 feed['url'],
-                f'{feed["source_name"]}) ' if prefix else '',
                 feed['title'],
+                f'{feed["source_name"]} | ' if prefix else '',
                 feed['published_string']
             )
             feed_template_result += feed_text
