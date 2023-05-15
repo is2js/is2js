@@ -123,14 +123,25 @@
   /></a>
 </p>
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-15 15:43:46)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-15 15:45:00)</small>    
 <!-- START -->
-
-<div align="center">
-    <a href="https://www.youtube.com/channel/UChZt76JR2Fed1EQ_Ql2W_cw?sub_confirmation=1"><img src="https://img.shields.io/badge/-구독하기-red?style=flat&logo=youtube&logoColor=white" height=35px/></a>
-</div>
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="140px" style="background:black;" style="padding:0;">
+                <a href="https://www.youtube.com/watch?v=1j3wGl06pUs">
+                    <img width="140px" src="https://i2.ytimg.com/vi/1j3wGl06pUs/hqdefault.jpg" style="margin:0;">
+                </a>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://www.youtube.com/watch?v=1j3wGl06pUs" style="color:red;text-decoration: none;">
+                        <span style="color:black">쌍보네TV) </span>여동생을 위한 쌍둥이 오빠들의 축가 | SG워너비 해바리기
+                    </a>
+                </h5>
+                <sup><sub>2023년 05월 10일 05시 25분 48초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="140px" style="background:black;" style="padding:0;">
                 <a href="https://www.youtube.com/watch?v=7NER1ikd8AU">
@@ -140,7 +151,7 @@
             <td>
                 <h5>
                     <a href="https://www.youtube.com/watch?v=7NER1ikd8AU" style="color:red;text-decoration: none;">
-                        체스 미션 최종 5단계 구현
+                        <span style="color:black">조재성) </span>체스 미션 최종 5단계 구현
                     </a>
                 </h5>
                 <sup><sub>2022년 04월 12일 15시 34분 11초</sub></sup>
@@ -155,7 +166,7 @@
             <td>
                 <h5>
                     <a href="https://www.youtube.com/watch?v=GZBNcOFdA1Y" style="color:red;text-decoration: none;">
-                        포돌이 체스(css적용버전)
+                        <span style="color:black">조재성) </span>포돌이 체스(css적용버전)
                     </a>
                 </h5>
                 <sup><sub>2022년 04월 09일 14시 59분 13초</sub></sup>
@@ -170,7 +181,7 @@
             <td>
                 <h5>
                     <a href="https://www.youtube.com/watch?v=On2Vr3b5Uko" style="color:red;text-decoration: none;">
-                        포돌이 체스 4단계 구현
+                        <span style="color:black">조재성) </span>포돌이 체스 4단계 구현
                     </a>
                 </h5>
                 <sup><sub>2022년 04월 07일 17시 49분 24초</sub></sup>
@@ -185,32 +196,17 @@
             <td>
                 <h5>
                     <a href="https://www.youtube.com/watch?v=QimOG53PNkg" style="color:red;text-decoration: none;">
-                        한의대생들을 위한 근육침법
+                        <span style="color:black">조재성) </span>한의대생들을 위한 근육침법
                     </a>
                 </h5>
                 <sup><sub>2021년 12월 22일 08시 28분 10초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="140px" style="background:black;" style="padding:0;">
-                <a href="https://www.youtube.com/watch?v=B_Gwzin0DAc">
-                    <img width="140px" src="https://i3.ytimg.com/vi/B_Gwzin0DAc/hqdefault.jpg" style="margin:0;">
-                </a>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://www.youtube.com/watch?v=B_Gwzin0DAc" style="color:red;text-decoration: none;">
-                        python widget으로 만든 한방 진료기록부입니다.
-                    </a>
-                </h5>
-                <sup><sub>2021년 10월 27일 22시 54분 03초</sub></sup>
             </td>
         </tr>
     </table>
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-15 15:43:49)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-15 15:45:02)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -293,7 +289,7 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-15 15:43:50)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-15 15:45:03)</small>    
 <!-- START -->
 <div align="center">
     <table>
