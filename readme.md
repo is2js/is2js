@@ -123,7 +123,7 @@
   /></a>
 </p>
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-15 15:06:31)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-15 15:08:17)</small>    
 <!-- START -->
 
 <div align="center">
@@ -200,7 +200,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-15 15:06:38)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-15 15:08:23)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -211,9 +211,11 @@
                 </a>
             </td>
             <td>
-                <a href="https://blog.naver.com/is2js/223098522367" style="color:teal;text-decoration: none;">
-                    <h5><span style="color:black">네이버) </span>ddd</h5>
-                </a>
+                <h5>
+                    <a href="https://blog.naver.com/is2js/223098522367" style="color:teal;text-decoration: none;">
+                        <span style="color:black">네이버) </span>ddd
+                    </a>
+                </h5>
                 <small style="color:grey">2023년 05월 10일 18시 33분 11초</small>
             </td>
         </tr>
@@ -224,9 +226,11 @@
                 </a>
             </td>
             <td>
-                <a href="https://blog.naver.com/is2js/223096950852" style="color:teal;text-decoration: none;">
-                    <h5><span style="color:black">네이버) </span>ㅁㄴㅇㄻㄴㅁㄴㅇㄻㄴ</h5>
-                </a>
+                <h5>
+                    <a href="https://blog.naver.com/is2js/223096950852" style="color:teal;text-decoration: none;">
+                        <span style="color:black">네이버) </span>ㅁㄴㅇㄻㄴㅁㄴㅇㄻㄴ
+                    </a>
+                </h5>
                 <small style="color:grey">2023년 05월 09일 05시 29분 55초</small>
             </td>
         </tr>
@@ -237,9 +241,11 @@
                 </a>
             </td>
             <td>
-                <a href="https://nittaku.tistory.com/514" style="color:teal;text-decoration: none;">
-                    <h5><span style="color:black">티스토리) </span>np.random.shuffle 과 np.random.permutation 정리</h5>
-                </a>
+                <h5>
+                    <a href="https://nittaku.tistory.com/514" style="color:teal;text-decoration: none;">
+                        <span style="color:black">티스토리) </span>np.random.shuffle 과 np.random.permutation 정리
+                    </a>
+                </h5>
                 <small style="color:grey">2021년 07월 26일 22시 38분 29초</small>
             </td>
         </tr>
@@ -250,9 +256,11 @@
                 </a>
             </td>
             <td>
-                <a href="https://nittaku.tistory.com/513" style="color:teal;text-decoration: none;">
-                    <h5><span style="color:black">티스토리) </span>[원격용] 윈도우키, 한영키, 알트탭 매핑 오토핫키</h5>
-                </a>
+                <h5>
+                    <a href="https://nittaku.tistory.com/513" style="color:teal;text-decoration: none;">
+                        <span style="color:black">티스토리) </span>[원격용] 윈도우키, 한영키, 알트탭 매핑 오토핫키
+                    </a>
+                </h5>
                 <small style="color:grey">2021년 05월 10일 19시 04분 18초</small>
             </td>
         </tr>
@@ -263,9 +271,11 @@
                 </a>
             </td>
             <td>
-                <a href="https://nittaku.tistory.com/512" style="color:teal;text-decoration: none;">
-                    <h5><span style="color:black">티스토리) </span>윈도우에서 markdown 파일을 우클릭 > 새로 만들기에 넣기</h5>
-                </a>
+                <h5>
+                    <a href="https://nittaku.tistory.com/512" style="color:teal;text-decoration: none;">
+                        <span style="color:black">티스토리) </span>윈도우에서 markdown 파일을 우클릭 > 새로 만들기에 넣기
+                    </a>
+                </h5>
                 <small style="color:grey">2021년 04월 24일 09시 12분 10초</small>
             </td>
         </tr>
@@ -273,7 +283,7 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-15 15:06:38)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-15 15:08:24)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -285,7 +295,7 @@
             </td>
             <td>
                 <a href="http://www.mjmedi.com/news/articleView.html?idxno=56590" style="color:black;text-decoration: none;">
-                    <h5>(주)7일-원광한의대-한방병원, 한의학 교육 콘텐츠 해외 확산 위해 손잡는다</h5>
+                    <bold>(주)7일-원광한의대-한방병원, 한의학 교육 콘텐츠 해외 확산 위해 손잡는다</bold>
                 </a>
                 <small style="color:grey">2023년 05월 15일 22시 30분 12초</small>
             </td>
@@ -298,7 +308,7 @@
             </td>
             <td>
                 <a href="http://www.mjmedi.com/news/articleView.html?idxno=56589" style="color:black;text-decoration: none;">
-                    <h5>건보공단, 공공기관 개인정보 관리 9년 연속 최고 등급 달성</h5>
+                    <bold>건보공단, 공공기관 개인정보 관리 9년 연속 최고 등급 달성</bold>
                 </a>
                 <small style="color:grey">2023년 05월 15일 19시 56분 32초</small>
             </td>
@@ -311,7 +321,7 @@
             </td>
             <td>
                 <a href="http://www.mjmedi.com/news/articleView.html?idxno=56587" style="color:black;text-decoration: none;">
-                    <h5>최근 3년간 한의대 정시 합격선 상승…치대 앞서고 의대와 격차 줄어</h5>
+                    <bold>최근 3년간 한의대 정시 합격선 상승…치대 앞서고 의대와 격차 줄어</bold>
                 </a>
                 <small style="color:grey">2023년 05월 15일 03시 17분 12초</small>
             </td>
@@ -324,7 +334,7 @@
             </td>
             <td>
                 <a href="https://medium.com/watcha/tv-app-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%A0-%EB%95%8C-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-%EC%9A%94%EC%86%8C%EB%93%A4-753356a7f4f8?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
-                    <h5>TV APP 디자인할 때 고려해야하는 요소들</h5>
+                    <bold>TV APP 디자인할 때 고려해야하는 요소들</bold>
                 </a>
                 <small style="color:grey">2023년 02월 16일 15시 09분 06초</small>
             </td>
@@ -337,7 +347,7 @@
             </td>
             <td>
                 <a href="https://medium.com/watcha/%EC%8A%A4%EB%A7%88%ED%8A%B8-tv%EC%97%90%EC%84%9C-%EC%BD%98%ED%85%90%EC%B8%A0%EB%A5%BC-%EC%83%88%EB%A1%AD%EA%B2%8C-%ED%83%90%EC%83%89%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-66d303a6c65e?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
-                    <h5>스마트 TV에서 콘텐츠를 새롭게 탐색하는 방법</h5>
+                    <bold>스마트 TV에서 콘텐츠를 새롭게 탐색하는 방법</bold>
                 </a>
                 <small style="color:grey">2022년 10월 19일 17시 05분 08초</small>
             </td>
