@@ -52,7 +52,7 @@ BLOG_FEED_TEMPLATE = '''\
                     </a>
                 </h5>
                 </br>
-                <small style="color:grey">{}</small>
+                <sup>{}</sup>
             </td>
         </tr>
 '''
@@ -69,7 +69,7 @@ URL_FEED_TEMPLATE = '''\
                     <bold>{}</bold>
                 </a>
                 </br>
-                <small style="color:grey">{}</small>
+                <sup>{}</sup>
             </td>
         </tr>
 '''
