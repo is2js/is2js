@@ -50,9 +50,8 @@ BLOG_FEED_TEMPLATE = '''\
             <td>
                 <h5>
                     <a href="{}" style="color:teal;text-decoration: none;">
-                        {}
+                        {}{}
                     </a>
-                    <sup><sub>{}</sub></sup>
                 </h5>
                 <sup><sub>{}</sub></sup>
             </td>

@@ -123,7 +123,7 @@
   /></a>
 </p>
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-15 15:30:31)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-15 15:32:09)</small>    
 <!-- START -->
 
 <div align="center">
@@ -210,7 +210,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-15 15:30:38)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-15 15:32:16)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -223,9 +223,8 @@
             <td>
                 <h5>
                     <a href="https://blog.naver.com/is2js/223098522367" style="color:teal;text-decoration: none;">
-                        ddd
+                        네이버) ddd
                     </a>
-                    <sup><sub></br>네이버</sub></sup>
                 </h5>
                 <sup><sub>2023년 05월 10일 18시 33분 11초</sub></sup>
             </td>
@@ -239,9 +238,8 @@
             <td>
                 <h5>
                     <a href="https://blog.naver.com/is2js/223096950852" style="color:teal;text-decoration: none;">
-                        ㅁㄴㅇㄻㄴㅁㄴㅇㄻㄴ
+                        네이버) ㅁㄴㅇㄻㄴㅁㄴㅇㄻㄴ
                     </a>
-                    <sup><sub></br>네이버</sub></sup>
                 </h5>
                 <sup><sub>2023년 05월 09일 05시 29분 55초</sub></sup>
             </td>
@@ -255,9 +253,8 @@
             <td>
                 <h5>
                     <a href="https://nittaku.tistory.com/514" style="color:teal;text-decoration: none;">
-                        np.random.shuffle 과 np.random.permutation 정리
+                        티스토리) np.random.shuffle 과 np.random.permutation 정리
                     </a>
-                    <sup><sub></br>티스토리</sub></sup>
                 </h5>
                 <sup><sub>2021년 07월 26일 22시 38분 29초</sub></sup>
             </td>
@@ -271,9 +268,8 @@
             <td>
                 <h5>
                     <a href="https://nittaku.tistory.com/513" style="color:teal;text-decoration: none;">
-                        [원격용] 윈도우키, 한영키, 알트탭 매핑 오토핫키
+                        티스토리) [원격용] 윈도우키, 한영키, 알트탭 매핑 오토핫키
                     </a>
-                    <sup><sub></br>티스토리</sub></sup>
                 </h5>
                 <sup><sub>2021년 05월 10일 19시 04분 18초</sub></sup>
             </td>
@@ -287,9 +283,8 @@
             <td>
                 <h5>
                     <a href="https://nittaku.tistory.com/512" style="color:teal;text-decoration: none;">
-                        윈도우에서 markdown 파일을 우클릭 > 새로 만들기에 넣기
+                        티스토리) 윈도우에서 markdown 파일을 우클릭 > 새로 만들기에 넣기
                     </a>
-                    <sup><sub></br>티스토리</sub></sup>
                 </h5>
                 <sup><sub>2021년 04월 24일 09시 12분 10초</sub></sup>
             </td>
@@ -298,7 +293,7 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-15 15:30:39)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-15 15:32:16)</small>    
 <!-- START -->
 <div align="center">
     <table>
