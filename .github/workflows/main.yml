@@ -26,6 +26,9 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r ./requirements.txt
+      - name: Run manage.py
+        run: |
+          python manage.py
       - name: Update README.md file
         run: | 
           git pull
@@ -35,6 +38,3 @@ jobs:
           git config --local user.name "is2js"
           git commit -m "update readme.md"
           git push
-      - name: Run manage.py
-        run: |
-          python manage.py
