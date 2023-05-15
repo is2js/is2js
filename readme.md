@@ -123,7 +123,7 @@
   /></a>
 </p>
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-15 16:19:20)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-15 16:31:58)</small>    
 <!-- START -->
 
 <div align="center">
@@ -131,6 +131,21 @@
 </div>
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="140px" style="background:black;" style="padding:0;">
+                <a href="https://www.youtube.com/watch?v=FoiRAZSHKUI">
+                    <img width="140px" src="https://i3.ytimg.com/vi/FoiRAZSHKUI/hqdefault.jpg" style="margin:0;">
+                </a>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://www.youtube.com/watch?v=FoiRAZSHKUI" style="color:red;text-decoration: none;">
+                        임시 - 그룹웨어 핵심기능 - 부서관리 및 조직도
+                    </a>
+                </h5>
+                <sup><sub>2023년 05월 15일 16시 30분 29초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="140px" style="background:black;" style="padding:0;">
                 <a href="https://www.youtube.com/watch?v=P_06Nvmunrk">
@@ -191,26 +206,11 @@
                 <sup><sub>2022년 04월 07일 17시 49분 24초</sub></sup>
             </td>
         </tr>
-        <tr>
-            <td align="center" width="140px" style="background:black;" style="padding:0;">
-                <a href="https://www.youtube.com/watch?v=QimOG53PNkg">
-                    <img width="140px" src="https://i2.ytimg.com/vi/QimOG53PNkg/hqdefault.jpg" style="margin:0;">
-                </a>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://www.youtube.com/watch?v=QimOG53PNkg" style="color:red;text-decoration: none;">
-                        한의대생들을 위한 근육침법
-                    </a>
-                </h5>
-                <sup><sub>2021년 12월 22일 08시 28분 10초</sub></sup>
-            </td>
-        </tr>
     </table>
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-15 16:19:23)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-15 16:32:01)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -293,7 +293,7 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-15 16:19:23)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-15 16:32:02)</small>    
 <!-- START -->
 <div align="center">
     <table>
