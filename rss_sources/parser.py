@@ -37,9 +37,9 @@ class RssParser(object):
 
             data = dict()
 
-            data['source_title'] = source.get('title', None)
+            data['source_name'] = source.get('title', None)
             # 여러 target의 link 버튼용 (유튜브) -> 구독하기
-            data['source_link'] = source.get('link', None)
+            data['source_url'] = source.get('link', None)
 
             data['url'] = entry.get("link")
             data['category'] = _get_category(entry.get("tags"))

@@ -4,7 +4,8 @@ from rss_sources.config import SourceConfig
 from rss_sources.templates import TITLE_TEMPLATE, TABLE_START, TABLE_END, YOUTUBE_CUSTOM_TEMPLATE
 from rss_sources.utils import parse_logger
 
-from rss_sources.targets import *
+from rss_sources.blogs import *
+from rss_sources.youtube import *
 from rss_sources.urls import *
 
 
@@ -89,7 +90,7 @@ class YoutubeMarkdown(Markdown):
                 feed['thumbnail_url'],
                 feed['url'],
                 feed['title'],
-                f'<span style="color:black">{feed["source_title"]} | </span>' if prefix else '',
+                f'<span style="color:black">{feed["source_category_name"]} | </span>' if prefix else '',
                 feed['published_string']
             )
             feed_template_result += feed_text
@@ -123,7 +124,7 @@ class BlogMarkdown(Markdown):
                 feed['thumbnail_url'],
                 feed['url'],
                 feed['title'],
-                f'{feed["source_name"]} | ' if prefix else '',
+                f'{feed["source_category_name"]} | ' if prefix else '',
                 feed['published_string']
             )
             feed_template_result += feed_text
@@ -143,8 +144,8 @@ class URLMarkdown(Markdown):
         feed_template_result = ''
         for feed in feeds:
             feed_text = feed_template.format(
-                feed['source_url'],
-                feed['source_name'],
+                feed['source_category_url'],
+                feed['source_category_name'],
                 f"{feed['category']}" if feed['category'] else '',
                 feed['url'],
                 feed['title'],
