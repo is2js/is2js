@@ -65,6 +65,14 @@ def get_url_markdown():
         return ''
 
 
+def create_database():
+    if not os.path.isfile(os.path.basename(SourceConfig.DATABASE_URL)):
+        from rss_sources.models import Category, Source, Feed
+        from rss_sources.database.base import Base, engine
+        # print(os.path.basename(SourceConfig.DATABASE_URL))
+        # db.sqlite
+        Base.metadata.create_all(bind=engine)
+
 if __name__ == '__main__':
 
     append_markdown = ''

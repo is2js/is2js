@@ -1,13 +1,7 @@
-import os
+from rss_sources import get_youtube_markdown, get_blog_markdown, get_url_markdown, parse_logger, SourceConfig, \
+    create_database
 
-from rss_sources import get_youtube_markdown, get_blog_markdown, get_url_markdown, parse_logger, SourceConfig
-from rss_sources.database.base import Base, engine
-
-if not os.path.isfile(os.path.basename(SourceConfig.DATABASE_URL)):
-    # print(os.path.basename(SourceConfig.DATABASE_URL))
-    # db.sqlite
-    from rss_sources.models import *
-    Base.metadata.create_all(bind=engine)
+create_database()
 
 append_markdown = ''
 append_markdown += get_youtube_markdown()
