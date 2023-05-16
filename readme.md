@@ -123,7 +123,7 @@
   /></a>
 </p>
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-16 10:23:43)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-16 15:21:10)</small>    
 <!-- START -->
 
 <div align="center">
@@ -210,7 +210,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-16 10:23:57)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-16 15:21:21)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -293,10 +293,82 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-16 10:23:58)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-16 15:21:22)</small>    
 <!-- START -->
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                        민족의학신문
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56597" style="color:black;text-decoration: none;">
+                        정읍시, 만성질환 관리 위한 ‘건강하자 go 365교실’ 운영
+                    </a>
+                </h5>
+                <sup><sub>2023년 05월 16일 23시 22분 57초</sub></sup>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                        민족의학신문
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56596" style="color:black;text-decoration: none;">
+                        ‘천연물의약품의 생물학적 활성평가에 의한 품질평가’ 포럼 개최
+                    </a>
+                </h5>
+                <sup><sub>2023년 05월 16일 22시 43분 00초</sub></sup>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                        민족의학신문
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56595" style="color:black;text-decoration: none;">
+                        자생한방병원 2023년 일반수련의 장학생 모집
+                    </a>
+                </h5>
+                <sup><sub>2023년 05월 16일 20시 08분 33초</sub></sup>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                        민족의학신문
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56594" style="color:black;text-decoration: none;">
+                        尹 대통령, 간호법 거부권 행사 의결
+                    </a>
+                </h5>
+                <sup><sub>2023년 05월 16일 19시 50분 07초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -313,78 +385,6 @@
                     </a>
                 </h5>
                 <sup><sub>2023년 05월 16일 18시 59분 16초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        민족의학신문
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56592" style="color:black;text-decoration: none;">
-                        경기도민청원에 ‘한의약 전담부서 설치’ 제안 올라와
-                    </a>
-                </h5>
-                <sup><sub>2023년 05월 16일 18시 14분 03초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        민족의학신문
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56591" style="color:black;text-decoration: none;">
-                        보의연, 신의료기술 등재 위한 맞춤형 자문 제공한다
-                    </a>
-                </h5>
-                <sup><sub>2023년 05월 16일 00시 12분 46초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        민족의학신문
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56590" style="color:black;text-decoration: none;">
-                        (주)7일-원광한의대-한방병원, 한의학 교육 콘텐츠 해외 확산 위해 손잡는다
-                    </a>
-                </h5>
-                <sup><sub>2023년 05월 15일 22시 30분 12초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        민족의학신문
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56589" style="color:black;text-decoration: none;">
-                        건보공단, 공공기관 개인정보 관리 9년 연속 최고 등급 달성
-                    </a>
-                </h5>
-                <sup><sub>2023년 05월 15일 19시 56분 32초</sub></sup>
             </td>
         </tr>
     </table>
