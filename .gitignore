@@ -1,2 +1,4 @@
 /venv/
 /logs/
+*.sqlite
+readme.md

@@ -6,6 +6,8 @@ from sqlalchemy.orm import declared_attr
 from rss_sources.database.base import session, Base
 import sqlalchemy as db
 
+from rss_sources.utils import db_logger
+
 
 def transaction(f):
     """ Decorator for database (session) transactions."""
@@ -17,9 +19,10 @@ def transaction(f):
 
             session.commit()
             return value
-        except Exception:
+        except Exception as e:
             session.rollback()
-            raise
+            # raise
+            db_logger.error(f'{str(e)}')
 
     return wrapper
 
