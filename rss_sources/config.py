@@ -49,3 +49,13 @@ class SourceConfig:
     # log폴더 설정
     BASE_FOLDER = Path(__file__).resolve().parent  # BASE_FOLDER:  /계정명/rss_sources
     LOG_FOLDER = BASE_FOLDER.parent.joinpath('logs')  # LOG_FOLDER:  /계정명 + logs
+
+
+    # DB 설정
+    DATABASE_URL = os.getenv('DATABASE_URL') or 'sqlite:///db.sqlite'
+    SQLALCHEMY_POOL_OPTIONS = {
+        'pool_size': 3,
+        'pool_recycle': 55,  # # ClearDB's idle limit is 90 seconds, so set the recycle to be under 90
+        'pool_timeout': 5,
+        'max_overflow': 10
+    }

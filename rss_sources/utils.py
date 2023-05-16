@@ -74,3 +74,4 @@ class Logger:
 
 
 parse_logger = Logger("parse").getLogger
+db_logger = Logger("db").getLogger
