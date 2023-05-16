@@ -123,7 +123,7 @@
   /></a>
 </p>
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-16 04:47:43)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-16 15:21:10)</small>    
 <!-- START -->
 
 <div align="center">
@@ -210,7 +210,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-16 04:47:55)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-16 15:21:21)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -293,7 +293,7 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-16 04:47:56)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-16 15:21:22)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -308,11 +308,11 @@
             </td>
             <td>
                 <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56591" style="color:black;text-decoration: none;">
-                        보의연, 신의료기술 등재 위한 맞춤형 자문 제공한다
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56597" style="color:black;text-decoration: none;">
+                        정읍시, 만성질환 관리 위한 ‘건강하자 go 365교실’ 운영
                     </a>
                 </h5>
-                <sup><sub>2023년 05월 16일 00시 12분 46초</sub></sup>
+                <sup><sub>2023년 05월 16일 23시 22분 57초</sub></sup>
             </td>
         </tr>
         <tr>
@@ -326,11 +326,11 @@
             </td>
             <td>
                 <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56590" style="color:black;text-decoration: none;">
-                        (주)7일-원광한의대-한방병원, 한의학 교육 콘텐츠 해외 확산 위해 손잡는다
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56596" style="color:black;text-decoration: none;">
+                        ‘천연물의약품의 생물학적 활성평가에 의한 품질평가’ 포럼 개최
                     </a>
                 </h5>
-                <sup><sub>2023년 05월 15일 22시 30분 12초</sub></sup>
+                <sup><sub>2023년 05월 16일 22시 43분 00초</sub></sup>
             </td>
         </tr>
         <tr>
@@ -344,11 +344,11 @@
             </td>
             <td>
                 <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56589" style="color:black;text-decoration: none;">
-                        건보공단, 공공기관 개인정보 관리 9년 연속 최고 등급 달성
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56595" style="color:black;text-decoration: none;">
+                        자생한방병원 2023년 일반수련의 장학생 모집
                     </a>
                 </h5>
-                <sup><sub>2023년 05월 15일 19시 56분 32초</sub></sup>
+                <sup><sub>2023년 05월 16일 20시 08분 33초</sub></sup>
             </td>
         </tr>
         <tr>
@@ -362,29 +362,29 @@
             </td>
             <td>
                 <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56587" style="color:black;text-decoration: none;">
-                        최근 3년간 한의대 정시 합격선 상승…치대 앞서고 의대와 격차 줄어
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56594" style="color:black;text-decoration: none;">
+                        尹 대통령, 간호법 거부권 행사 의결
                     </a>
                 </h5>
-                <sup><sub>2023년 05월 15일 03시 17분 12초</sub></sup>
+                <sup><sub>2023년 05월 16일 19시 50분 07초</sub></sup>
             </td>
         </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
                     <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        왓챠
+                        민족의학신문
                     </a>
                 </h6>
-                <sup><sub>유엑스디자인</sub></sup>
+                <sup><sub></sub></sup>
             </td>
             <td>
                 <h5>
-                    <a href="https://medium.com/watcha/tv-app-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%A0-%EB%95%8C-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-%EC%9A%94%EC%86%8C%EB%93%A4-753356a7f4f8?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
-                        TV APP 디자인할 때 고려해야하는 요소들
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56593" style="color:black;text-decoration: none;">
+                        식약처, 식약공용인 마‧생강 등 7개 제품 잔류농약 부적합 판정
                     </a>
                 </h5>
-                <sup><sub>2023년 02월 16일 15시 09분 06초</sub></sup>
+                <sup><sub>2023년 05월 16일 18시 59분 16초</sub></sup>
             </td>
         </tr>
     </table>
