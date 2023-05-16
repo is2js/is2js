@@ -123,7 +123,7 @@
   /></a>
 </p>
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-16 04:48:36)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-16 10:23:43)</small>    
 <!-- START -->
 
 <div align="center">
@@ -210,7 +210,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-16 04:48:49)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-16 10:23:57)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -293,10 +293,46 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-16 04:48:50)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-16 10:23:58)</small>    
 <!-- START -->
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                        민족의학신문
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56593" style="color:black;text-decoration: none;">
+                        식약처, 식약공용인 마‧생강 등 7개 제품 잔류농약 부적합 판정
+                    </a>
+                </h5>
+                <sup><sub>2023년 05월 16일 18시 59분 16초</sub></sup>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                        민족의학신문
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56592" style="color:black;text-decoration: none;">
+                        경기도민청원에 ‘한의약 전담부서 설치’ 제안 올라와
+                    </a>
+                </h5>
+                <sup><sub>2023년 05월 16일 18시 14분 03초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -349,42 +385,6 @@
                     </a>
                 </h5>
                 <sup><sub>2023년 05월 15일 19시 56분 32초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        민족의학신문
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56587" style="color:black;text-decoration: none;">
-                        최근 3년간 한의대 정시 합격선 상승…치대 앞서고 의대와 격차 줄어
-                    </a>
-                </h5>
-                <sup><sub>2023년 05월 15일 03시 17분 12초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        왓챠
-                    </a>
-                </h6>
-                <sup><sub>유엑스디자인</sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://medium.com/watcha/tv-app-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%A0-%EB%95%8C-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-%EC%9A%94%EC%86%8C%EB%93%A4-753356a7f4f8?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
-                        TV APP 디자인할 때 고려해야하는 요소들
-                    </a>
-                </h5>
-                <sup><sub>2023년 02월 16일 15시 09분 06초</sub></sup>
             </td>
         </tr>
     </table>
