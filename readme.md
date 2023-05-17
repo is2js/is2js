@@ -123,7 +123,7 @@
   /></a>
 </p>
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-17 10:24:33)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-17 15:20:49)</small>    
 <!-- START -->
 
 <div align="center">
@@ -210,7 +210,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-17 10:24:45)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-17 15:21:01)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -293,10 +293,64 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-17 10:24:46)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-17 15:21:02)</small>    
 <!-- START -->
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                        민족의학신문
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56612" style="color:black;text-decoration: none;">
+                        서울시한의사회, “자보 대인보상비 증가? 환자 선호도와 한방 외래의료기관 수 늘어”
+                    </a>
+                </h5>
+                <sup><sub>2023년 05월 17일 21시 22분 11초</sub></sup>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                        민족의학신문
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56611" style="color:black;text-decoration: none;">
+                        여주시, 경로당 순회 ‘찾아가는 한의학 건강교실’ 운영
+                    </a>
+                </h5>
+                <sup><sub>2023년 05월 17일 20시 23분 22초</sub></sup>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                        민족의학신문
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56610" style="color:black;text-decoration: none;">
+                        산청한방약초축제, 오는 10월 6일 개막 확정
+                    </a>
+                </h5>
+                <sup><sub>2023년 05월 17일 19시 56분 29초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -331,60 +385,6 @@
                     </a>
                 </h5>
                 <sup><sub>2023년 05월 16일 23시 22분 57초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        민족의학신문
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56596" style="color:black;text-decoration: none;">
-                        ‘천연물의약품의 생물학적 활성평가에 의한 품질평가’ 포럼 개최
-                    </a>
-                </h5>
-                <sup><sub>2023년 05월 16일 22시 43분 00초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        민족의학신문
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56595" style="color:black;text-decoration: none;">
-                        자생한방병원 2023년 일반수련의 장학생 모집
-                    </a>
-                </h5>
-                <sup><sub>2023년 05월 16일 20시 08분 33초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        민족의학신문
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56594" style="color:black;text-decoration: none;">
-                        尹 대통령, 간호법 거부권 행사 의결
-                    </a>
-                </h5>
-                <sup><sub>2023년 05월 16일 19시 50분 07초</sub></sup>
             </td>
         </tr>
     </table>
