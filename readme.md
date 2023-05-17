@@ -123,7 +123,7 @@
   /></a>
 </p>
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-17 03:20:10)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-17 10:24:33)</small>    
 <!-- START -->
 
 <div align="center">
@@ -210,7 +210,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-17 03:20:23)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-17 10:24:45)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -293,10 +293,28 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-17 03:20:24)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-17 10:24:46)</small>    
 <!-- START -->
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                        민족의학신문
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56609" style="color:black;text-decoration: none;">
+                        간협·간호법 범국본 "약속 파기 대통령에 정치적 책임 물을 것”
+                    </a>
+                </h5>
+                <sup><sub>2023년 05월 17일 18시 56분 28초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -367,24 +385,6 @@
                     </a>
                 </h5>
                 <sup><sub>2023년 05월 16일 19시 50분 07초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        민족의학신문
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56593" style="color:black;text-decoration: none;">
-                        식약처, 식약공용인 마‧생강 등 7개 제품 잔류농약 부적합 판정
-                    </a>
-                </h5>
-                <sup><sub>2023년 05월 16일 18시 59분 16초</sub></sup>
             </td>
         </tr>
     </table>
