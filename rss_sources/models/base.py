@@ -38,6 +38,18 @@ class BaseModel(Base):
     updated_at = db.Column(db.DateTime(timezone=True), nullable=True, default=datetime.utcnow, onupdate=datetime.utcnow)
 
     @classmethod
+    def get_or_create(cls, get_key=None, **kwargs):
+        if not get_key:
+            instance = cls.query.filter_by(**kwargs).first()
+        else:
+            instance = cls.query.filter(getattr(cls, get_key) == kwargs.get(get_key)).first()
+        if instance is None:
+            instance = cls(**kwargs)
+            instance.save()
+
+        return instance
+
+    @classmethod
     @transaction
     def get_list(cls):
         items = cls.query.all()

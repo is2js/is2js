@@ -1,12 +1,15 @@
 import pytz
 from datetime import datetime
 from rss_sources.config import SourceConfig
+from rss_sources.models import Source, SourceCategory, Feed
 from rss_sources.templates import TITLE_TEMPLATE, TABLE_START, TABLE_END, YOUTUBE_CUSTOM_TEMPLATE
 from rss_sources.utils import parse_logger
 
 from rss_sources.blogs import *
 from rss_sources.youtube import *
 from rss_sources.urls import *
+
+from rss_sources.database.base import session
 
 
 class Markdown:
@@ -19,11 +22,37 @@ class Markdown:
         markdown_text = ''
 
         feeds = []
+
         for source in self.sources:
-            feeds += source.fetch_feeds()
+            # request 작업
+            fetch_feeds = source.fetch_feeds()
+            # DB 작업
+            for feed in fetch_feeds:
+                # 0) db로의 처리를 위해 sourcecategory / source / feed 형태 잡아주기
+                # - SourceCategory정보를 feed['source']내부 source_category 객체로 만들어주기 ( 임시 )
+                feed['source']['source_category'] = SourceCategory.get_or_create(
+                    name=self.__class__.__name__.replace('Markdown', '')
+                )
+                # - source dict를 Source객체로 바꿔주기 + url로만 존재여부 판단하기
+                feed['source'] = Source.get_or_create(**feed['source'], get_key='url')
+
+                # 1) url로 필터링 + title이 달라질 경우는 update
+                prev_feed = Feed.query.filter_by(url=feed['url']).first()
+                if prev_feed:
+                    if feed['title'] != prev_feed.title:
+                        print(feed, "url존재하지만 title이 수정되어 변경만")
+                        prev_feed.update(**feed)
+                    continue
+
+                feeds.append(Feed(**feed))
+
+
         if not feeds:
             parse_logger.info(f'{self.__class__.__name__}에서 feed가 하나도 없어 Markdown 생성이 안되었습니다.')
             return markdown_text
+
+        session.add_all(feeds)
+        session.commit()
 
         feeds = self.sort_and_truncate_feeds(feeds, display_numbers=display_numbers)
 

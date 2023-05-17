@@ -2,7 +2,7 @@ from sqlalchemy import MetaData, create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import scoped_session, sessionmaker
 
-from rss_sources import SourceConfig
+from rss_sources.config import SourceConfig
 
 # sqlite migrate 오류시 발생할 수 있는 버그 픽스
 naming_convention = {

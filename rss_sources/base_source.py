@@ -1,5 +1,4 @@
 from rss_sources.utils import parse_logger
-# from opengraph_py3 import OpenGraph
 
 from rss_sources.parser import RssParser
 from rss_sources.utils import requests_url
@@ -45,23 +44,54 @@ class BaseSource:
             # [SUCCESS] 요청 성공시 parse(generate)로 feed dict 1개씩 받아 처리하기
             feeds = []
             for feed in self.parser.parse(result_text):
-                # [카테고리 필터링] 카테고리가 일치하지 않으면 해당feed dict 넘어가기
+                #### 필터링
+                # [블로그 입력 카테고리 필터링] 카테고리가 일치하지 않으면 해당feed dict 넘어가기
                 # - URLSource는 제외
                 if issubclass(self.__class__, TargetSource) and category and not self._is_category(feed, category):
                     continue
 
-                # [추가삽입] 부모인 source정보 삽입 -> DB적용시 source의 id로 대체?!
-                #  - html에 표시할 때 prefix로 쓸 듯?!
-                feed['source_category_name'] = self.NAME
-                feed['source_category_url'] = self.URL
+                # [DB 중복 url 필터링] with db
+                # prev_feed = Feed.query.filter_by(url=feed['url']).first()
+                # if prev_feed and feed['title'] != prev_feed.title:
+                #     session.merge(prev_feed.update(**feed))
+                #     print('merge')
+                #     continue
 
                 # [변형/추출] cls별 재정의한 map 적용
                 #  1) Tistory + Naver: thumbnail_url 추가 추출 등
                 feed = self.map(feed)
 
+                # [추가삽입] 부모인 source정보 삽입 -> DB적용시 source의 id로 대체?!
+                #  - html에 표시할 때 prefix로 쓸 듯?!
+                # feed['source_category_name'] = self.NAME
+                # feed['source_category_url'] = self.URL
+                feed['source'].update(
+                    name=self.NAME,
+                    url=self.URL,
+                    category=category,
+                )
+                # category_instance = Category.get_or_create(name=self.NAME, url=self.URL)
+                # category_instance = Category.get_or_create(name=source)
+
+                # feed['source'] = Source.get_or_create(
+                #     # category=category_instance,
+                #     name=feed['source'].get('name'),
+                #     url=feed['source'].get('url')
+                # )
+
+                # Feed.
+                # bulk_insert를 하기 위해, category-source 부모객체는 찾아놓고, Feed()객체를 만들어놓는다
+                # -> category, source를 찾지않고 raw객체를 Feed가 품으면, 매번 생성된다.
+                # feed = Feed(**feed)
                 feeds.append(feed)
 
             total_feeds.extend(feeds)
+        #
+        if len(total_feeds) > 1:
+            print(f'{self.__class__.__name__}에서 new feed 발견')
+            # session.add_all(total_feeds)
+            # session.bulk_save_objects(total_feeds) # 관계(부모)객체를 못채운다
+            # session.commit()
 
         return total_feeds
 
@@ -82,9 +112,6 @@ class BaseSource:
     #     return og.get('image', None)
 
 
-
-
-
 class URLSource(BaseSource):
     def __init__(self, urls):
         super().__init__()
@@ -98,7 +125,6 @@ class TargetSource(BaseSource):
         super().__init__()
         self.target_id_with_categories = self.check_category(self.check_type(target_id_with_categories))
         self._url_with_categories = self._generate_urls(self.target_id_with_categories)
-
 
     def _generate_urls(self, target_id_and_categories):
         """

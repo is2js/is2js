@@ -3,20 +3,41 @@ from sqlalchemy.orm import relationship
 from .base import BaseModel, db
 
 
-class Category(BaseModel):
+class SourceCategory(BaseModel):
+    """
+    Youtube, Blog, URL
+    """
     id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.Text, nullable=False)
-    url = db.Column(db.Text, nullable=False, index=True)
+    name = db.Column(db.Text, nullable=False, unique=True)
 
-    sources = relationship('Source', back_populates='category', cascade='all, delete-orphan')
+    sources = relationship('Source', back_populates='source_category', cascade='all, delete-orphan')
 
 
 class Source(BaseModel):
+    """
+    Youtube - 1,2,3                             => 1,2,3이 쓰임 (target_name, target_url in parser.parse)
+    Blog - (Tistory) 1,2,3, + (Naver) 1,2,3,,   => ()가쓰임 (source_name, source_url in BaseSource.fetch_feeds)
+    URL - 1,2,3                                 => 1,2,3이 쓰임
+    """
     id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.Text, nullable=False)
-    url = db.Column(db.Text, nullable=False, index=True)
+    name = db.Column(db.Text, nullable=False) # 사용자입력 NAME ex> Tistory, Naver, 유튜브, 왓챠
+    url = db.Column(db.Text, nullable=False, index=True, unique=True)
+    category = db.Column(db.Text, nullable=True)
 
-    category_id = db.Column(db.Integer, db.ForeignKey('category.id', ondelete="CASCADE"))
-    category = relationship('Category', foreign_keys=[category_id], back_populates='sources')
+    target_name = db.Column(db.Text, nullable=False) # RSS타겟 NAME ex> xxx님의 blog, 쌍보네TV
+    target_url = db.Column(db.Text, nullable=False)
+
+    source_category_id = db.Column(db.Integer, db.ForeignKey('sourcecategory.id', ondelete="CASCADE"))
+    source_category = relationship('SourceCategory', foreign_keys=[source_category_id], back_populates='sources', uselist=False)
 
     feeds = relationship('Feed', back_populates='source', cascade='all, delete-orphan')
+
+    # @classmethod
+    # def get_or_create(cls, **kwargs):
+    #     # instance = cls.query.filter_by(**kwargs).first()
+    #     instance = cls.query.filter_by(url=kwargs.get('url')).first()
+    #     if instance is None:
+    #         instance = cls(**kwargs)
+    #         instance.save()
+    #
+    #     return instance

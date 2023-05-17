@@ -5,7 +5,6 @@ import feedparser
 import pytz
 from bs4 import BeautifulSoup
 
-
 from rss_sources.utils import parse_logger
 
 
@@ -32,14 +31,16 @@ class RssParser(object):
         print(f"출저 부제목: {source.get('subtitle', None)}")
         print(f'총 글 갯수: {total_count}')
 
-
         for entry in feed.entries:
-
             data = dict()
 
-            data['source_name'] = source.get('title', None)
             # 여러 target의 link 버튼용 (유튜브) -> 구독하기
-            data['source_url'] = source.get('link', None)
+            # data['source_name'] = source.get('title', None)
+            # data['source_url'] = source.get('link', None)
+            data['source'] = dict(
+                target_name=source.get('title', None),
+                target_url=source.get('link', None)
+            )
 
             data['url'] = entry.get("link")
             data['category'] = _get_category(entry.get("tags"))
@@ -54,7 +55,6 @@ class RssParser(object):
             # 출력용
             kst_published = utc_to_local(utc_published)
             data['published_string'] = kst_published.strftime("%Y년 %m월 %d일 %H시 %M분 %S초")
-
 
             yield data
 
