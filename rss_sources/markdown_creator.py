@@ -249,7 +249,7 @@ class URLMarkdown(Markdown):
     <div align="center">
         📢 <strong>구독대상:</strong> {', '.join(name_list)}
     </div>
-        '''
+'''
         return custom_result
 
     def set_feed_template(self, feed_template, feeds, prefix=None):
