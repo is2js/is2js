@@ -1,8 +1,7 @@
 from bs4 import BeautifulSoup
 
-from rss_sources.base_source import TargetSource
+from rss_sources.sources.base_source import TargetSource
 from rss_sources.utils import requests_url
-from rss_sources.utils import parse_logger
 
 
 class Naver(TargetSource):

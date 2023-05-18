@@ -1,4 +1,4 @@
-from rss_sources.base_source import TargetSource
+from rss_sources.sources.base_source import TargetSource
 
 class Youtube(TargetSource):
     NAME = '유튜브'

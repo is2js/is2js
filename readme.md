@@ -123,12 +123,8 @@
   /></a>
 </p>
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-17 15:01:37)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-18 17:18:03)</small>    
 <!-- START -->
-
-<div align="center">
-    <a href="https://www.youtube.com/channel/UChZt76JR2Fed1EQ_Ql2W_cw?sub_confirmation=1"><img src="https://img.shields.io/badge/-구독하기-red?style=flat&logo=youtube&logoColor=white" height=25px/></a>
-</div>
 <div align="center">
     <table>
         <tr>
@@ -143,14 +139,74 @@
                         임시 - 그룹웨어 핵심기능 - 부서관리 및 조직도
                     </a>
                 </h5>
-                <sup><sub>2023년 05월 15일 16시 30분 29초</sub></sup>
+                <sup><sub><span style="color:black">조재성 | </span>2023년 05월 15일 16시 30분 29초</sub></sup>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="140px" style="background:black;" style="padding:0;">
+                <a href="https://www.youtube.com/watch?v=P_06Nvmunrk">
+                    <img width="140px" src="https://i1.ytimg.com/vi/P_06Nvmunrk/hqdefault.jpg" style="margin:0;">
+                </a>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://www.youtube.com/watch?v=P_06Nvmunrk" style="color:red;text-decoration: none;">
+                        임시 - 그룹웨어 프로젝트 소개
+                    </a>
+                </h5>
+                <sup><sub><span style="color:black">조재성 | </span>2023년 05월 15일 16시 17분 42초</sub></sup>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="140px" style="background:black;" style="padding:0;">
+                <a href="https://www.youtube.com/watch?v=1j3wGl06pUs">
+                    <img width="140px" src="https://i2.ytimg.com/vi/1j3wGl06pUs/hqdefault.jpg" style="margin:0;">
+                </a>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://www.youtube.com/watch?v=1j3wGl06pUs" style="color:red;text-decoration: none;">
+                        여동생을 위한 쌍둥이 오빠들의 축가 | SG워너비 해바리기
+                    </a>
+                </h5>
+                <sup><sub><span style="color:black">쌍보네TV | </span>2023년 05월 10일 05시 25분 48초</sub></sup>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="140px" style="background:black;" style="padding:0;">
+                <a href="https://www.youtube.com/watch?v=7NER1ikd8AU">
+                    <img width="140px" src="https://i4.ytimg.com/vi/7NER1ikd8AU/hqdefault.jpg" style="margin:0;">
+                </a>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://www.youtube.com/watch?v=7NER1ikd8AU" style="color:red;text-decoration: none;">
+                        체스 미션 최종 5단계 구현
+                    </a>
+                </h5>
+                <sup><sub><span style="color:black">조재성 | </span>2022년 04월 12일 15시 34분 11초</sub></sup>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="140px" style="background:black;" style="padding:0;">
+                <a href="https://www.youtube.com/watch?v=GZBNcOFdA1Y">
+                    <img width="140px" src="https://i4.ytimg.com/vi/GZBNcOFdA1Y/hqdefault.jpg" style="margin:0;">
+                </a>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://www.youtube.com/watch?v=GZBNcOFdA1Y" style="color:red;text-decoration: none;">
+                        포돌이 체스(css적용버전)
+                    </a>
+                </h5>
+                <sup><sub><span style="color:black">조재성 | </span>2022년 04월 09일 14시 59분 13초</sub></sup>
             </td>
         </tr>
     </table>
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-17 15:01:38)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-18 17:18:06)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -171,6 +227,21 @@
         </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
+                <a href="https://blog.naver.com/is2js/223096950852">
+                    <img width="120px" src="https://postfiles.pstatic.net/MjAyMzA1MDlfNDYg/MDAxNjgzNTc3Nzg4NzUy.AlAGwLmQLs2vVPJlB65VyGMf_qAlz63zO1hqmBRa5oYg.qnpSINFxzXsETQftIzrgzBgF9HjTe9WH_zBLmbh58A4g.PNG.is2js/%EB%B0%94%EC%9A%B8%EC%BC%80%EC%96%B4.png?type=w773" style="margin:0;" alt="empty">
+                </a>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://blog.naver.com/is2js/223096950852" style="color:teal;text-decoration: none;">
+                        ㅁㄴㅇㄻㄴㅁㄴㅇㄻㄴ
+                    </a>
+                </h5>
+                <sup><sub>네이버 | 2023년 05월 09일 05시 29분 55초</sub></sup>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
                 <a href="https://nittaku.tistory.com/514">
                     <img width="120px" src="./rss_sources/images/tistory.png" style="margin:0;" alt="empty">
                 </a>
@@ -184,13 +255,46 @@
                 <sup><sub>티스토리 | 2021년 07월 26일 22시 38분 29초</sub></sup>
             </td>
         </tr>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <a href="https://nittaku.tistory.com/513">
+                    <img width="120px" src="./rss_sources/images/tistory.png" style="margin:0;" alt="empty">
+                </a>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://nittaku.tistory.com/513" style="color:teal;text-decoration: none;">
+                        [원격용] 윈도우키, 한영키, 알트탭 매핑 오토핫키
+                    </a>
+                </h5>
+                <sup><sub>티스토리 | 2021년 05월 10일 19시 04분 18초</sub></sup>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <a href="https://nittaku.tistory.com/512">
+                    <img width="120px" src="./rss_sources/images/tistory.png" style="margin:0;" alt="empty">
+                </a>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://nittaku.tistory.com/512" style="color:teal;text-decoration: none;">
+                        윈도우에서 markdown 파일을 우클릭 > 새로 만들기에 넣기
+                    </a>
+                </h5>
+                <sup><sub>티스토리 | 2021년 04월 24일 09시 12분 10초</sub></sup>
+            </td>
+        </tr>
     </table>
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-17 15:01:39)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-18 17:18:06)</small>    
 <!-- START -->
-<div align="center">
+    <div align="center">
+        📢 <strong>구독대상:</strong> 민족의학신문, 왓챠
+    </div>
+        <div align="center">
     <table>
         <tr>
             <td align="center" width="120px" style="padding:0;">
@@ -203,11 +307,11 @@
             </td>
             <td>
                 <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56597" style="color:black;text-decoration: none;">
-                        정읍시, 만성질환 관리 위한 ‘건강하자 go 365교실’ 운영
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56618" style="color:black;text-decoration: none;">
+                        대구한의대 포항한방병원-포항대, 산학연 협력 위한 mou 체결
                     </a>
                 </h5>
-                <sup><sub>2023년 05월 16일 23시 22분 57초</sub></sup>
+                <sup><sub>2023년 05월 18일 23시 42분 45초</sub></sup>
             </td>
         </tr>
         <tr>
@@ -221,11 +325,11 @@
             </td>
             <td>
                 <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56596" style="color:black;text-decoration: none;">
-                        ‘천연물의약품의 생물학적 활성평가에 의한 품질평가’ 포럼 개최
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56617" style="color:black;text-decoration: none;">
+                        국시원, ‘실기시험의 발전 방향’ 국제학술세미나 개최
                     </a>
                 </h5>
-                <sup><sub>2023년 05월 16일 22시 43분 00초</sub></sup>
+                <sup><sub>2023년 05월 18일 20시 38분 46초</sub></sup>
             </td>
         </tr>
         <tr>
@@ -239,11 +343,11 @@
             </td>
             <td>
                 <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56595" style="color:black;text-decoration: none;">
-                        자생한방병원 2023년 일반수련의 장학생 모집
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56616" style="color:black;text-decoration: none;">
+                        의사 범죄, 최근 5년간 전체적으로 줄었으나 강력 범죄는 증가
                     </a>
                 </h5>
-                <sup><sub>2023년 05월 16일 20시 08분 33초</sub></sup>
+                <sup><sub>2023년 05월 18일 19시 14분 24초</sub></sup>
             </td>
         </tr>
         <tr>
@@ -257,11 +361,11 @@
             </td>
             <td>
                 <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56594" style="color:black;text-decoration: none;">
-                        尹 대통령, 간호법 거부권 행사 의결
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56615" style="color:black;text-decoration: none;">
+                        식약처 출범 10주년 기념 '규제과학의 과제' 논의의 장 열린다
                     </a>
                 </h5>
-                <sup><sub>2023년 05월 16일 19시 50분 07초</sub></sup>
+                <sup><sub>2023년 05월 18일 18시 35분 18초</sub></sup>
             </td>
         </tr>
         <tr>
@@ -275,11 +379,11 @@
             </td>
             <td>
                 <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56593" style="color:black;text-decoration: none;">
-                        식약처, 식약공용인 마‧생강 등 7개 제품 잔류농약 부적합 판정
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56614" style="color:black;text-decoration: none;">
+                        “헴스트링 근육 유연성 향상에 추나요법이 스트레칭보다 효과적”
                     </a>
                 </h5>
-                <sup><sub>2023년 05월 16일 18시 59분 16초</sub></sup>
+                <sup><sub>2023년 05월 18일 03시 04분 59초</sub></sup>
             </td>
         </tr>
     </table>

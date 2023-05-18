@@ -21,7 +21,7 @@ def get_youtube_markdown():
         )
 
     except Exception as e:
-        parse_logger.error(f'youtube markdown 생성 실패: {str(e)}')
+        parse_logger.error(f'youtube markdown 생성 실패: {str(e)}', exc_info=True)
         return ''
 
 
@@ -41,7 +41,7 @@ def get_blog_markdown():
         )
 
     except Exception as e:
-        parse_logger.error(f'blog markdown 생성 실패: {str(e)}')
+        parse_logger.error(f'blog markdown 생성 실패: {str(e)}', exc_info=True)
         return ''
 
 
@@ -61,7 +61,7 @@ def get_url_markdown():
             display_numbers=SourceConfig.URL_DISPLAY_NUMBERS
         )
     except Exception as e:
-        parse_logger.error(f'url markdown 생성 실패: {str(e)}')
+        parse_logger.error(f'url markdown 생성 실패: {str(e)}', exc_info=True)
         return ''
 
 

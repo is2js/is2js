@@ -87,8 +87,8 @@ class BaseSource:
 
             total_feeds.extend(feeds)
         #
-        if len(total_feeds) > 1:
-            print(f'{self.__class__.__name__}에서 new feed 발견')
+        # if len(total_feeds) > 1:
+            # print(f'{self.__class__.__name__}에서 new feed 발견')
             # session.add_all(total_feeds)
             # session.bulk_save_objects(total_feeds) # 관계(부모)객체를 못채운다
             # session.commit()

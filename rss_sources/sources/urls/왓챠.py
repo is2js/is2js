@@ -1,4 +1,4 @@
-from rss_sources.base_source import URLSource
+from rss_sources.sources.base_source import URLSource
 
 class 왓챠(URLSource):
     NAME = '왓챠'
