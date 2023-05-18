@@ -123,7 +123,7 @@
   /></a>
 </p>
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-18 03:20:07)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-18 10:22:40)</small>    
 <!-- START -->
 
 <div align="center">
@@ -210,7 +210,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-18 03:20:18)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-18 10:22:54)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -293,10 +293,82 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-18 03:20:19)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-18 10:22:55)</small>    
 <!-- START -->
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                        민족의학신문
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56616" style="color:black;text-decoration: none;">
+                        의사 범죄, 최근 5년간 전체적으로 줄었으나 강력 범죄는 증가
+                    </a>
+                </h5>
+                <sup><sub>2023년 05월 18일 19시 14분 24초</sub></sup>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                        민족의학신문
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56615" style="color:black;text-decoration: none;">
+                        식약처 출범 10주년 기념 '규제과학의 과제' 논의의 장 열린다
+                    </a>
+                </h5>
+                <sup><sub>2023년 05월 18일 18시 35분 18초</sub></sup>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                        민족의학신문
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56614" style="color:black;text-decoration: none;">
+                        “헴스트링 근육 유연성 향상에 추나요법이 스트레칭보다 효과적”
+                    </a>
+                </h5>
+                <sup><sub>2023년 05월 18일 03시 04분 59초</sub></sup>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                        민족의학신문
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56613" style="color:black;text-decoration: none;">
+                        안양시-안양시한의사회, 청소년 월경통 한의진료 지원한다
+                    </a>
+                </h5>
+                <sup><sub>2023년 05월 17일 23시 04분 34초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -313,78 +385,6 @@
                     </a>
                 </h5>
                 <sup><sub>2023년 05월 17일 21시 22분 11초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        민족의학신문
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56611" style="color:black;text-decoration: none;">
-                        여주시, 경로당 순회 ‘찾아가는 한의학 건강교실’ 운영
-                    </a>
-                </h5>
-                <sup><sub>2023년 05월 17일 20시 23분 22초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        민족의학신문
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56610" style="color:black;text-decoration: none;">
-                        산청한방약초축제, 오는 10월 6일 개막 확정
-                    </a>
-                </h5>
-                <sup><sub>2023년 05월 17일 19시 56분 29초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        민족의학신문
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56609" style="color:black;text-decoration: none;">
-                        간협·간호법 범국본 "약속 파기 대통령에 정치적 책임 물을 것”
-                    </a>
-                </h5>
-                <sup><sub>2023년 05월 17일 18시 56분 28초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        민족의학신문
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56597" style="color:black;text-decoration: none;">
-                        정읍시, 만성질환 관리 위한 ‘건강하자 go 365교실’ 운영
-                    </a>
-                </h5>
-                <sup><sub>2023년 05월 16일 23시 22분 57초</sub></sup>
             </td>
         </tr>
     </table>
