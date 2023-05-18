@@ -2,7 +2,7 @@ import os
 
 from rss_sources.markdown_creator import YoutubeMarkdown, BlogMarkdown, URLMarkdown
 from rss_sources.templates import YOUTUBE_FEED_TEMPLATE, BLOG_FEED_TEMPLATE, URL_FEED_TEMPLATE
-from rss_sources.utils import parse_logger
+from rss_sources.utils import parse_logger, db_logger
 
 from rss_sources.config import SourceConfig
 
@@ -71,7 +71,10 @@ def create_database():
         from rss_sources.database.base import Base, engine
         # print(os.path.basename(SourceConfig.DATABASE_URL))
         # db.sqlite
+        db_logger.info('db파일을 최초 생성하였습니다.')
         Base.metadata.create_all(bind=engine)
+    else:
+        db_logger.info('기존 db파일이 있는 상태입니다.')
 
 if __name__ == '__main__':
 

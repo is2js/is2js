@@ -33,6 +33,7 @@ jobs:
       - name: View Today logs
         run: |
           cat logs/parse.log
+          cat logs/db.log
       - name: Update README.md file
         run: | 
           git pull
