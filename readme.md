@@ -123,7 +123,7 @@
   /></a>
 </p>
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-18 10:22:40)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-18 15:21:30)</small>    
 <!-- START -->
 
 <div align="center">
@@ -210,7 +210,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-18 10:22:54)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-18 15:21:43)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -293,10 +293,46 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-18 10:22:55)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-18 15:21:44)</small>    
 <!-- START -->
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                        민족의학신문
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56618" style="color:black;text-decoration: none;">
+                        대구한의대 포항한방병원-포항대, 산학연 협력 위한 mou 체결
+                    </a>
+                </h5>
+                <sup><sub>2023년 05월 18일 23시 42분 45초</sub></sup>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                        민족의학신문
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56617" style="color:black;text-decoration: none;">
+                        국시원, ‘실기시험의 발전 방향’ 국제학술세미나 개최
+                    </a>
+                </h5>
+                <sup><sub>2023년 05월 18일 20시 38분 46초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -349,42 +385,6 @@
                     </a>
                 </h5>
                 <sup><sub>2023년 05월 18일 03시 04분 59초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        민족의학신문
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56613" style="color:black;text-decoration: none;">
-                        안양시-안양시한의사회, 청소년 월경통 한의진료 지원한다
-                    </a>
-                </h5>
-                <sup><sub>2023년 05월 17일 23시 04분 34초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        민족의학신문
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56612" style="color:black;text-decoration: none;">
-                        서울시한의사회, “자보 대인보상비 증가? 환자 선호도와 한방 외래의료기관 수 늘어”
-                    </a>
-                </h5>
-                <sup><sub>2023년 05월 17일 21시 22분 11초</sub></sup>
             </td>
         </tr>
     </table>
