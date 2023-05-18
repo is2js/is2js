@@ -123,7 +123,7 @@
   /></a>
 </p>
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-18 18:00:56)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-18 18:11:39)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -206,7 +206,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-18 18:01:10)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-18 18:11:51)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -289,10 +289,10 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-18 18:01:11)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-18 18:11:52)</small>    
 <!-- START -->
 <div align="center">
-    📢 <strong>구독대상:</strong> 민족의학신문, 왓챠
+    📢 <sup><sub><strong>구독대상:</strong> 민족의학신문, 왓챠</sub></sup>
 </div>
 <div align="center">
     <table>
