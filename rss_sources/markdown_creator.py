@@ -247,7 +247,7 @@ class URLMarkdown(Markdown):
         name_list = [source.name for source in name_list]
         custom_result += f'''\
 <div align="center">
-    📢 <strong>구독대상:</strong> {', '.join(name_list)}
+    📢 <sup><sub><strong>구독대상:</strong> {', '.join(name_list)}</sub></sup>
 </div>
 '''
         return custom_result
