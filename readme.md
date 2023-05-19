@@ -123,7 +123,7 @@
   /></a>
 </p>
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-19 10:23:27)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-19 15:21:04)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -206,7 +206,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-19 10:23:39)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-19 15:21:14)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -289,13 +289,49 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-19 10:23:40)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-19 15:21:16)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> 민족의학신문, 왓챠</sub></sup>
 </div>
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                        민족의학신문
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56624" style="color:black;text-decoration: none;">
+                        “비대면 진료 관련 공동 성명서에 한의협 명의 도용한 양의협 공개 사과하라”
+                    </a>
+                </h5>
+                <sup><sub>2023년 05월 19일 23시 58분 01초</sub></sup>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                        민족의학신문
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56623" style="color:black;text-decoration: none;">
+                        “영천에서 작약과 함께 한약축제 즐기고 가세요”
+                    </a>
+                </h5>
+                <sup><sub>2023년 05월 19일 20시 36분 21초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -348,42 +384,6 @@
                     </a>
                 </h5>
                 <sup><sub>2023년 05월 19일 00시 29분 28초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        민족의학신문
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56619" style="color:black;text-decoration: none;">
-                        한의협-지앤넷, 실손보험 청구 간소화 추진 MOU
-                    </a>
-                </h5>
-                <sup><sub>2023년 05월 19일 00시 15분 34초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        민족의학신문
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56618" style="color:black;text-decoration: none;">
-                        대구한의대 포항한방병원-포항대, 산학연 협력 위한 mou 체결
-                    </a>
-                </h5>
-                <sup><sub>2023년 05월 18일 23시 42분 45초</sub></sup>
             </td>
         </tr>
     </table>
