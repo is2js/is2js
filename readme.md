@@ -129,7 +129,7 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-22 21:32:34)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-22 23:48:59)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -212,7 +212,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-22 21:32:34)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-22 23:49:10)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -295,101 +295,101 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-22 21:32:34)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-22 23:49:13)</small>    
 <!-- START -->
 <div align="center">
-    📢 <sup><sub><strong>구독대상:</strong> 민족의학신문, 왓챠</sub></sup>
+    📢 <sup><sub><strong>구독대상:</strong> spoqa, 왓챠</sub></sup>
 </div>
 <div align="center">
     <table>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
-                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        민족의학신문
+                    <a href="https://spoqa.github.io/" style="color:grey;text-decoration: none;">
+                        spoqa
                     </a>
                 </h6>
                 <sup><sub></sub></sup>
             </td>
             <td>
                 <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56631" style="color:black;text-decoration: none;">
-                        한의약진흥원, 2형당뇨-손목터널증후군-변형성 배병증 한의CPG 출간
+                    <a href="https://spoqa.github.io/2023/04/28/journey-to-building-an-event-log-system.html" style="color:black;text-decoration: none;">
+                        이벤트 로그 체계 구축 여정
                     </a>
                 </h5>
-                <sup><sub>2023년 05월 23일 01시 02분 43초</sub></sup>
+                <sup><sub>2023년 04월 28일 09시 00분 00초</sub></sup>
             </td>
         </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
-                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        민족의학신문
+                    <a href="https://spoqa.github.io/" style="color:grey;text-decoration: none;">
+                        spoqa
                     </a>
                 </h6>
                 <sup><sub></sub></sup>
             </td>
             <td>
                 <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56630" style="color:black;text-decoration: none;">
-                        함안군, 한의사가 찾아가는 마을주치의 사업 실시
+                    <a href="https://spoqa.github.io/2023/02/24/bill-payment-development-story.html" style="color:black;text-decoration: none;">
+                        청구/수납 서비스 개발기
                     </a>
                 </h5>
-                <sup><sub>2023년 05월 23일 00시 07분 16초</sub></sup>
+                <sup><sub>2023년 02월 24일 09시 00분 00초</sub></sup>
             </td>
         </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
-                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        민족의학신문
+                    <a href="https://watcha.com/" style="color:grey;text-decoration: none;">
+                        왓챠
                     </a>
                 </h6>
-                <sup><sub></sub></sup>
+                <sup><sub>유엑스디자인</sub></sup>
             </td>
             <td>
                 <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56629" style="color:black;text-decoration: none;">
-                        건보공단-고용노동부, 안전 문화 확산 MOU
+                    <a href="https://medium.com/watcha/tv-app-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%A0-%EB%95%8C-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-%EC%9A%94%EC%86%8C%EB%93%A4-753356a7f4f8?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
+                        TV APP 디자인할 때 고려해야하는 요소들
                     </a>
                 </h5>
-                <sup><sub>2023년 05월 22일 23시 22분 02초</sub></sup>
+                <sup><sub>2023년 02월 16일 15시 09분 06초</sub></sup>
             </td>
         </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
-                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        민족의학신문
+                    <a href="https://watcha.com/" style="color:grey;text-decoration: none;">
+                        왓챠
                     </a>
                 </h6>
-                <sup><sub></sub></sup>
+                <sup><sub>smart-tv</sub></sup>
             </td>
             <td>
                 <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56628" style="color:black;text-decoration: none;">
-                        원광한의대, ‘인지장애 한의중점연구센터’ 설립 나선다
+                    <a href="https://medium.com/watcha/%EC%8A%A4%EB%A7%88%ED%8A%B8-tv%EC%97%90%EC%84%9C-%EC%BD%98%ED%85%90%EC%B8%A0%EB%A5%BC-%EC%83%88%EB%A1%AD%EA%B2%8C-%ED%83%90%EC%83%89%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-66d303a6c65e?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
+                        스마트 TV에서 콘텐츠를 새롭게 탐색하는 방법
                     </a>
                 </h5>
-                <sup><sub>2023년 05월 22일 23시 19분 29초</sub></sup>
+                <sup><sub>2022년 10월 19일 17시 05분 08초</sub></sup>
             </td>
         </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
-                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        민족의학신문
+                    <a href="https://watcha.com/" style="color:grey;text-decoration: none;">
+                        왓챠
                     </a>
                 </h6>
-                <sup><sub></sub></sup>
+                <sup><sub>tech</sub></sup>
             </td>
             <td>
                 <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56627" style="color:black;text-decoration: none;">
-                        한의영상학회, 원광한의대 학생에 경혈 초음파 특강 실시
+                    <a href="https://medium.com/watcha/watcha-ctis-case-report-join-my-table-5%EB%B6%80-%EC%98%A4%EB%94%94%EC%98%A4-%ED%94%84%EB%A1%9C%EB%8D%95%EC%85%98-2ec87ff1915a?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
+                        WATCHA CTI’s Case Report:  — 5부 오디오 프로덕션
                     </a>
                 </h5>
-                <sup><sub>2023년 05월 22일 20시 17분 25초</sub></sup>
+                <sup><sub>2022년 10월 05일 16시 15분 41초</sub></sup>
             </td>
         </tr>
     </table>
