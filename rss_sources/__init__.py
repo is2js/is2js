@@ -1,6 +1,4 @@
 import os
-
-from rss_sources.markdown_creator import YoutubeMarkdown, BlogMarkdown, URLMarkdown
 from rss_sources.templates import YOUTUBE_FEED_TEMPLATE, BLOG_FEED_TEMPLATE, URL_FEED_TEMPLATE
 from rss_sources.utils import parse_logger, db_logger
 
