@@ -129,7 +129,7 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-22 15:21:53)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-22 21:32:34)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -212,7 +212,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-22 15:21:53)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-22 21:32:34)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -295,13 +295,31 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-22 15:21:53)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-22 21:32:34)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> 민족의학신문, 왓챠</sub></sup>
 </div>
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                        민족의학신문
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56631" style="color:black;text-decoration: none;">
+                        한의약진흥원, 2형당뇨-손목터널증후군-변형성 배병증 한의CPG 출간
+                    </a>
+                </h5>
+                <sup><sub>2023년 05월 23일 01시 02분 43초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -372,24 +390,6 @@
                     </a>
                 </h5>
                 <sup><sub>2023년 05월 22일 20시 17분 25초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        민족의학신문
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56626" style="color:black;text-decoration: none;">
-                        서울시한의사회-사암한방의료봉사단, 한의의료봉사 활동 MOU
-                    </a>
-                </h5>
-                <sup><sub>2023년 05월 22일 20시 14분 39초</sub></sup>
             </td>
         </tr>
     </table>
