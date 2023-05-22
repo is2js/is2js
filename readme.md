@@ -123,7 +123,7 @@
   /></a>
 </p>
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-22 03:19:16)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-22 10:26:55)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -206,7 +206,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-22 03:19:28)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-22 10:27:08)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -289,13 +289,31 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-22 03:19:29)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-22 10:27:09)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> 민족의학신문, 왓챠</sub></sup>
 </div>
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                        민족의학신문
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56625" style="color:black;text-decoration: none;">
+                        경기도청 한의약전담부서 설치 청원 1만명 돌파…김동연 지사 답변 남았다
+                    </a>
+                </h5>
+                <sup><sub>2023년 05월 22일 18시 22분 39초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -366,24 +384,6 @@
                     </a>
                 </h5>
                 <sup><sub>2023년 05월 19일 00시 39분 18초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        민족의학신문
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56620" style="color:black;text-decoration: none;">
-                        한의협 1차 수가협상, “코로나19로 수진자 감소 및 높은 본인부담금 어려움 호소”
-                    </a>
-                </h5>
-                <sup><sub>2023년 05월 19일 00시 29분 28초</sub></sup>
             </td>
         </tr>
     </table>
