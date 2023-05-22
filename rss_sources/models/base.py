@@ -22,7 +22,7 @@ def transaction(f):
         except Exception as e:
             session.rollback()
             # raise
-            db_logger.error(f'{str(e)}')
+            db_logger.error(f'{str(e)}', exc_info=True)
 
     return wrapper
 

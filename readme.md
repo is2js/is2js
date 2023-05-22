@@ -1,32 +1,43 @@
 <!-- 헤더 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=f6ebe1&height=150&section=header&text=ReturnedStudent%20for%20Engineer&fontSize=50&fontColor=152447&desc=평범한%20한의사%20돌범의%20우아한%20엔지니어%20도전기&descAlignY=80)
+[//]: # (![header]&#40;https://capsule-render.vercel.app/api?type=waving&color=f6ebe1&height=150&section=header&text=ReturnedStudent%20for%20Engineer&fontSize=50&fontColor=152447&desc=평범한%20한의사%20돌범의%20우아한%20엔지니어%20도전기&descAlignY=80&#41;)
 
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> -->
 ## *Hi! I'm Jaeseong Cho* ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fis2js.github.io%2Fblog_raw&count_bg=152447&title_bg=f6ebe1&icon_color=%23E1DFDF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)
 
 
 <!-- in  [`git`](https://blog.chojaeseong.com/categories/#git), `python3.8+`, (pytest), [`pyenv`](https://blog.chojaeseong.com/categories/#configuration) on `Wsl2` with `VScode` -->
+#### 👨‍⚕️ *I'm Doctor of Korean Medicine*
+- Worked at ***[CY](http://www.cyhani.com/)*** and ***[Gangnam Mokhuri](https://www.mokhuri.com/)*** Oriental Hospitals as KMD
 
-#### 🌱 *I’m currently learning about below with 2 based language ![Python](https://img.shields.io/badge/Python-%2320232a?style=flat&logo=python&color=152347) and ![Java](https://img.shields.io/badge/Java-%2320232a.svg?style=flat&logo=java&logoColor=6DB33F&color=152347)*
+#### 🌱 *I’m currently learning about 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,github,docker,aws,gcp" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,java,spring,vue" />
+  </a>
+</p>
+
+[//]: # (below with 2 based language ![Python]&#40;https://img.shields.io/badge/Python-%2320232a?style=flat&logo=python&color=152347&#41; and ![Java]&#40;https://img.shields.io/badge/Java-%2320232a.svg?style=flat&logo=java&logoColor=6DB33F&color=152347&#41;*)
+
 
 - ***Interested*** in ![OOP](https://img.shields.io/badge/OOP-%2320232a.svg?style=flat&logo=SlickPic&logoColor=FFFFFF&color=152347) ![TDD](https://img.shields.io/badge/TDD-%2320232a.svg?style=flat&logo=FutureLearn&logoColor=FFFFFF&color=152347) ![Clean Code](https://img.shields.io/badge/CleanCode-%2320232a.svg?style=flat&logo=Textpattern&logoColor=FFFFFF&color=152347) ![Design Pattern](https://img.shields.io/badge/DesignPattern-%2320232a.svg?style=flat&logo=SlickPic&logoColor=FFFFFF&color=152347)
-
-
-
 - ***Backend*** with <kbd>flask</kbd>, <kbd>fastAPI</kbd>, <kbd>SpringBoot</kbd>
-
 - ***Testing*** with <kbd>pytest</kbd>, <kbd>JUnit5</kbd>
-
 - ***DataScience/DataAnalysis*** with <kbd>pandas</kbd>, <kbd>NLP</kbd> by <kbd>TF2.0</kbd> and <kbd>Keras</kbd>
-
 - ***SQL, SQLAlchemy*** with <kbd>PostgreSQL</kbd>, <kbd>Mysql</kbd>, <kbd>SQLAlchemy</kbd> on <kbd>Docker</kbd>
 
-- ***My blog***
+[//]: # (- ***My blog***)
 
-  - *develop blog: https://blog.chojaeseong.com/ (**~ing**)*
+[//]: # ()
+[//]: # (  - *develop blog: https://blog.chojaeseong.com/ &#40;**~ing**&#41;*)
 
-  - *datascience blog: https://nittaku.tistory.com (closed, **누적방문자 300만 ↑**)*
+[//]: # ()
+[//]: # (  - *datascience blog: https://nittaku.tistory.com &#40;closed, **누적방문자 300만 ↑**&#41;*)
 
 
 
@@ -42,8 +53,6 @@
 </p>
 
 
-#### 👨‍⚕️ *I'm Doctor of Korean Medicine*
-- Worked at ***[CY](http://www.cyhani.com/)*** and ***[Gangnam Mokhuri](https://www.mokhuri.com/)*** Oriental Hospitals as KMD
 
 #### 🏷 *Certificates/Papers*
 - ***Certificate***
@@ -56,9 +65,9 @@
 - ***Paper***
     - ***Identification of Toxic Herbs Using Deep Learning** with Focus on the Sinomenium Acutum, Aristolochiae Manshuriensis Caulis, Akebiae Caulis [Accepted: 2019. 12](https://www.mdpi.com/2076-3417/9/24/5456)*
 #### 🚴‍♂️ *Experiences/Studies* 
+<!-- - *2021.09 ~ 11)* 🦁 [멋쟁이사자처럼](https://projectlion.io/courses/technology/naver) X Ncloud and Clova를 활용한 인공지능 서비스 과정-[수료증](https://raw.githubusercontent.com/is3js/screenshots/main/image-20211104162738975.png) -->
 <!-- - **Experience** -->
 - ***2021.11 ~ 2022.05)* 🪐 우아한테크코스 백엔드과정 4기 선발( [*precourse*](https://github.com/is2js/woowa_precourse), [*level 1 completion*](https://raw.githubusercontent.com/is2js/screenshots/main/20220525102303.png) )**
-<!-- - *2021.09 ~ 11)* 🦁 [멋쟁이사자처럼](https://projectlion.io/courses/technology/naver) X Ncloud and Clova를 활용한 인공지능 서비스 과정-[수료증](https://raw.githubusercontent.com/is3js/screenshots/main/image-20211104162738975.png) -->
 - *2019.07 ~ 09)* [Kdata 빅데이터 청년인재](https://dataonair.or.kr/bigjob/)-빅데이터 기반의 지능정보 시스템 개발(고려대) 과정
 - *2019.02 ~ 03)* [서울대학교 의과대학 SNU BioInformatics Lab](http://www.snubi.org/) Internship
 - *2018.03 ~ 2020.02)* [한국지도자육성장학재단(Kosffl Club)](https://www.kosffl.or.kr/) 장학생 선발
@@ -76,54 +85,51 @@
 
 
 
+[//]: # (<!-- 연락처 -->)
 
+[//]: # (<h2 align="center">👋 Contanct Me!  </h2>)
 
+[//]: # ()
+[//]: # (<!-- <p align="center">)
 
-<!-- 스택 icon -->
-<!-- <h2 align="center">🛠 Skill Stack</h2>
+[//]: # (    <a href="mailto:tingstyle1@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tingstyle1@gmail.com"/></a>&nbsp)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Go-11B48A?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/HyperledgerFabric-DB3552?style=flat-square&logo=Hulu&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
-</p> -->
+[//]: # (    <a href="https://www.facebook.com/realtingstyle"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>)
 
-<!-- 연락처 -->
-<h2 align="center">👋 Contanct Me!  </h2>
+[//]: # (    <a href="https://www.github.com/is2js"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>)
 
-<!-- <p align="center">
-    <a href="mailto:tingstyle1@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tingstyle1@gmail.com"/></a>&nbsp
-    <a href="https://www.facebook.com/realtingstyle"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
-    <a href="https://www.github.com/is2js"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
-</p> -->
+[//]: # (</p> -->)
 
-<p align="center">
-  <a href="mailto:tingstyle1@gmail.com"
-    ><img
-      src="https://img.shields.io/badge/tingstyle1@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tingstyle1@gmail.com"
-  /></a>
-  <a href="https://www.facebook.com/realtingstyle"
-    ><img
-      src="https://img.shields.io/badge/Facebook.com/realstyle-1877F2?style=flat-square&logo=facebook&logoColor=white"
-  /></a>
-  <a href="https://www.github.com/is2js"
-    ><img
-      src="https://img.shields.io/badge/GitHub.com/is2js-100000?style=flat-square&logo=github&logoColor=white"
-  /></a>
-</p>
+[//]: # ()
+[//]: # (<p align="center">)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-21 21:29:38)</small>    
+[//]: # (  <a href="mailto:tingstyle1@gmail.com")
+
+[//]: # (    ><img)
+
+[//]: # (      src="https://img.shields.io/badge/tingstyle1@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tingstyle1@gmail.com")
+
+[//]: # (  /></a>)
+
+[//]: # (  <a href="https://www.facebook.com/realtingstyle")
+
+[//]: # (    ><img)
+
+[//]: # (      src="https://img.shields.io/badge/Facebook.com/realstyle-1877F2?style=flat-square&logo=facebook&logoColor=white")
+
+[//]: # (  /></a>)
+
+[//]: # (  <a href="https://www.github.com/is2js")
+
+[//]: # (    ><img)
+
+[//]: # (      src="https://img.shields.io/badge/GitHub.com/is2js-100000?style=flat-square&logo=github&logoColor=white")
+
+[//]: # (  /></a>)
+
+[//]: # (</p>)
+
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-22 15:05:55)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -206,7 +212,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-21 21:29:54)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-22 15:05:55)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -289,7 +295,7 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-21 21:29:55)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-22 15:05:55)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> 민족의학신문, 왓챠</sub></sup>
@@ -307,11 +313,11 @@
             </td>
             <td>
                 <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56624" style="color:black;text-decoration: none;">
-                        “비대면 진료 관련 공동 성명서에 한의협 명의 도용한 양의협 공개 사과하라”
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56629" style="color:black;text-decoration: none;">
+                        건보공단-고용노동부, 안전 문화 확산 MOU
                     </a>
                 </h5>
-                <sup><sub>2023년 05월 19일 23시 58분 01초</sub></sup>
+                <sup><sub>2023년 05월 22일 23시 22분 02초</sub></sup>
             </td>
         </tr>
         <tr>
@@ -325,11 +331,11 @@
             </td>
             <td>
                 <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56623" style="color:black;text-decoration: none;">
-                        “영천에서 작약과 함께 한약축제 즐기고 가세요”
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56628" style="color:black;text-decoration: none;">
+                        원광한의대, ‘인지장애 한의중점연구센터’ 설립 나선다
                     </a>
                 </h5>
-                <sup><sub>2023년 05월 19일 20시 36분 21초</sub></sup>
+                <sup><sub>2023년 05월 22일 23시 19분 29초</sub></sup>
             </td>
         </tr>
         <tr>
@@ -343,11 +349,11 @@
             </td>
             <td>
                 <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56622" style="color:black;text-decoration: none;">
-                        신현영 의원, 가짜 의사방지법 대표발의
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56627" style="color:black;text-decoration: none;">
+                        한의영상학회, 원광한의대 학생에 경혈 초음파 특강 실시
                     </a>
                 </h5>
-                <sup><sub>2023년 05월 19일 17시 40분 38초</sub></sup>
+                <sup><sub>2023년 05월 22일 20시 17분 25초</sub></sup>
             </td>
         </tr>
         <tr>
@@ -361,11 +367,11 @@
             </td>
             <td>
                 <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56621" style="color:black;text-decoration: none;">
-                        청한, 장애인독립진료소 운영 10주년 기념식 열어
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56626" style="color:black;text-decoration: none;">
+                        서울시한의사회-사암한방의료봉사단, 한의의료봉사 활동 MOU
                     </a>
                 </h5>
-                <sup><sub>2023년 05월 19일 00시 39분 18초</sub></sup>
+                <sup><sub>2023년 05월 22일 20시 14분 39초</sub></sup>
             </td>
         </tr>
         <tr>
@@ -379,11 +385,11 @@
             </td>
             <td>
                 <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56620" style="color:black;text-decoration: none;">
-                        한의협 1차 수가협상, “코로나19로 수진자 감소 및 높은 본인부담금 어려움 호소”
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56625" style="color:black;text-decoration: none;">
+                        경기도청 한의약전담부서 설치 청원 1만명 돌파…김동연 지사 답변 남았다
                     </a>
                 </h5>
-                <sup><sub>2023년 05월 19일 00시 29분 28초</sub></sup>
+                <sup><sub>2023년 05월 22일 18시 22분 39초</sub></sup>
             </td>
         </tr>
     </table>

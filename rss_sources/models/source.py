@@ -22,7 +22,7 @@ class Source(BaseModel):
     id = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.Text, nullable=False) # 사용자입력 NAME ex> Tistory, Naver, 유튜브, 왓챠
     url = db.Column(db.Text, nullable=False)
-    category = db.Column(db.Text, nullable=True)
+    # category = db.Column(db.Text, nullable=True)
 
     target_name = db.Column(db.Text, nullable=False) # RSS타겟 NAME ex> xxx님의 blog, 쌍보네TV
     target_url = db.Column(db.Text, nullable=False, index=True, unique=True)

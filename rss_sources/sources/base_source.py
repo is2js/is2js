@@ -47,8 +47,8 @@ class BaseSource:
                 #### 필터링
                 # [블로그 입력 카테고리 필터링] 카테고리가 일치하지 않으면 해당feed dict 넘어가기
                 # - URLSource는 제외
-                if issubclass(self.__class__, TargetSource) and category and not self._is_category(feed, category):
-                    continue
+                # if issubclass(self.__class__, TargetSource) and category and not self._is_category(feed, category):
+                #     continue
 
                 # [DB 중복 url 필터링] with db
                 # prev_feed = Feed.query.filter_by(url=feed['url']).first()
@@ -68,7 +68,7 @@ class BaseSource:
                 feed['source'].update(
                     name=self.NAME,
                     url=self.URL,
-                    category=category,
+                    # category=category,
                 )
                 # category_instance = Category.get_or_create(name=self.NAME, url=self.URL)
                 # category_instance = Category.get_or_create(name=source)

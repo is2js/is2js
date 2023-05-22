@@ -18,15 +18,16 @@ class SourceConfig:
     BLOG_DISPLAY_NUMBERS = int(blog_display_numbers_or_none) if blog_display_numbers_or_none else 5
 
     # TISOTRY
-    tistory_target_ids = [item.strip() if item else None for item in os.getenv('TISTORY_TARGET_IDS').split(',')]
+    tistory_target_ids = [item.strip() for item in os.getenv('TISTORY_TARGET_IDS').split(',') if item]
     tistory_categories = [item.strip() if item else None for item in os.getenv('TISTORY_CATEGORIES').split(',')]
-    tistory_target_id_and_categories = list(zip_longest(tistory_target_ids, tistory_categories))
-    # print(tistory_targets) # [('nittaku', None)] # [(None, None)]
+    tistory_target_id_and_categories = list(
+        zip_longest(tistory_target_ids, tistory_categories)) if tistory_target_ids else []
+    # print(tistory_target_id_and_categories) # [('nittaku', None)] # [(None, None)]
 
     # NAVER
-    naver_target_ids = [item.strip() if item else None for item in os.getenv('NAVER_TARGET_IDS').split(',')]
+    naver_target_ids = [item.strip() for item in os.getenv('NAVER_TARGET_IDS').split(',') if item]
     naver_categories = [item.strip() if item else None for item in os.getenv('NAVER_CATEGORIES').split(',')]
-    naver_target_id_and_categories = list(zip_longest(naver_target_ids, naver_categories))
+    naver_target_id_and_categories = list(zip_longest(naver_target_ids, naver_categories)) if naver_target_ids else []
     # print(naver_targets) # [('is2js', None)]
 
     ## YOUTUBE
@@ -35,21 +36,19 @@ class SourceConfig:
     youtube_display_numbers_or_none = os.getenv('YOUTUBE_DISPLAY_NUMBERS', None)
     YOUTUBE_DISPLAY_NUMBERS = int(youtube_display_numbers_or_none) if youtube_display_numbers_or_none else 5
 
-    youtube_target_ids = [item.strip() if item else None for item in os.getenv('YOUTUBE_TARGET_IDS').split(',')]
+    youtube_target_ids = [item.strip() for item in os.getenv('YOUTUBE_TARGET_IDS').split(',') if item]
 
     ## URL
     URL_TITLE = os.getenv('URL_TITLE', None) or "📆 관심 RSS 구독"
     URL_DISPLAY_NUMBERS = int(os.getenv('URL_DISPLAY_NUMBERS', None)) or 5
 
-    urls = [item.strip() if item else None for item in os.getenv('URL_LIST').split(',')]
-    url_names = [item.strip() if item else None for item in os.getenv('URL_NAME').split(',')]
-    url_and_names = list(zip(urls, url_names))
-
+    urls = [item.strip() for item in os.getenv('URL_LIST').split(',') if item]
+    url_names = [item.strip() for item in os.getenv('URL_NAME').split(',') if item]
+    url_and_names = list(zip(urls, url_names)) if urls else []
 
     # log폴더 설정
     BASE_FOLDER = Path(__file__).resolve().parent  # BASE_FOLDER:  /계정명/rss_sources
     LOG_FOLDER = BASE_FOLDER.parent.joinpath('logs')  # LOG_FOLDER:  /계정명 + logs
-
 
     # DB 설정
     DATABASE_URL = os.getenv('DATABASE_URL') or 'sqlite:///db.sqlite'
