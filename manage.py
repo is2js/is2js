@@ -16,7 +16,7 @@ for service in services:
     markdown_text += service.render()
 
 with open('./readme.md', 'w', encoding="UTF-8") as readme:
-    with open('./default.md', 'rw', encoding="UTF-8") as default:
+    with open('./default.md', 'r', encoding="UTF-8") as default:
         readme.write(default.read() + '\n')
 
     readme.write(markdown_text)
