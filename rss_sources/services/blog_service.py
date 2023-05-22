@@ -1,6 +1,6 @@
 from sqlalchemy import and_, or_
 
-from rss_sources import BLOG_FEED_TEMPLATE
+from rss_sources.templates import BLOG_FEED_TEMPLATE
 from rss_sources.models import Source, Feed
 from rss_sources.config import SourceConfig
 from rss_sources.services.base_service import SourceService
@@ -32,7 +32,7 @@ class BlogService(SourceService):
     def get_display_numbers(self):
         return SourceConfig.BLOG_DISPLAY_NUMBERS
 
-    def get_target_info_for_filter(self):
+    def get_target_infos(self):
 
         return [(target_id, category) for target_id, category in
                 SourceConfig.tistory_target_id_and_categories + SourceConfig.naver_target_id_and_categories
@@ -66,7 +66,6 @@ class BlogService(SourceService):
     def set_feed_template(self, feeds):
         feed_template_result = ''
 
-        print(self.is_many_source())
         for feed in feeds:
             feed_text = BLOG_FEED_TEMPLATE.format(
                 feed.url,

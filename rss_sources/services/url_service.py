@@ -1,5 +1,6 @@
-from rss_sources import URL_FEED_TEMPLATE
+from rss_sources.templates import URL_FEED_TEMPLATE
 from rss_sources.models import Source
+from sqlalchemy import or_
 from rss_sources.config import SourceConfig
 from rss_sources.services.base_service import SourceService
 
@@ -17,14 +18,13 @@ class URLService(SourceService):
         #     raise ValueError(f'URLMarkdown에 입력된 url_and_names들이 존재하지 않습니다.')
         super().__init__(sources)
 
-    def get_target_info_for_filter(self):
+    def get_target_infos(self):
         return [target_name for target_url, target_name in SourceConfig.url_and_names if target_name]
 
     def get_display_numbers(self):
         return SourceConfig.URL_DISPLAY_NUMBERS
 
     def get_target_filter_clause(self, target_info_for_filter):
-        from sqlalchemy import or_
         return or_(
             *[Source.name.__eq__(target_name) for target_name in target_info_for_filter]
         )
@@ -35,10 +35,9 @@ class URLService(SourceService):
     def set_custom(self):
         custom_result = ''
 
-
         custom_result += f'''\
 <div align="center">
-    📢 <sup><sub><strong>구독대상:</strong> {', '.join(self.get_target_info_for_filter())}</sub></sup>
+    📢 <sup><sub><strong>구독대상:</strong> {', '.join(self.get_target_infos())}</sub></sup>
 </div>
 '''
         return custom_result

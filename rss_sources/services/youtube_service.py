@@ -16,7 +16,7 @@ class YoutubeService(SourceService):
     def get_display_numbers(self):
         return SourceConfig.YOUTUBE_DISPLAY_NUMBERS
 
-    def get_target_info_for_filter(self):
+    def get_target_infos(self):
         return [target_id for target_id in SourceConfig.youtube_target_ids if target_id]
 
     def get_target_filter_clause(self, target_info_for_filter):
@@ -29,7 +29,7 @@ class YoutubeService(SourceService):
     def set_custom(self):
         custom_result = ''
 
-        target_ids = self.get_target_info_for_filter()
+        target_ids = self.get_target_infos()
         if len(target_ids) == 1 and target_ids[0].startswith('UC'):
             custom_button = YOUTUBE_CUSTOM_TEMPLATE.format(target_ids[0])
             custom_result += custom_button

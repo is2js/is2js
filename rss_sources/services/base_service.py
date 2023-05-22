@@ -54,7 +54,7 @@ class SourceService:
         # SourceCategory 필터링
         source_category_name = self.get_source_category_name()
         # Source-target_url(Youtube, Blog) or name(URL) 및 Feed-category(Blog) 필터링
-        target_info_for_filter = self.get_target_info_for_filter()
+        target_info_for_filter = self.get_target_infos()
         display_numbers = self.get_display_numbers()
 
         feeds = self._get_feeds(source_category_name, target_info_for_filter, display_numbers)
@@ -65,16 +65,16 @@ class SourceService:
         return self.__class__.__name__.replace('Service', '')
 
     @abstractmethod
-    def get_target_info_for_filter(self):
+    def get_target_infos(self):
         raise NotImplementedError
 
     @abstractmethod
     def get_display_numbers(self):
         raise NotImplementedError
 
-    def _get_feeds(self, source_category_name, target_info_for_filter, display_numbers):
+    def _get_feeds(self, source_category_name, target_infos, display_numbers):
         # cls별 개별 필터링 by source_category_name, target_info_for_filter
-        filter_clause = self._create_feed_filter_clause(source_category_name, target_info_for_filter)
+        filter_clause = self._create_feed_filter_clause(source_category_name, target_infos)
 
         feeds = Feed.query \
             .join(Source.feeds) \
@@ -86,7 +86,7 @@ class SourceService:
             .all()
         return feeds
 
-    def _create_feed_filter_clause(self, source_category_name, target_info_for_filter):
+    def _create_feed_filter_clause(self, source_category_name, target_infos):
         # WHERE sourcecategory.name = ? AND (
         #           (source.target_url LIKE '%' || ? || '%') OR
         #           (source.target_url LIKE '%' || ? || '%') OR
@@ -101,12 +101,12 @@ class SourceService:
         # target_id가 target_url에 포함되거나 => TargetSource용
         # target_name이 Source의 name과 일치 => URLSource용
         #     by self.get_target_filter_clause 개별구현
-        filter_clause = filter_clause & self.get_target_filter_clause(target_info_for_filter)
+        filter_clause = filter_clause & self.get_target_filter_clause(target_infos)
 
         return filter_clause
 
     @abstractmethod
-    def get_target_filter_clause(self, target_id_or_name_list):
+    def get_target_filter_clause(self, target_infos):
         raise NotImplementedError
 
     def render(self, title_level=SourceConfig.TITLE_LEVEL):
@@ -124,11 +124,11 @@ class SourceService:
 
         return markdown_text
 
-    def is_many_source(self):
-        return len(self.get_target_info_for_filter()) > 1
-
     def set_custom(self):
         return ''
+
+    def is_many_source(self):
+        return len(self.get_target_infos()) > 1
 
     @abstractmethod
     def get_title(self):
