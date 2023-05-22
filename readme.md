@@ -13,7 +13,7 @@
 #### 🌱 *I’m currently learning about 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,github,docker,aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,github,docker,aws,gcp" />
   </a>
 </p>
 <p align="center">
@@ -129,7 +129,7 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-22 15:05:55)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-05-22 15:10:26)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -212,7 +212,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-22 15:05:55)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-05-22 15:10:26)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -295,13 +295,31 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-22 15:05:55)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-05-22 15:10:26)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> 민족의학신문, 왓챠</sub></sup>
 </div>
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
+                        민족의학신문
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56630" style="color:black;text-decoration: none;">
+                        함안군, 한의사가 찾아가는 마을주치의 사업 실시
+                    </a>
+                </h5>
+                <sup><sub>2023년 05월 23일 00시 07분 16초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -372,24 +390,6 @@
                     </a>
                 </h5>
                 <sup><sub>2023년 05월 22일 20시 14분 39초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://www.mjmedi.com/" style="color:grey;text-decoration: none;">
-                        민족의학신문
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="http://www.mjmedi.com/news/articleView.html?idxno=56625" style="color:black;text-decoration: none;">
-                        경기도청 한의약전담부서 설치 청원 1만명 돌파…김동연 지사 답변 남았다
-                    </a>
-                </h5>
-                <sup><sub>2023년 05월 22일 18시 22분 39초</sub></sup>
             </td>
         </tr>
     </table>
