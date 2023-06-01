@@ -129,7 +129,7 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-06-01 03:20:22)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-06-01 11:03:47)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -212,10 +212,25 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-06-01 03:20:34)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-06-01 11:04:01)</small>    
 <!-- START -->
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <a href="https://blog.naver.com/is2js/223117137300">
+                    <img width="120px" src="./rss_sources/images/naver.png" style="margin:0;" alt="empty">
+                </a>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://blog.naver.com/is2js/223117137300" style="color:teal;text-decoration: none;">
+                        dsfasdf
+                    </a>
+                </h5>
+                <sup><sub>네이버 | 2023년 06월 01일 04시 44분 38초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <a href="https://blog.naver.com/is2js/223098522367">
@@ -276,26 +291,11 @@
                 <sup><sub>티스토리 | 2021년 05월 10일 19시 04분 18초</sub></sup>
             </td>
         </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <a href="https://nittaku.tistory.com/512">
-                    <img width="120px" src="./rss_sources/images/tistory.png" style="margin:0;" alt="empty">
-                </a>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://nittaku.tistory.com/512" style="color:teal;text-decoration: none;">
-                        윈도우에서 markdown 파일을 우클릭 > 새로 만들기에 넣기
-                    </a>
-                </h5>
-                <sup><sub>티스토리 | 2021년 04월 24일 09시 12분 10초</sub></sup>
-            </td>
-        </tr>
     </table>
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-06-01 03:20:38)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-06-01 11:04:04)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> spoqa, 왓챠</sub></sup>
