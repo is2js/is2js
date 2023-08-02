@@ -129,7 +129,7 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-08-02 10:18:22)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-08-02 15:20:43)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -212,7 +212,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-08-02 10:18:35)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-08-02 15:20:56)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -295,13 +295,31 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-08-02 10:18:39)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-08-02 15:20:59)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> spoqa, 왓챠</sub></sup>
 </div>
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://watcha.com/" style="color:grey;text-decoration: none;">
+                        왓챠
+                    </a>
+                </h6>
+                <sup><sub>ott</sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://medium.com/watcha/kubernetes-native-%EB%A1%9C%EA%B7%B8-%ED%94%8C%EB%9E%AB%ED%8F%BC-8ba43597ef47?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
+                        Kubernetes-native 로그 플랫폼
+                    </a>
+                </h5>
+                <sup><sub>2023년 08월 02일 14시 46분 52초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -372,24 +390,6 @@
                     </a>
                 </h5>
                 <sup><sub>2022년 10월 19일 17시 05분 08초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://watcha.com/" style="color:grey;text-decoration: none;">
-                        왓챠
-                    </a>
-                </h6>
-                <sup><sub>tech</sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://medium.com/watcha/watcha-ctis-case-report-join-my-table-5%EB%B6%80-%EC%98%A4%EB%94%94%EC%98%A4-%ED%94%84%EB%A1%9C%EB%8D%95%EC%85%98-2ec87ff1915a?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
-                        WATCHA CTI’s Case Report:  — 5부 오디오 프로덕션
-                    </a>
-                </h5>
-                <sup><sub>2022년 10월 05일 16시 15분 41초</sub></sup>
             </td>
         </tr>
     </table>
