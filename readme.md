@@ -129,7 +129,7 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-10-19 10:11:09)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-10-19 15:22:23)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -212,7 +212,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-10-19 10:11:22)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-10-19 15:22:36)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -295,13 +295,31 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-10-19 10:11:25)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-10-19 15:22:40)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> spoqa, 왓챠</sub></sup>
 </div>
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://spoqa.github.io/" style="color:grey;text-decoration: none;">
+                        spoqa
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://spoqa.github.io/2023/10/20/functional-testing-converting-story.html" style="color:black;text-decoration: none;">
+                        기능 테스트 전환 이야기
+                    </a>
+                </h5>
+                <sup><sub>2023년 10월 20일 09시 00분 00초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -372,24 +390,6 @@
                     </a>
                 </h5>
                 <sup><sub>2023년 02월 16일 15시 09분 06초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://watcha.com/" style="color:grey;text-decoration: none;">
-                        왓챠
-                    </a>
-                </h6>
-                <sup><sub>smart-tv</sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://medium.com/watcha/%EC%8A%A4%EB%A7%88%ED%8A%B8-tv%EC%97%90%EC%84%9C-%EC%BD%98%ED%85%90%EC%B8%A0%EB%A5%BC-%EC%83%88%EB%A1%AD%EA%B2%8C-%ED%83%90%EC%83%89%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-66d303a6c65e?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
-                        스마트 TV에서 콘텐츠를 새롭게 탐색하는 방법
-                    </a>
-                </h5>
-                <sup><sub>2022년 10월 19일 17시 05분 08초</sub></sup>
             </td>
         </tr>
     </table>
