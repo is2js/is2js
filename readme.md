@@ -129,7 +129,7 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-10-31 10:11:56)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-10-31 15:21:28)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -212,7 +212,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-10-31 10:12:10)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-10-31 15:21:42)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -295,13 +295,31 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-10-31 10:12:14)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-10-31 15:21:46)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> spoqa, 왓챠</sub></sup>
 </div>
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://spoqa.github.io/" style="color:grey;text-decoration: none;">
+                        spoqa
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://spoqa.github.io/2023/10/30/android-jetpack-compose.html" style="color:black;text-decoration: none;">
+                        키친보드 안드로이드 앱 Jetpack Compose 도입기
+                    </a>
+                </h5>
+                <sup><sub>2023년 10월 30일 09시 00분 00초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -372,24 +390,6 @@
                     </a>
                 </h5>
                 <sup><sub>2023년 02월 24일 09시 00분 00초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://watcha.com/" style="color:grey;text-decoration: none;">
-                        왓챠
-                    </a>
-                </h6>
-                <sup><sub>유엑스디자인</sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://medium.com/watcha/tv-app-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%A0-%EB%95%8C-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-%EC%9A%94%EC%86%8C%EB%93%A4-753356a7f4f8?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
-                        TV APP 디자인할 때 고려해야하는 요소들
-                    </a>
-                </h5>
-                <sup><sub>2023년 02월 16일 15시 09분 06초</sub></sup>
             </td>
         </tr>
     </table>
