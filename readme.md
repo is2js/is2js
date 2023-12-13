@@ -129,7 +129,7 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-12-13 10:15:33)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2023-12-13 15:22:12)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -212,7 +212,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2023-12-13 10:15:47)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2023-12-13 15:22:25)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -225,6 +225,21 @@
             <td>
                 <h5>
                     <a href="https://blog.naver.com/is2js/223117137300" style="color:teal;text-decoration: none;">
+                        dsfasdf
+                    </a>
+                </h5>
+                <sup><sub>네이버 | 2023년 06월 01일 04시 44분 38초</sub></sup>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <a href="https://blog.naver.com/is2js/223117137300?fromRss=true">
+                    <img width="120px" src="./rss_sources/images/naver.png" style="margin:0;" alt="empty">
+                </a>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://blog.naver.com/is2js/223117137300?fromRss=true" style="color:teal;text-decoration: none;">
                         dsfasdf
                     </a>
                 </h5>
@@ -248,6 +263,21 @@
         </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
+                <a href="https://blog.naver.com/is2js/223098522367?fromRss=true">
+                    <img width="120px" src="./rss_sources/images/naver.png" style="margin:0;" alt="empty">
+                </a>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://blog.naver.com/is2js/223098522367?fromRss=true" style="color:teal;text-decoration: none;">
+                        ddd
+                    </a>
+                </h5>
+                <sup><sub>네이버 | 2023년 05월 10일 18시 33분 11초</sub></sup>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
                 <a href="https://blog.naver.com/is2js/223096950852">
                     <img width="120px" src="https://postfiles.pstatic.net/MjAyMzA1MDlfNDYg/MDAxNjgzNTc3Nzg4NzUy.AlAGwLmQLs2vVPJlB65VyGMf_qAlz63zO1hqmBRa5oYg.qnpSINFxzXsETQftIzrgzBgF9HjTe9WH_zBLmbh58A4g.PNG.is2js/%EB%B0%94%EC%9A%B8%EC%BC%80%EC%96%B4.png?type=w773" style="margin:0;" alt="empty">
                 </a>
@@ -261,41 +291,11 @@
                 <sup><sub>네이버 | 2023년 05월 09일 05시 29분 55초</sub></sup>
             </td>
         </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <a href="https://nittaku.tistory.com/514">
-                    <img width="120px" src="./rss_sources/images/tistory.png" style="margin:0;" alt="empty">
-                </a>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://nittaku.tistory.com/514" style="color:teal;text-decoration: none;">
-                        np.random.shuffle 과 np.random.permutation 정리
-                    </a>
-                </h5>
-                <sup><sub>티스토리 | 2021년 07월 26일 22시 38분 29초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <a href="https://nittaku.tistory.com/513">
-                    <img width="120px" src="./rss_sources/images/tistory.png" style="margin:0;" alt="empty">
-                </a>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://nittaku.tistory.com/513" style="color:teal;text-decoration: none;">
-                        [원격용] 윈도우키, 한영키, 알트탭 매핑 오토핫키
-                    </a>
-                </h5>
-                <sup><sub>티스토리 | 2021년 05월 10일 19시 04분 18초</sub></sup>
-            </td>
-        </tr>
     </table>
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-12-13 10:15:50)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2023-12-13 15:22:28)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> spoqa, 왓챠</sub></sup>
