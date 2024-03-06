@@ -129,7 +129,7 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2024-03-06 15:22:38)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2024-03-06 21:30:41)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -212,7 +212,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2024-03-06 15:22:50)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2024-03-06 21:30:53)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -295,7 +295,7 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2024-03-06 15:22:53)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2024-03-06 21:30:56)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> spoqa, 왓챠</sub></sup>
@@ -318,6 +318,24 @@
                     </a>
                 </h5>
                 <sup><sub>2024년 03월 06일 10시 01분 04초</sub></sup>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://spoqa.github.io/" style="color:grey;text-decoration: none;">
+                        spoqa
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://spoqa.github.io/2024/03/06/clean-swift.html" style="color:black;text-decoration: none;">
+                        발전하는 iOS와 Clean Swift Architecture
+                    </a>
+                </h5>
+                <sup><sub>2024년 03월 06일 09시 00분 00초</sub></sup>
             </td>
         </tr>
         <tr>
@@ -372,24 +390,6 @@
                     </a>
                 </h5>
                 <sup><sub>2023년 10월 20일 09시 00분 00초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://watcha.com/" style="color:grey;text-decoration: none;">
-                        왓챠
-                    </a>
-                </h6>
-                <sup><sub>ott</sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://medium.com/watcha/kubernetes-native-%EB%A1%9C%EA%B7%B8-%ED%94%8C%EB%9E%AB%ED%8F%BC-8ba43597ef47?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
-                        Kubernetes-native 로그 플랫폼
-                    </a>
-                </h5>
-                <sup><sub>2023년 08월 02일 14시 46분 52초</sub></sup>
             </td>
         </tr>
     </table>
