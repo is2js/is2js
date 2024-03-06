@@ -129,7 +129,7 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2024-03-06 03:19:46)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2024-03-06 10:10:02)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -212,7 +212,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2024-03-06 03:19:59)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2024-03-06 10:10:14)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -295,13 +295,31 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2024-03-06 03:20:02)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2024-03-06 10:10:17)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> spoqa, 왓챠</sub></sup>
 </div>
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://watcha.com/" style="color:grey;text-decoration: none;">
+                        왓챠
+                    </a>
+                </h6>
+                <sup><sub>machine-learning</sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://medium.com/watcha/%EC%99%93%EC%B1%A0-%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-mlops-%EC%A0%81%EC%9A%A9%EA%B8%B0-part2-74e07ca33709?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
+                        왓챠 추천 서비스 MLOps 적용기 Part2
+                    </a>
+                </h5>
+                <sup><sub>2024년 03월 06일 10시 01분 04초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -372,24 +390,6 @@
                     </a>
                 </h5>
                 <sup><sub>2023년 08월 02일 14시 46분 52초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://spoqa.github.io/" style="color:grey;text-decoration: none;">
-                        spoqa
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://spoqa.github.io/2023/04/28/journey-to-building-an-event-log-system.html" style="color:black;text-decoration: none;">
-                        이벤트 로그 체계 구축 여정
-                    </a>
-                </h5>
-                <sup><sub>2023년 04월 28일 09시 00분 00초</sub></sup>
             </td>
         </tr>
     </table>
