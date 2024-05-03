@@ -129,7 +129,7 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2024-05-03 03:22:15)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2024-05-03 10:16:32)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -212,7 +212,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2024-05-03 03:22:27)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2024-05-03 10:16:48)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -295,13 +295,31 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2024-05-03 03:22:31)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2024-05-03 10:16:52)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> spoqa, 왓챠</sub></sup>
 </div>
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://spoqa.github.io/" style="color:grey;text-decoration: none;">
+                        spoqa
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://spoqa.github.io/2024/05/03/transfer-jdsl.html" style="color:black;text-decoration: none;">
+                        Querydsl에서 Kotlin JDSL 으로
+                    </a>
+                </h5>
+                <sup><sub>2024년 05월 03일 09시 00분 00초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -372,24 +390,6 @@
                     </a>
                 </h5>
                 <sup><sub>2023년 10월 30일 09시 00분 00초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://spoqa.github.io/" style="color:grey;text-decoration: none;">
-                        spoqa
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://spoqa.github.io/2023/10/20/functional-testing-converting-story.html" style="color:black;text-decoration: none;">
-                        기능 테스트 전환 이야기
-                    </a>
-                </h5>
-                <sup><sub>2023년 10월 20일 09시 00분 00초</sub></sup>
             </td>
         </tr>
     </table>
