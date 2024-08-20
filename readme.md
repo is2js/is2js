@@ -129,7 +129,7 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2024-08-20 03:25:27)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2024-08-20 10:23:06)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -212,7 +212,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2024-08-20 03:25:41)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2024-08-20 10:23:20)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -295,13 +295,31 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2024-08-20 03:25:46)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2024-08-20 10:23:24)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> spoqa, 왓챠</sub></sup>
 </div>
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://spoqa.github.io/" style="color:grey;text-decoration: none;">
+                        spoqa
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://spoqa.github.io/2024/08/19/ai-order-sheet.html" style="color:black;text-decoration: none;">
+                        AI를 활용한 주문서 생성 자동화: 카카오톡 주문을 키친보드 주문으로
+                    </a>
+                </h5>
+                <sup><sub>2024년 08월 19일 09시 00분 00초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -372,24 +390,6 @@
                     </a>
                 </h5>
                 <sup><sub>2024년 02월 28일 10시 01분 54초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://spoqa.github.io/" style="color:grey;text-decoration: none;">
-                        spoqa
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://spoqa.github.io/2023/10/30/android-jetpack-compose.html" style="color:black;text-decoration: none;">
-                        키친보드 안드로이드 앱 Jetpack Compose 도입기
-                    </a>
-                </h5>
-                <sup><sub>2023년 10월 30일 09시 00분 00초</sub></sup>
             </td>
         </tr>
     </table>
