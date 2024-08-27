@@ -129,7 +129,7 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2024-08-27 03:25:46)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2024-08-27 10:25:32)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -212,7 +212,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2024-08-27 03:26:02)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2024-08-27 10:25:46)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -295,13 +295,31 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2024-08-27 03:26:06)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2024-08-27 10:25:50)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> spoqa, 왓챠</sub></sup>
 </div>
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://watcha.com/" style="color:grey;text-decoration: none;">
+                        왓챠
+                    </a>
+                </h6>
+                <sup><sub>gcp</sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://medium.com/watcha/%EB%A9%80%ED%8B%B0-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95-420394a212d2?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
+                        멀티 클라우드 환경에서의 데이터 마이그레이션 시스템 구축
+                    </a>
+                </h5>
+                <sup><sub>2024년 08월 27일 10시 01분 45초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -372,24 +390,6 @@
                     </a>
                 </h5>
                 <sup><sub>2024년 03월 06일 09시 00분 00초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://watcha.com/" style="color:grey;text-decoration: none;">
-                        왓챠
-                    </a>
-                </h6>
-                <sup><sub>k8s</sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://medium.com/watcha/%EC%99%93%EC%B1%A0-%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-mlops-%EC%A0%81%EC%9A%A9%EA%B8%B0-part1-57a1b5e29d65?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
-                        왓챠 추천 서비스 MLOps 적용기 Part1
-                    </a>
-                </h5>
-                <sup><sub>2024년 02월 28일 10시 01분 54초</sub></sup>
             </td>
         </tr>
     </table>
