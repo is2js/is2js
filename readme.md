@@ -129,7 +129,7 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2024-11-18 21:11:06)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2024-11-19 03:08:05)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -212,7 +212,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2024-11-18 21:11:20)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2024-11-19 03:08:19)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -295,13 +295,31 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2024-11-18 21:11:24)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2024-11-19 03:08:23)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> spoqa, 왓챠</sub></sup>
 </div>
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://spoqa.github.io/" style="color:grey;text-decoration: none;">
+                        spoqa
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://spoqa.github.io/2024/11/18/coding-convention-story.html" style="color:black;text-decoration: none;">
+                        스포카의 백엔드팀에서 코딩 컨벤션을 관리하는 방법
+                    </a>
+                </h5>
+                <sup><sub>2024년 11월 18일 09시 00분 00초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -372,24 +390,6 @@
                     </a>
                 </h5>
                 <sup><sub>2024년 03월 06일 10시 01분 04초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://spoqa.github.io/" style="color:grey;text-decoration: none;">
-                        spoqa
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://spoqa.github.io/2024/03/06/clean-swift.html" style="color:black;text-decoration: none;">
-                        발전하는 iOS와 Clean Swift Architecture
-                    </a>
-                </h5>
-                <sup><sub>2024년 03월 06일 09시 00분 00초</sub></sup>
             </td>
         </tr>
     </table>
