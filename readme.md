@@ -129,7 +129,7 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2025-03-04 15:08:39)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2025-03-04 21:10:27)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -212,7 +212,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2025-03-04 15:08:52)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2025-03-04 21:10:41)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -295,13 +295,31 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2025-03-04 15:08:56)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2025-03-04 21:10:45)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> spoqa, 왓챠</sub></sup>
 </div>
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://spoqa.github.io/" style="color:grey;text-decoration: none;">
+                        spoqa
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://spoqa.github.io/2025/03/04/es-dev.html" style="color:black;text-decoration: none;">
+                        식자재 품목 검색을 더 쉽게! 검색 엔진 도입과 개선
+                    </a>
+                </h5>
+                <sup><sub>2025년 03월 04일 09시 00분 00초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -372,24 +390,6 @@
                     </a>
                 </h5>
                 <sup><sub>2024년 05월 03일 09시 00분 00초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://watcha.com/" style="color:grey;text-decoration: none;">
-                        왓챠
-                    </a>
-                </h6>
-                <sup><sub>machine-learning</sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://medium.com/watcha/%EC%99%93%EC%B1%A0-%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-mlops-%EC%A0%81%EC%9A%A9%EA%B8%B0-part2-74e07ca33709?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
-                        왓챠 추천 서비스 MLOps 적용기 Part2
-                    </a>
-                </h5>
-                <sup><sub>2024년 03월 06일 10시 01분 04초</sub></sup>
             </td>
         </tr>
     </table>
