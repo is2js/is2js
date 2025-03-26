@@ -129,10 +129,25 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2025-03-26 09:28:13)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2025-03-26 15:08:59)</small>    
 <!-- START -->
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="140px" style="background:black;" style="padding:0;">
+                <a href="https://www.youtube.com/watch?v=5P9bZCHE-iE">
+                    <img width="140px" src="https://i2.ytimg.com/vi/5P9bZCHE-iE/hqdefault.jpg" style="margin:0;">
+                </a>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://www.youtube.com/watch?v=5P9bZCHE-iE" style="color:red;text-decoration: none;">
+                        2025년 3월 26일
+                    </a>
+                </h5>
+                <sup><sub><span style="color:black">조재성 | </span>2025년 03월 26일 13시 01분 04초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="140px" style="background:black;" style="padding:0;">
                 <a href="https://www.youtube.com/watch?v=FoiRAZSHKUI">
@@ -193,26 +208,11 @@
                 <sup><sub><span style="color:black">조재성 | </span>2022년 04월 12일 15시 34분 11초</sub></sup>
             </td>
         </tr>
-        <tr>
-            <td align="center" width="140px" style="background:black;" style="padding:0;">
-                <a href="https://www.youtube.com/watch?v=GZBNcOFdA1Y">
-                    <img width="140px" src="https://i4.ytimg.com/vi/GZBNcOFdA1Y/hqdefault.jpg" style="margin:0;">
-                </a>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://www.youtube.com/watch?v=GZBNcOFdA1Y" style="color:red;text-decoration: none;">
-                        포돌이 체스(css적용버전)
-                    </a>
-                </h5>
-                <sup><sub><span style="color:black">조재성 | </span>2022년 04월 09일 14시 59분 13초</sub></sup>
-            </td>
-        </tr>
     </table>
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2025-03-26 09:28:24)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2025-03-26 15:09:11)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -295,7 +295,7 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2025-03-26 09:28:28)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2025-03-26 15:09:15)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> spoqa, 왓챠</sub></sup>
