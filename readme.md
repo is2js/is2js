@@ -129,7 +129,7 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2025-05-14 09:30:17)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2025-05-14 15:09:46)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -212,7 +212,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2025-05-14 09:30:29)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2025-05-14 15:09:59)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -295,13 +295,31 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2025-05-14 09:30:33)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2025-05-14 15:10:03)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> spoqa, 왓챠</sub></sup>
 </div>
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://watcha.com/" style="color:grey;text-decoration: none;">
+                        왓챠
+                    </a>
+                </h6>
+                <sup><sub>marketing</sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://medium.com/watcha/%EC%99%93%EC%B1%A0%ED%8C%8C%ED%8B%B0-%EB%AC%B4%EB%B9%84%EB%9E%9C%EB%93%9C-%EC%BD%98%ED%85%90%EC%B8%A0%EC%97%90-%EC%A7%84%EC%8B%AC-6b66e905af8a?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
+                        왓챠파티@무비랜드: 콘텐츠에 진심
+                    </a>
+                </h5>
+                <sup><sub>2025년 05월 14일 10시 02분 28초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -372,24 +390,6 @@
                     </a>
                 </h5>
                 <sup><sub>2025년 03월 04일 09시 00분 00초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://spoqa.github.io/" style="color:grey;text-decoration: none;">
-                        spoqa
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://spoqa.github.io/2024/11/18/coding-convention-story.html" style="color:black;text-decoration: none;">
-                        스포카의 백엔드팀에서 코딩 컨벤션을 관리하는 방법
-                    </a>
-                </h5>
-                <sup><sub>2024년 11월 18일 09시 00분 00초</sub></sup>
             </td>
         </tr>
     </table>
