@@ -129,7 +129,7 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2025-05-28 09:30:47)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2025-05-28 15:09:43)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -212,7 +212,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2025-05-28 09:30:57)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2025-05-28 15:09:54)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -295,13 +295,31 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2025-05-28 09:31:01)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2025-05-28 15:09:58)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> spoqa, 왓챠</sub></sup>
 </div>
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://watcha.com/" style="color:grey;text-decoration: none;">
+                        왓챠
+                    </a>
+                </h6>
+                <sup><sub>branding-marketing</sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://medium.com/watcha/%EC%99%93%EC%B1%A0%ED%8C%8C%ED%8B%B0-%EB%AC%B4%EB%B9%84%EB%9E%9C%EB%93%9C-%EB%B0%9C%EA%B2%AC%EC%9D%98-%EA%B8%B0%EC%81%A8-8a78ea1f86a2?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
+                        왓챠파티@무비랜드: 발견의 기쁨
+                    </a>
+                </h5>
+                <sup><sub>2025년 05월 28일 10시 02분 33초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -372,24 +390,6 @@
                     </a>
                 </h5>
                 <sup><sub>2025년 04월 18일 09시 00분 00초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://watcha.com/" style="color:grey;text-decoration: none;">
-                        왓챠
-                    </a>
-                </h6>
-                <sup><sub>watcha</sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://medium.com/watcha/%EC%99%9C-%EC%99%93%EC%B1%A0-%EC%9B%B9%EC%9D%80-remix%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%96%88%EC%9D%84%EA%B9%8C-dbb710acd758?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
-                        왜 왓챠 웹은 Remix로 마이그레이션했을까?
-                    </a>
-                </h5>
-                <sup><sub>2025년 04월 02일 10시 02분 04초</sub></sup>
             </td>
         </tr>
     </table>
