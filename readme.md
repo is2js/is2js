@@ -129,7 +129,7 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2025-09-09 15:09:58)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2025-09-09 21:12:08)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -212,7 +212,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2025-09-09 15:10:10)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2025-09-09 21:12:21)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -295,13 +295,31 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2025-09-09 15:10:14)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2025-09-09 21:12:25)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> spoqa, 왓챠</sub></sup>
 </div>
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://spoqa.github.io/" style="color:grey;text-decoration: none;">
+                        spoqa
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://spoqa.github.io/2025/09/09/figma-plugin-design.html" style="color:black;text-decoration: none;">
+                        피그마 플러그인 만들어줘
+                    </a>
+                </h5>
+                <sup><sub>2025년 09월 09일 09시 00분 00초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -372,24 +390,6 @@
                     </a>
                 </h5>
                 <sup><sub>2025년 04월 21일 09시 00분 00초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://spoqa.github.io/" style="color:grey;text-decoration: none;">
-                        spoqa
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://spoqa.github.io/2025/04/18/improve-auth.html" style="color:black;text-decoration: none;">
-                        단지 권한 기능을 추가해달라고 했을 뿐인데(feat. 인증 기능 개선)
-                    </a>
-                </h5>
-                <sup><sub>2025년 04월 18일 09시 00분 00초</sub></sup>
             </td>
         </tr>
     </table>
