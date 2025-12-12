@@ -129,7 +129,7 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2025-12-12 21:12:49)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2025-12-13 03:11:11)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -212,7 +212,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2025-12-12 21:13:02)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2025-12-13 03:11:21)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -295,7 +295,7 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2025-12-12 21:13:06)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2025-12-13 03:11:25)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> spoqa, 왓챠</sub></sup>
