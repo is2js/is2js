@@ -129,7 +129,7 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2025-12-30 21:13:11)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2025-12-31 03:10:57)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -212,10 +212,25 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2025-12-30 21:13:22)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2025-12-31 03:11:09)</small>    
 <!-- START -->
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <a href="https://blog.naver.com/is2js/224128404042?fromRss=true&trackingCode=rss">
+                    <img width="120px" src="./rss_sources/images/naver.png" style="margin:0;" alt="empty">
+                </a>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://blog.naver.com/is2js/224128404042?fromRss=true&trackingCode=rss" style="color:teal;text-decoration: none;">
+                        ai 로고강의 프비연 후기
+                    </a>
+                </h5>
+                <sup><sub>네이버 | 2025년 12월 30일 22시 57분 00초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <a href="https://blog.naver.com/is2js/223117137300">
@@ -276,26 +291,11 @@
                 <sup><sub>네이버 | 2023년 05월 10일 18시 33분 11초</sub></sup>
             </td>
         </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <a href="https://blog.naver.com/is2js/223098522367?fromRss=true">
-                    <img width="120px" src="./rss_sources/images/naver.png" style="margin:0;" alt="empty">
-                </a>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://blog.naver.com/is2js/223098522367?fromRss=true" style="color:teal;text-decoration: none;">
-                        ddd
-                    </a>
-                </h5>
-                <sup><sub>네이버 | 2023년 05월 10일 18시 33분 11초</sub></sup>
-            </td>
-        </tr>
     </table>
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2025-12-30 21:13:25)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2025-12-31 03:11:13)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> spoqa, 왓챠</sub></sup>
