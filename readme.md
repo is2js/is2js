@@ -129,7 +129,7 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2026-03-10 15:22:26)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2026-03-10 21:19:57)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -212,7 +212,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2026-03-10 15:22:40)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2026-03-10 21:20:07)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -295,13 +295,31 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2026-03-10 15:22:44)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2026-03-10 21:20:11)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> spoqa, 왓챠</sub></sup>
 </div>
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://watcha.com/" style="color:grey;text-decoration: none;">
+                        왓챠
+                    </a>
+                </h6>
+                <sup><sub>aws</sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://medium.com/watcha/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%B9%84%EC%9A%A9-%EC%B5%9C%EC%A0%81%ED%99%94%EB%A5%BC-%EC%9C%84%ED%95%9C-automatic-labeling-system-%EA%B5%AC%EC%B6%95%EA%B8%B0-3daf4c72f265?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
+                        클라우드 비용 최적화를 위한 Automatic Labeling System 구축기
+                    </a>
+                </h5>
+                <sup><sub>2026년 03월 10일 13시 53분 19초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -372,24 +390,6 @@
                     </a>
                 </h5>
                 <sup><sub>2025년 05월 14일 10시 02분 28초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://spoqa.github.io/" style="color:grey;text-decoration: none;">
-                        spoqa
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://spoqa.github.io/2025/04/21/b2b-design.html" style="color:black;text-decoration: none;">
-                        보법이 다른 B2B 디자인
-                    </a>
-                </h5>
-                <sup><sub>2025년 04월 21일 09시 00분 00초</sub></sup>
             </td>
         </tr>
     </table>
