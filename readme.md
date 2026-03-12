@@ -129,7 +129,7 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2026-03-12 09:35:18)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2026-03-12 15:25:13)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -212,7 +212,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2026-03-12 09:35:30)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2026-03-12 15:25:23)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -295,13 +295,31 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2026-03-12 09:35:35)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2026-03-12 15:25:27)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> spoqa, 왓챠</sub></sup>
 </div>
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://spoqa.github.io/" style="color:grey;text-decoration: none;">
+                        spoqa
+                    </a>
+                </h6>
+                <sup><sub></sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://spoqa.github.io/2026/03/12/cmp-migration.html" style="color:black;text-decoration: none;">
+                        KMP/CMP 마이그레이션, 정말 프로덕션에서 가능할까? - 키친보드 앱 마이그레이션 도전기
+                    </a>
+                </h5>
+                <sup><sub>2026년 03월 12일 09시 00분 00초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -372,24 +390,6 @@
                     </a>
                 </h5>
                 <sup><sub>2025년 05월 21일 10시 02분 33초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://watcha.com/" style="color:grey;text-decoration: none;">
-                        왓챠
-                    </a>
-                </h6>
-                <sup><sub>marketing</sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://medium.com/watcha/%EC%99%93%EC%B1%A0%ED%8C%8C%ED%8B%B0-%EB%AC%B4%EB%B9%84%EB%9E%9C%EB%93%9C-%EC%BD%98%ED%85%90%EC%B8%A0%EC%97%90-%EC%A7%84%EC%8B%AC-6b66e905af8a?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
-                        왓챠파티@무비랜드: 콘텐츠에 진심
-                    </a>
-                </h5>
-                <sup><sub>2025년 05월 14일 10시 02분 28초</sub></sup>
             </td>
         </tr>
     </table>
