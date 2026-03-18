@@ -129,7 +129,7 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2026-03-18 15:31:27)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2026-03-18 21:25:52)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -212,7 +212,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2026-03-18 15:31:40)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2026-03-18 21:26:07)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -295,13 +295,31 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2026-03-18 15:31:44)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2026-03-18 21:26:11)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> spoqa, 왓챠</sub></sup>
 </div>
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://watcha.com/" style="color:grey;text-decoration: none;">
+                        왓챠
+                    </a>
+                </h6>
+                <sup><sub>content-design</sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://medium.com/watcha/%EC%99%93%EC%B1%A0%ED%94%BC%EB%94%94%EC%95%84-%EC%B7%A8%ED%96%A5%EC%9D%84-%EA%B8%B0%EB%A1%9D%ED%95%98%EB%8A%94-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C-2bbf78b5c90c?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
+                        왓챠피디아, 취향을 기록하는 아카이브
+                    </a>
+                </h5>
+                <sup><sub>2026년 03월 18일 10시 49분 42초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -372,24 +390,6 @@
                     </a>
                 </h5>
                 <sup><sub>2025년 05월 28일 10시 02분 33초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://watcha.com/" style="color:grey;text-decoration: none;">
-                        왓챠
-                    </a>
-                </h6>
-                <sup><sub>watcha</sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://medium.com/watcha/%EC%99%93%EC%B1%A0%ED%8C%8C%ED%8B%B0-%EB%AC%B4%EB%B9%84%EB%9E%9C%EB%93%9C-%ED%8C%80-%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%8B%B0%EB%B8%8C-5ae2b8514e41?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
-                        왓챠파티@무비랜드: 팀 크리에이티브
-                    </a>
-                </h5>
-                <sup><sub>2025년 05월 21일 10시 02분 33초</sub></sup>
             </td>
         </tr>
     </table>
