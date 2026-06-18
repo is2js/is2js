@@ -129,7 +129,7 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2026-06-18 10:13:24)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2026-06-18 16:54:11)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -212,7 +212,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2026-06-18 10:13:46)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2026-06-18 16:54:24)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -295,13 +295,49 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2026-06-18 10:13:50)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2026-06-18 16:54:28)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> spoqa, 왓챠</sub></sup>
 </div>
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://watcha.com/" style="color:grey;text-decoration: none;">
+                        왓챠
+                    </a>
+                </h6>
+                <sup><sub>documentpip</sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://medium.com/watcha/%EC%99%93%EC%B1%A0-%EC%9B%B9-pip-%EC%A0%81%EC%9A%A9%EA%B8%B0-document-pip%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EA%B3%A0-%EB%AC%B4%EC%97%87%EC%9D%B4-%EC%96%B4%EB%A0%A4%EC%9B%A0%EB%82%98-ab7521515663?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
+                        왓챠 웹 PiP 적용기 — Document PiP는 어떻게 동작하고, 무엇이 어려웠나
+                    </a>
+                </h5>
+                <sup><sub>2026년 06월 18일 16시 51분 33초</sub></sup>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://watcha.com/" style="color:grey;text-decoration: none;">
+                        왓챠
+                    </a>
+                </h6>
+                <sup><sub>web-development</sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://medium.com/watcha/%EC%99%93%EC%B1%A0-pip-%EC%95%88-%EB%90%A8-%EB%90%A9%EB%8B%88%EB%8B%A4-%EC%9D%B4%EC%A0%9C%EB%B6%80%ED%84%B0-4ef67b66af11?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
+                        “왓챠 PiP 안 됨?” — 됩니다, 이제부터.
+                    </a>
+                </h5>
+                <sup><sub>2026년 06월 18일 16시 51분 24초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -354,42 +390,6 @@
                     </a>
                 </h5>
                 <sup><sub>2026년 03월 12일 09시 00분 00초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://watcha.com/" style="color:grey;text-decoration: none;">
-                        왓챠
-                    </a>
-                </h6>
-                <sup><sub>aws</sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://medium.com/watcha/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%B9%84%EC%9A%A9-%EC%B5%9C%EC%A0%81%ED%99%94%EB%A5%BC-%EC%9C%84%ED%95%9C-automatic-labeling-system-%EA%B5%AC%EC%B6%95%EA%B8%B0-3daf4c72f265?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
-                        클라우드 비용 최적화를 위한 Automatic Labeling System 구축기
-                    </a>
-                </h5>
-                <sup><sub>2026년 03월 10일 13시 53분 19초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://spoqa.github.io/" style="color:grey;text-decoration: none;">
-                        spoqa
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://spoqa.github.io/2025/09/09/figma-plugin-design.html" style="color:black;text-decoration: none;">
-                        피그마 플러그인 만들어줘
-                    </a>
-                </h5>
-                <sup><sub>2025년 09월 09일 09시 00분 00초</sub></sup>
             </td>
         </tr>
     </table>
