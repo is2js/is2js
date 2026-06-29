@@ -129,7 +129,7 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2026-06-29 10:10:20)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2026-06-29 16:58:50)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -212,7 +212,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2026-06-29 10:10:36)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2026-06-29 16:59:04)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -295,13 +295,31 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2026-06-29 10:10:39)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2026-06-29 16:59:07)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> spoqa, 왓챠</sub></sup>
 </div>
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://watcha.com/" style="color:grey;text-decoration: none;">
+                        왓챠
+                    </a>
+                </h6>
+                <sup><sub>brand-design</sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://medium.com/watcha/%EB%A7%A5%EB%9D%BD%EC%9D%B4-%ED%98%95%ED%83%9C%EB%A5%BC-%EA%B2%B0%EC%A0%95%ED%95%A0-%EB%95%8C-8695fae42885?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
+                        맥락이 형태를 결정할 때
+                    </a>
+                </h5>
+                <sup><sub>2026년 06월 29일 16시 33분 59초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -372,24 +390,6 @@
                     </a>
                 </h5>
                 <sup><sub>2026년 03월 18일 10시 49분 42초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://spoqa.github.io/" style="color:grey;text-decoration: none;">
-                        spoqa
-                    </a>
-                </h6>
-                <sup><sub></sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://spoqa.github.io/2026/03/12/cmp-migration.html" style="color:black;text-decoration: none;">
-                        KMP/CMP 마이그레이션, 정말 프로덕션에서 가능할까? - 키친보드 앱 마이그레이션 도전기
-                    </a>
-                </h5>
-                <sup><sub>2026년 03월 12일 09시 00분 00초</sub></sup>
             </td>
         </tr>
     </table>
