@@ -129,7 +129,7 @@
 
 [//]: # (</p>)
 
-#### 🎞 최근 유튜브 <small>(최근 업데이트:2026-07-01 16:42:06)</small>    
+#### 🎞 최근 유튜브 <small>(최근 업데이트:2026-07-01 22:06:04)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -212,7 +212,7 @@
 </div>
 <!-- END -->
 
-#### 📚 최근 블로그 <small>(최근 업데이트:2026-07-01 16:42:17)</small>    
+#### 📚 최근 블로그 <small>(최근 업데이트:2026-07-01 22:06:19)</small>    
 <!-- START -->
 <div align="center">
     <table>
@@ -295,13 +295,31 @@
 </div>
 <!-- END -->
 
-#### 📆 관심 RSS 구독 <small>(최근 업데이트:2026-07-01 16:42:21)</small>    
+#### 📆 관심 RSS 구독 <small>(최근 업데이트:2026-07-01 22:06:23)</small>    
 <!-- START -->
 <div align="center">
     📢 <sup><sub><strong>구독대상:</strong> spoqa, 왓챠</sub></sup>
 </div>
 <div align="center">
     <table>
+        <tr>
+            <td align="center" width="120px" style="padding:0;">
+                <h6>
+                    <a href="https://watcha.com/" style="color:grey;text-decoration: none;">
+                        왓챠
+                    </a>
+                </h6>
+                <sup><sub>development</sub></sup>
+            </td>
+            <td>
+                <h5>
+                    <a href="https://medium.com/watcha/%EC%99%93%EC%B1%A0%EA%B0%80-%EC%A0%84-%EC%A7%81%EC%9B%90%EC%9D%B4-%EC%9E%90%EC%8B%A0%EC%9D%98-ai-%EC%95%B1%EC%9D%84-%EA%B0%80%EC%A7%88-%EC%88%98-%EC%9E%88%EA%B2%8C-%EB%90%9C-%EC%9D%B4%EC%9C%A0-a71ddfaa6df7?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
+                        왓챠 직원 누구나 AI 앱을 만들 수 있게 된 이유
+                    </a>
+                </h5>
+                <sup><sub>2026년 07월 01일 17시 10분 05초</sub></sup>
+            </td>
+        </tr>
         <tr>
             <td align="center" width="120px" style="padding:0;">
                 <h6>
@@ -372,24 +390,6 @@
                     </a>
                 </h5>
                 <sup><sub>2026년 04월 01일 14시 42분 20초</sub></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120px" style="padding:0;">
-                <h6>
-                    <a href="https://watcha.com/" style="color:grey;text-decoration: none;">
-                        왓챠
-                    </a>
-                </h6>
-                <sup><sub>content-design</sub></sup>
-            </td>
-            <td>
-                <h5>
-                    <a href="https://medium.com/watcha/%EC%99%93%EC%B1%A0%ED%94%BC%EB%94%94%EC%95%84-%EC%B7%A8%ED%96%A5%EC%9D%84-%EA%B8%B0%EB%A1%9D%ED%95%98%EB%8A%94-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C-2bbf78b5c90c?source=rss----bd1678892a27---4" style="color:black;text-decoration: none;">
-                        왓챠피디아, 취향을 기록하는 아카이브
-                    </a>
-                </h5>
-                <sup><sub>2026년 03월 18일 10시 49분 42초</sub></sup>
             </td>
         </tr>
     </table>
